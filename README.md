@@ -9,8 +9,8 @@ Using Puppeteer and Nodejs to scrape product data from JensonUSA.com
 
 ## Installation
 
-npm install
-npm start
+`npm install`
+`npm start`
 
 This will create a `data` folder with .json files containing all the scraped data for each product category (submenu).
 
