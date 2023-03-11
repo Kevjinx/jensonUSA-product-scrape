@@ -4,11 +4,11 @@ import fs from 'fs';
 (async () => {
   console.log('Running Puppeteer script...');
   const browser = await puppeteer.launch({
-    headless: false,
-    args: ['--disable-web-security'],
+    headless: true,
+    args: ['--disable-web-security'], // This is needed to bypass CORS
   });
   const page = await browser.newPage();
-  await page.setBypassCSP(true);
+  await page.setBypassCSP(true); // This is needed to bypass CORS
 
   await page.goto('https://www.jensonusa.com/Marin-Rift-Zone-1-Bike-2022');
 
@@ -25,6 +25,27 @@ import fs from 'fs';
       }
     });
     return array;
+  });
+
+  const features = await page.evaluate(() => {
+    const productSection = document.querySelector('#product-description');
+    const allFeatures = productSection.querySelectorAll('ul > li');
+    let featuresArray = [];
+    allFeatures.forEach((feature) => {
+      featuresArray.push(feature.innerHTML);
+    });
+    return featuresArray;
+  });
+
+  const marketingHype = await page.evaluate(() => {
+    const hypeText = Array.from(
+      document.querySelectorAll('#product-description > p')
+    ).slice(0, 2);
+    let hypeArray = [];
+    hypeText.forEach((text) => {
+      hypeArray.push(text.innerText);
+    });
+    return hypeArray;
   });
 
   const name = await page.evaluate(() => {
@@ -57,11 +78,11 @@ import fs from 'fs';
     tableRows.forEach((row) => {
       const sizes = Array.from(tableRows[0].querySelectorAll('td'));
       const header = row.querySelector('th');
-      const tdata = row.querySelectorAll('td');
+      const tData = row.querySelectorAll('td');
       let geometryObj = {
         [header.innerText]: {},
       };
-      tdata.forEach((td, index) => {
+      tData.forEach((td, index) => {
         const size = sizes[index].innerText;
         const value = td.innerText;
         geometryObj[header.innerText][size] = value;
@@ -102,9 +123,6 @@ import fs from 'fs';
     const currentPrice = document.querySelector('#price').innerText;
     return { msrp, currentPrice };
   });
-
-  await page.click('#prod-tab-D > a');
-  await page.waitForSelector('#tt-reviews-summary');
 
   const reviews = await page.evaluate(() => {
     const allReviews = document.querySelectorAll('div.tt-u-spacing--sm');
@@ -149,12 +167,14 @@ import fs from 'fs';
     suggestedRiderHeight,
     prices,
     reviews,
+    marketingHype,
+    features,
   };
 
-  fs.writeFile('data.json', JSON.stringify(data), (err) => {
+  fs.writeFile('oneBike.json', JSON.stringify(data), (err) => {
     if (err) throw err;
     console.log('The file has been saved!');
   });
 
-  // await browser.close();
+  await browser.close();
 })();

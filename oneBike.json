@@ -239,5 +239,18 @@
       "ratingText": "Rated 5 out of 5",
       "reviewDate": "Dec 18, 2022"
     }
+  ],
+  "marketingHype": [
+    "Trail riding is all about having fun. Trail bikes are designed to climb efficiently and descend with ease. The Marin Rift Zone 1 Bike is a speed-oriented bike that is created for the rider looking for the speed and rollover capabilities of 29\" wheels in a trail-capable package. It has a Series 3 6061 aluminum frame that has 125mm of travel on the rear and 130mm of travel on the front. The frame features Boost spacing, has ISCG05 tabs, and has internal cable routing.",
+    "The Rift Zone 1 comes with a Shimano Deore 11-speed drivetrain that includes a cassette that has a hill-crushing 11-51T gear range that makes climbing and riding in rough terrain a breeze. Shimano BR-MT201 hydraulic disc brakes provide excellent stopping power so you can descend under control. Marin aluminum double-wall rims are paired with Vee Tire Crown Gem tires that can be set up tubeless so you can ditch the tubes and drop the tire pressure for a smoother ride, better traction, and fewer flats."
+  ],
+  "features": [
+    "<strong>Series 3 6061 aluminum frame</strong> with MultiTrac Suspension, Boost spacing, and ISCG05 tabs",
+    "<strong>Shimano Deore drivetrain</strong> performs well in demanding terrain",
+    "<strong>Shimano MT201 hydraulic disc brakes</strong> provide confidence-inspiring stopping power",
+    "<strong>Tubeless-ready rims and tires</strong> for a smoother ride, better traction, and fewer flats",
+    "<strong>Internal cable routing</strong> for a rattle-free and clean cable set up",
+    "<a href=\"#tab1\" data-toggle=\"tab\">METRIC</a>",
+    "<a href=\"#tab2\" data-toggle=\"tab\">INCH</a>"
   ]
 }
