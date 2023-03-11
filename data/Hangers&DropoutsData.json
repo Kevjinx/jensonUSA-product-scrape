@@ -1,0 +1,1336 @@
+[
+  {
+    "Id": 436191,
+    "Name": "SRAM Universal Derailleur Hanger",
+    "Code": "FR001348",
+    "Url": "/SRAM-Universal-Derailleur-Hanger",
+    "IsOnSale": false,
+    "IsNew": false,
+    "Created": "2022-04-13T16:43:26+00:00",
+    "SelectedVariant": {
+      "Code": "FR001348 ALUMINUM, BLACK",
+      "Color": "",
+      "ListPrice": { "Amount": 16, "Currency": "USD" },
+      "MsrpPrice": { "Amount": 16, "Currency": "USD" },
+      "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/14123-en-fr001348_2-black.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+      "SwatchImageUrl": "/globalassets/digizuite/14122-en-fr001348-black-swatch.jpg",
+      "SavingPercent": 0,
+      "Order": 0
+    },
+    "Variants": [
+      {
+        "Code": "FR001348 ALUMINUM, BLACK",
+        "Color": "",
+        "ListPrice": { "Amount": 16, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 16, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/14123-en-fr001348_2-black.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "/globalassets/digizuite/14122-en-fr001348-black-swatch.jpg",
+        "SavingPercent": 0,
+        "Order": 0
+      }
+    ],
+    "FacetFieldsDictionary": {},
+    "CatalogNodeCodes": [
+      "SRAM",
+      "C0000QHS",
+      "C0000QHP",
+      "C0000QEF",
+      "5637144578",
+      "5637144576"
+    ],
+    "Price": ["$16.00"],
+    "SortPrice": 16,
+    "Discount": 0,
+    "Brand": "SRAM",
+    "AverageRating": 0,
+    "NumberOfReviews": 0,
+    "ImageUrl": null,
+    "Published": "2022-04-23T15:03:35+00:00",
+    "ColorVariantsToShow": []
+  },
+  {
+    "Id": 32008,
+    "Name": "Problem Solvers Universal Der. Hanger",
+    "Code": "FR243Z03",
+    "Url": "/Problem-Solvers-Universal-Der-Hanger",
+    "IsOnSale": true,
+    "IsNew": false,
+    "Created": "2018-01-04T18:55:46.983+00:00",
+    "SelectedVariant": {
+      "Code": "FR243Z03BLK",
+      "Color": "",
+      "ListPrice": { "Amount": 19.99, "Currency": "USD" },
+      "MsrpPrice": { "Amount": 22.9, "Currency": "USD" },
+      "ImageUrl": null,
+      "SwatchImageUrl": null,
+      "SavingPercent": 13,
+      "Order": 0
+    },
+    "Variants": [
+      {
+        "Code": "FR243Z03BLK",
+        "Color": "",
+        "ListPrice": { "Amount": 19.99, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 22.9, "Currency": "USD" },
+        "ImageUrl": null,
+        "SwatchImageUrl": null,
+        "SavingPercent": 13,
+        "Order": 0
+      }
+    ],
+    "FacetFieldsDictionary": { "MultiValueDiscipline": ["Road"] },
+    "CatalogNodeCodes": [
+      "Problem Solvers",
+      "C0000QHS",
+      "C0000QHP",
+      "C0000QEF",
+      "5637144578",
+      "5637144576"
+    ],
+    "Price": ["$19.99"],
+    "SortPrice": 19.99,
+    "Discount": 13,
+    "Brand": "Problem Solvers",
+    "AverageRating": 5,
+    "NumberOfReviews": 1,
+    "ImageUrl": "https://jnsn.imgix.net/globalassets/product-images---all-assets/problem-solvers/fr243z03.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+    "Published": "2017-06-30T23:52:02.417+00:00",
+    "ColorVariantsToShow": []
+  },
+  {
+    "Id": 41081,
+    "Name": "Surly Mds Thru Axle Dropouts",
+    "Code": "FR223Z03",
+    "Url": "/Surly-MDS-Thru-Axle-Dropouts",
+    "IsOnSale": false,
+    "IsNew": false,
+    "Created": "2018-12-14T08:20:11.983+00:00",
+    "SelectedVariant": {
+      "Code": "FR223Z03          PAIR",
+      "Color": "",
+      "ListPrice": { "Amount": 33.5, "Currency": "USD" },
+      "MsrpPrice": { "Amount": 33.5, "Currency": "USD" },
+      "ImageUrl": null,
+      "SwatchImageUrl": null,
+      "SavingPercent": 0,
+      "Order": 0
+    },
+    "Variants": [
+      {
+        "Code": "FR223Z03          PAIR",
+        "Color": "",
+        "ListPrice": { "Amount": 33.5, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 33.5, "Currency": "USD" },
+        "ImageUrl": null,
+        "SwatchImageUrl": null,
+        "SavingPercent": 0,
+        "Order": 0
+      }
+    ],
+    "FacetFieldsDictionary": {},
+    "CatalogNodeCodes": [
+      "Surly",
+      "C0000QHS",
+      "C0000QHP",
+      "C0000QEF",
+      "5637144578",
+      "5637144576"
+    ],
+    "Price": ["$33.50"],
+    "SortPrice": 33.5,
+    "Discount": 0,
+    "Brand": "Surly",
+    "AverageRating": 0,
+    "NumberOfReviews": 0,
+    "ImageUrl": "https://jnsn.imgix.net/globalassets/product-images---all-assets/surly/fr223z03.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+    "Published": "2017-07-01T00:55:50.593+00:00",
+    "ColorVariantsToShow": []
+  },
+  {
+    "Id": 47136,
+    "Name": "Wolf Tooth Goatlink 10Speed",
+    "Code": "RD213Z00",
+    "Url": "/Wolf-Tooth-Goatlink-10Speed",
+    "IsOnSale": false,
+    "IsNew": false,
+    "Created": "2018-01-04T19:14:56.287+00:00",
+    "SelectedVariant": {
+      "Code": "RD213Z00BLK  10   SHIM",
+      "Color": "",
+      "ListPrice": { "Amount": 24.95, "Currency": "USD" },
+      "MsrpPrice": { "Amount": 24.95, "Currency": "USD" },
+      "ImageUrl": null,
+      "SwatchImageUrl": null,
+      "SavingPercent": 0,
+      "Order": 0
+    },
+    "Variants": [
+      {
+        "Code": "RD213Z00BLK  10   SHIM",
+        "Color": "",
+        "ListPrice": { "Amount": 24.95, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 24.95, "Currency": "USD" },
+        "ImageUrl": null,
+        "SwatchImageUrl": null,
+        "SavingPercent": 0,
+        "Order": 0
+      }
+    ],
+    "FacetFieldsDictionary": { "MultiValueDiscipline": ["Road"] },
+    "CatalogNodeCodes": [
+      "Wolf Tooth Components",
+      "5637251078",
+      "5637223327",
+      "Featured",
+      "5637144578",
+      "5637144576",
+      "C0000QHS",
+      "C0000QHP",
+      "C0000QEF"
+    ],
+    "Price": ["$24.95"],
+    "SortPrice": 24.95,
+    "Discount": 0,
+    "Brand": "Wolf Tooth Components",
+    "AverageRating": 4.8,
+    "NumberOfReviews": 50,
+    "ImageUrl": "https://jnsn.imgix.net/globalassets/product-images---all-assets/wolf-tooth-components/rd213z00.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+    "Published": "2017-07-01T01:44:15.517+00:00",
+    "ColorVariantsToShow": []
+  },
+  {
+    "Id": 50575,
+    "Name": "Wolf Tooth Roadlink",
+    "Code": "RD208Z00",
+    "Url": "/Wolf-Tooth-Roadlink",
+    "IsOnSale": false,
+    "IsNew": false,
+    "Created": "2018-12-20T23:34:03.6+00:00",
+    "SelectedVariant": {
+      "Code": "RD208Z00     101S",
+      "Color": "",
+      "ListPrice": { "Amount": 21.95, "Currency": "USD" },
+      "MsrpPrice": { "Amount": 21.95, "Currency": "USD" },
+      "ImageUrl": null,
+      "SwatchImageUrl": null,
+      "SavingPercent": 0,
+      "Order": 0
+    },
+    "Variants": [
+      {
+        "Code": "RD208Z00     101S",
+        "Color": "",
+        "ListPrice": { "Amount": 21.95, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 21.95, "Currency": "USD" },
+        "ImageUrl": null,
+        "SwatchImageUrl": null,
+        "SavingPercent": 0,
+        "Order": 0
+      }
+    ],
+    "FacetFieldsDictionary": { "MultiValueDiscipline": ["Road"] },
+    "CatalogNodeCodes": [
+      "Wolf Tooth Components",
+      "5637251078",
+      "5637223327",
+      "Featured",
+      "5637144578",
+      "5637144576",
+      "C0000QHS",
+      "C0000QHP",
+      "C0000QEF",
+      "Highest-Rated-Gear_1"
+    ],
+    "Price": ["$21.95"],
+    "SortPrice": 21.95,
+    "Discount": 0,
+    "Brand": "Wolf Tooth Components",
+    "AverageRating": 4.7,
+    "NumberOfReviews": 39,
+    "ImageUrl": "https://jnsn.imgix.net/globalassets/product-images---all-assets/wolf-tooth-components/rd208z00.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+    "Published": "2017-07-01T02:11:38.843+00:00",
+    "ColorVariantsToShow": []
+  },
+  {
+    "Id": 367017,
+    "Name": "Yeti 12x148 Hanger Kit",
+    "Code": "FR001179",
+    "Url": "/Yeti-12x148-Hanger-Kit-4",
+    "IsOnSale": false,
+    "IsNew": false,
+    "Created": "2020-09-15T17:38:14+00:00",
+    "SelectedVariant": {
+      "Code": "FR001179 12X148-KIT",
+      "Color": "Black",
+      "ListPrice": { "Amount": 30, "Currency": "USD" },
+      "MsrpPrice": { "Amount": 30, "Currency": "USD" },
+      "ImageUrl": "https://jnsn.imgix.net/globalassets/product-images---all-assets/yeti-cycles/fr001179-black.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+      "SwatchImageUrl": "https://jnsn.imgix.net/globalassets/product-images---all-assets/yeti-cycles/fr001179-black-swatch.jpg?w=30&h=30&fit=max&auto=format&q=70",
+      "SavingPercent": 0,
+      "Order": 0
+    },
+    "Variants": [
+      {
+        "Code": "FR001179 12X148-KIT",
+        "Color": "Black",
+        "ListPrice": { "Amount": 30, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 30, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/product-images---all-assets/yeti-cycles/fr001179-black.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "https://jnsn.imgix.net/globalassets/product-images---all-assets/yeti-cycles/fr001179-black-swatch.jpg?w=30&h=30&fit=max&auto=format&q=70",
+        "SavingPercent": 0,
+        "Order": 0
+      },
+      {
+        "Code": "FR001179 TURQUOISE 12X148",
+        "Color": "Turquoise",
+        "ListPrice": { "Amount": 30, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 30, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/product-images---all-assets/yeti-cycles/fr001179-turquoise.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "https://jnsn.imgix.net/globalassets/product-images---all-assets/yeti-cycles/fr001179-turquoise-swatch.jpg?w=30&h=30&fit=max&auto=format&q=70",
+        "SavingPercent": 0,
+        "Order": 0
+      }
+    ],
+    "FacetFieldsDictionary": {
+      "Color": ["Black", "Turquoise"],
+      "MultiValueDiscipline": ["MTB"]
+    },
+    "CatalogNodeCodes": [
+      "C0000QHS",
+      "C0000QHP",
+      "C0000QEF",
+      "5637144578",
+      "5637144576",
+      "Yeti Cycles"
+    ],
+    "Price": ["$30.00"],
+    "SortPrice": 30,
+    "Discount": 0,
+    "Brand": "Yeti Cycles",
+    "AverageRating": 5,
+    "NumberOfReviews": 1,
+    "ImageUrl": null,
+    "Published": "2020-10-07T17:14:14+00:00",
+    "ColorVariantsToShow": [
+      {
+        "Code": "FR001179 12X148-KIT",
+        "Color": "Black",
+        "ListPrice": { "Amount": 30, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 30, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/product-images---all-assets/yeti-cycles/fr001179-black.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "https://jnsn.imgix.net/globalassets/product-images---all-assets/yeti-cycles/fr001179-black-swatch.jpg?w=30&h=30&fit=max&auto=format&q=70",
+        "SavingPercent": 0,
+        "Order": 0
+      },
+      {
+        "Code": "FR001179 TURQUOISE 12X148",
+        "Color": "Turquoise",
+        "ListPrice": { "Amount": 30, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 30, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/product-images---all-assets/yeti-cycles/fr001179-turquoise.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "https://jnsn.imgix.net/globalassets/product-images---all-assets/yeti-cycles/fr001179-turquoise-swatch.jpg?w=30&h=30&fit=max&auto=format&q=70",
+        "SavingPercent": 0,
+        "Order": 0
+      }
+    ]
+  },
+  {
+    "Id": 6130,
+    "Name": "Yeti Cycles 142mm Chip Dropouts",
+    "Code": "FR263Z02",
+    "Url": "/Yeti-Cycles-142mm-Chip-Dropouts",
+    "IsOnSale": false,
+    "IsNew": false,
+    "Created": "2018-01-04T18:43:32.837+00:00",
+    "SelectedVariant": {
+      "Code": "FR263Z02     142M QUIK",
+      "Color": "",
+      "ListPrice": { "Amount": 40, "Currency": "USD" },
+      "MsrpPrice": { "Amount": 40, "Currency": "USD" },
+      "ImageUrl": null,
+      "SwatchImageUrl": null,
+      "SavingPercent": 0,
+      "Order": 0
+    },
+    "Variants": [
+      {
+        "Code": "FR263Z02     142M QUIK",
+        "Color": "",
+        "ListPrice": { "Amount": 40, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 40, "Currency": "USD" },
+        "ImageUrl": null,
+        "SwatchImageUrl": null,
+        "SavingPercent": 0,
+        "Order": 0
+      }
+    ],
+    "FacetFieldsDictionary": { "MultiValueDiscipline": ["MTB"] },
+    "CatalogNodeCodes": [
+      "Yeti Cycles",
+      "C0000QHS",
+      "C0000QHP",
+      "C0000QEF",
+      "5637144578",
+      "5637144576"
+    ],
+    "Price": ["$40.00"],
+    "SortPrice": 40,
+    "Discount": 0,
+    "Brand": "Yeti Cycles",
+    "AverageRating": 4.9,
+    "NumberOfReviews": 10,
+    "ImageUrl": "https://jnsn.imgix.net/globalassets/product-images---all-assets/yeti-cycles/fr263z02.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+    "Published": "2017-06-30T20:58:04.393+00:00",
+    "ColorVariantsToShow": []
+  },
+  {
+    "Id": 34068,
+    "Name": "Banshee 142mm 26 Drop Outs 2016 or Older",
+    "Code": "FR240Z09",
+    "Url": "/Banshee-142mm-26-Drop-Outs-2016-Or-Older",
+    "IsOnSale": true,
+    "IsNew": false,
+    "Created": "2018-01-25T10:05:25.043+00:00",
+    "SelectedVariant": {
+      "Code": "FR240Z09BLK  142M",
+      "Color": "Black",
+      "ListPrice": { "Amount": 19.94, "Currency": "USD" },
+      "MsrpPrice": { "Amount": 100, "Currency": "USD" },
+      "ImageUrl": null,
+      "SwatchImageUrl": null,
+      "SavingPercent": 80,
+      "Order": 0
+    },
+    "Variants": [
+      {
+        "Code": "FR240Z09BLK  142M",
+        "Color": "Black",
+        "ListPrice": { "Amount": 19.94, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 100, "Currency": "USD" },
+        "ImageUrl": null,
+        "SwatchImageUrl": null,
+        "SavingPercent": 80,
+        "Order": 0
+      }
+    ],
+    "FacetFieldsDictionary": {
+      "Color": ["Black"],
+      "MultiValueDiscipline": ["MTB"]
+    },
+    "CatalogNodeCodes": [
+      "Banshee Bikes",
+      "CompWS",
+      "WarehouseSale2020",
+      "Sales",
+      "5637144578",
+      "5637144576",
+      "C0000QHS",
+      "C0000QHP",
+      "C0000QEF"
+    ],
+    "Price": ["$19.94"],
+    "SortPrice": 19.94,
+    "Discount": 80,
+    "Brand": "Banshee Bikes",
+    "AverageRating": 5,
+    "NumberOfReviews": 1,
+    "ImageUrl": "https://jnsn.imgix.net/globalassets/product-images---all-assets/banshee-bikes/fr240z09.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+    "Published": "2017-07-01T00:06:41.117+00:00",
+    "ColorVariantsToShow": []
+  },
+  {
+    "Id": 7567,
+    "Name": "Niner Derailleur Hanger",
+    "Code": "FR248Z01",
+    "Url": "/Niner-Derailleur-Hanger-1",
+    "IsOnSale": false,
+    "IsNew": false,
+    "Created": "2018-12-05T16:14:02.343+00:00",
+    "SelectedVariant": {
+      "Code": "FR248Z01BLK",
+      "Color": "",
+      "ListPrice": { "Amount": 14, "Currency": "USD" },
+      "MsrpPrice": { "Amount": 14, "Currency": "USD" },
+      "ImageUrl": null,
+      "SwatchImageUrl": null,
+      "SavingPercent": 0,
+      "Order": 0
+    },
+    "Variants": [
+      {
+        "Code": "FR248Z01BLK",
+        "Color": "",
+        "ListPrice": { "Amount": 14, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 14, "Currency": "USD" },
+        "ImageUrl": null,
+        "SwatchImageUrl": null,
+        "SavingPercent": 0,
+        "Order": 0
+      }
+    ],
+    "FacetFieldsDictionary": { "MultiValueDiscipline": ["Road"] },
+    "CatalogNodeCodes": [
+      "Niner",
+      "C0000QHS",
+      "C0000QHP",
+      "C0000QEF",
+      "5637144578",
+      "5637144576"
+    ],
+    "Price": ["$14.00"],
+    "SortPrice": 14,
+    "Discount": 0,
+    "Brand": "Niner",
+    "AverageRating": 4.8,
+    "NumberOfReviews": 4,
+    "ImageUrl": "https://jnsn.imgix.net/globalassets/product-images---all-assets/niner/fr248z01.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+    "Published": "2017-06-30T21:05:06.507+00:00",
+    "ColorVariantsToShow": []
+  },
+  {
+    "Id": 5449,
+    "Name": "Yeti ASR-5 QR Derailler Hanger",
+    "Code": "FR270Z02",
+    "Url": "/Yeti-ASR-5-QR-Derailler-Hanger",
+    "IsOnSale": false,
+    "IsNew": false,
+    "Created": "2018-01-04T18:41:34.763+00:00",
+    "SelectedVariant": {
+      "Code": "FR270Z02          A",
+      "Color": "",
+      "ListPrice": { "Amount": 19.99, "Currency": "USD" },
+      "MsrpPrice": { "Amount": 0, "Currency": "USD" },
+      "ImageUrl": null,
+      "SwatchImageUrl": null,
+      "SavingPercent": 0,
+      "Order": 0
+    },
+    "Variants": [
+      {
+        "Code": "FR270Z02          A",
+        "Color": "",
+        "ListPrice": { "Amount": 19.99, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 0, "Currency": "USD" },
+        "ImageUrl": null,
+        "SwatchImageUrl": null,
+        "SavingPercent": 0,
+        "Order": 0
+      }
+    ],
+    "FacetFieldsDictionary": { "MultiValueDiscipline": ["Road"] },
+    "CatalogNodeCodes": [
+      "Yeti Cycles",
+      "C0000QHS",
+      "C0000QHP",
+      "C0000QEF",
+      "5637144578",
+      "5637144576"
+    ],
+    "Price": ["$19.99"],
+    "SortPrice": 19.99,
+    "Discount": 0,
+    "Brand": "Yeti Cycles",
+    "AverageRating": 4.5,
+    "NumberOfReviews": 2,
+    "ImageUrl": "https://jnsn.imgix.net/globalassets/product-images---all-assets/yeti-cycles/fr270z02.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+    "Published": "2017-06-30T20:54:24.963+00:00",
+    "ColorVariantsToShow": []
+  },
+  {
+    "Id": 2595,
+    "Name": "Wheels Manufacturing Hanger for GT",
+    "Code": "FR406Z01",
+    "Url": "/Wheels-Manufacturing-Hanger-For-GT",
+    "IsOnSale": true,
+    "IsNew": false,
+    "Created": "2018-10-30T20:09:01.68+00:00",
+    "SelectedVariant": {
+      "Code": "FR406Z01          9",
+      "Color": "",
+      "ListPrice": { "Amount": 6.4, "Currency": "USD" },
+      "MsrpPrice": { "Amount": 32, "Currency": "USD" },
+      "ImageUrl": null,
+      "SwatchImageUrl": null,
+      "SavingPercent": 80,
+      "Order": 0
+    },
+    "Variants": [
+      {
+        "Code": "FR406Z01          9",
+        "Color": "",
+        "ListPrice": { "Amount": 6.4, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 32, "Currency": "USD" },
+        "ImageUrl": null,
+        "SwatchImageUrl": null,
+        "SavingPercent": 80,
+        "Order": 0
+      }
+    ],
+    "FacetFieldsDictionary": { "MultiValueDiscipline": ["Road"] },
+    "CatalogNodeCodes": [
+      "Wheels Manufacturing",
+      "CompWS",
+      "WarehouseSale2020",
+      "Sales",
+      "5637144578",
+      "5637144576",
+      "5637235329",
+      "5637149076",
+      "5637251078",
+      "5637223327",
+      "Featured",
+      "C0000QHS",
+      "C0000QHP",
+      "C0000QEF"
+    ],
+    "Price": ["$6.40"],
+    "SortPrice": 6.4,
+    "Discount": 80,
+    "Brand": "Wheels Manufacturing",
+    "AverageRating": 0,
+    "NumberOfReviews": 0,
+    "ImageUrl": "https://jnsn.imgix.net/globalassets/product-images---all-assets/wheels-manufacturing/fr406z01.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+    "Published": "2017-06-29T13:31:37.56+00:00",
+    "ColorVariantsToShow": []
+  },
+  {
+    "Id": 349339,
+    "Name": "Orbea Occam/Wild FS 2020 Rear Derailleur Hanger",
+    "Code": "FR001125",
+    "Url": "/Orbea-OccamWild-FS-2020-Rear-Derailleur-Hanger",
+    "IsOnSale": false,
+    "IsNew": false,
+    "Created": "2020-01-14T22:18:23+00:00",
+    "SelectedVariant": {
+      "Code": "FR001125 HANGER 2020",
+      "Color": "Black",
+      "ListPrice": { "Amount": 25, "Currency": "USD" },
+      "MsrpPrice": { "Amount": 25, "Currency": "USD" },
+      "ImageUrl": "https://jnsn.imgix.net/globalassets/product-images---all-assets/orbea/fr001125-black.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+      "SwatchImageUrl": "/globalassets/product-images---all-assets/orbea/fr001125-black-swatch.jpg",
+      "SavingPercent": 0,
+      "Order": 0
+    },
+    "Variants": [
+      {
+        "Code": "FR001125 HANGER 2020",
+        "Color": "Black",
+        "ListPrice": { "Amount": 25, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 25, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/product-images---all-assets/orbea/fr001125-black.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "/globalassets/product-images---all-assets/orbea/fr001125-black-swatch.jpg",
+        "SavingPercent": 0,
+        "Order": 0
+      }
+    ],
+    "FacetFieldsDictionary": {
+      "Color": ["Black"],
+      "MultiValueDiscipline": ["MTB"]
+    },
+    "CatalogNodeCodes": [
+      "Orbea",
+      "C0000QHS",
+      "C0000QHP",
+      "C0000QEF",
+      "5637144578",
+      "5637144576"
+    ],
+    "Price": ["$25.00"],
+    "SortPrice": 25,
+    "Discount": 0,
+    "Brand": "Orbea",
+    "AverageRating": 0,
+    "NumberOfReviews": 0,
+    "ImageUrl": null,
+    "Published": "2020-03-16T14:30:58+00:00",
+    "ColorVariantsToShow": []
+  },
+  {
+    "Id": 4197,
+    "Name": "Yeti Standard Derailleur Hanger",
+    "Code": "RD298Z00",
+    "Url": "/Yeti-Standard-Derailleur-Hanger",
+    "IsOnSale": false,
+    "IsNew": false,
+    "Created": "2018-01-04T18:38:44.077+00:00",
+    "SelectedVariant": {
+      "Code": "RD298Z00          1",
+      "Color": "Black",
+      "ListPrice": { "Amount": 10, "Currency": "USD" },
+      "MsrpPrice": { "Amount": 10, "Currency": "USD" },
+      "ImageUrl": "https://jnsn.imgix.net/globalassets/product-images---all-assets/yeti-cycles/rd298z00-black.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+      "SwatchImageUrl": "/globalassets/product-images---all-assets/yeti-cycles/rd298z00-black-swatch.jpg",
+      "SavingPercent": 0,
+      "Order": 0
+    },
+    "Variants": [
+      {
+        "Code": "RD298Z00          1",
+        "Color": "Black",
+        "ListPrice": { "Amount": 10, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 10, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/product-images---all-assets/yeti-cycles/rd298z00-black.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "/globalassets/product-images---all-assets/yeti-cycles/rd298z00-black-swatch.jpg",
+        "SavingPercent": 0,
+        "Order": 0
+      }
+    ],
+    "FacetFieldsDictionary": {
+      "Color": ["Black"],
+      "MultiValueDiscipline": ["Road"]
+    },
+    "CatalogNodeCodes": [
+      "Yeti Cycles",
+      "C0000QHS",
+      "C0000QHP",
+      "C0000QEF",
+      "5637144578",
+      "5637144576"
+    ],
+    "Price": ["$10.00"],
+    "SortPrice": 10,
+    "Discount": 0,
+    "Brand": "Yeti Cycles",
+    "AverageRating": 3.3,
+    "NumberOfReviews": 3,
+    "ImageUrl": null,
+    "Published": "2017-06-29T22:00:22.297+00:00",
+    "ColorVariantsToShow": []
+  },
+  {
+    "Id": 435602,
+    "Name": "Orbea Occam Rallon 12 Rear Derailleur Hanger",
+    "Code": "FR001347",
+    "Url": "/Orbea-Occam-Rallon-12-Rear-Derailleur-Hanger",
+    "IsOnSale": false,
+    "IsNew": false,
+    "Created": "2022-04-05T23:57:28+00:00",
+    "SelectedVariant": {
+      "Code": "FR001347 REAR HANGER 9M",
+      "Color": "Black",
+      "ListPrice": { "Amount": 66, "Currency": "USD" },
+      "MsrpPrice": { "Amount": 66, "Currency": "USD" },
+      "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/13408-en-fr001347-grey.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+      "SwatchImageUrl": "/globalassets/digizuite/13407-en-fr001347-grey-swatch.jpg",
+      "SavingPercent": 0,
+      "Order": 0
+    },
+    "Variants": [
+      {
+        "Code": "FR001347 REAR HANGER 9M",
+        "Color": "Black",
+        "ListPrice": { "Amount": 66, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 66, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/13408-en-fr001347-grey.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "/globalassets/digizuite/13407-en-fr001347-grey-swatch.jpg",
+        "SavingPercent": 0,
+        "Order": 0
+      }
+    ],
+    "FacetFieldsDictionary": {
+      "Color": ["Black"],
+      "MultiValueDiscipline": ["MTB"]
+    },
+    "CatalogNodeCodes": [
+      "Orbea",
+      "C0000QHS",
+      "C0000QHP",
+      "C0000QEF",
+      "5637144578",
+      "5637144576"
+    ],
+    "Price": ["$66.00"],
+    "SortPrice": 66,
+    "Discount": 0,
+    "Brand": "Orbea",
+    "AverageRating": 0,
+    "NumberOfReviews": 0,
+    "ImageUrl": null,
+    "Published": "2022-04-21T20:53:06+00:00",
+    "ColorVariantsToShow": []
+  },
+  {
+    "Id": 9773,
+    "Name": "Niner CX Derailleur Hanger",
+    "Code": "FR213Z00",
+    "Url": "/Niner-CX-Derailleur-Hanger",
+    "IsOnSale": false,
+    "IsNew": false,
+    "Created": "2018-12-05T16:14:01.563+00:00",
+    "SelectedVariant": {
+      "Code": "FR213Z00BLK",
+      "Color": "",
+      "ListPrice": { "Amount": 12, "Currency": "USD" },
+      "MsrpPrice": { "Amount": 12, "Currency": "USD" },
+      "ImageUrl": null,
+      "SwatchImageUrl": null,
+      "SavingPercent": 0,
+      "Order": 0
+    },
+    "Variants": [
+      {
+        "Code": "FR213Z00BLK",
+        "Color": "",
+        "ListPrice": { "Amount": 12, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 12, "Currency": "USD" },
+        "ImageUrl": null,
+        "SwatchImageUrl": null,
+        "SavingPercent": 0,
+        "Order": 0
+      }
+    ],
+    "FacetFieldsDictionary": { "MultiValueDiscipline": ["Road"] },
+    "CatalogNodeCodes": [
+      "Niner",
+      "C0000QHS",
+      "C0000QHP",
+      "C0000QEF",
+      "5637144578",
+      "5637144576"
+    ],
+    "Price": ["$12.00"],
+    "SortPrice": 12,
+    "Discount": 0,
+    "Brand": "Niner",
+    "AverageRating": 5,
+    "NumberOfReviews": 1,
+    "ImageUrl": "https://jnsn.imgix.net/globalassets/product-images---all-assets/niner/fr213z00.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+    "Published": "2017-06-30T21:16:53.283+00:00",
+    "ColorVariantsToShow": []
+  },
+  {
+    "Id": 190882,
+    "Name": "Orbea Terra/Avant/Orca Disc Hanger",
+    "Code": "FR180Z00",
+    "Url": "/Orbea-TerraAvantOrca-Disc-Hanger",
+    "IsOnSale": false,
+    "IsNew": false,
+    "Created": "2017-12-12T19:50:21+00:00",
+    "SelectedVariant": {
+      "Code": "FR180Z00     142X",
+      "Color": "Black",
+      "ListPrice": { "Amount": 19, "Currency": "USD" },
+      "MsrpPrice": { "Amount": 19, "Currency": "USD" },
+      "ImageUrl": "https://jnsn.imgix.net/globalassets/product-images---all-assets/orbea/fr180z00-black.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+      "SwatchImageUrl": "/globalassets/product-images---all-assets/orbea/fr180z00-black-swatch.jpg",
+      "SavingPercent": 0,
+      "Order": 0
+    },
+    "Variants": [
+      {
+        "Code": "FR180Z00     142X",
+        "Color": "Black",
+        "ListPrice": { "Amount": 19, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 19, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/product-images---all-assets/orbea/fr180z00-black.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "/globalassets/product-images---all-assets/orbea/fr180z00-black-swatch.jpg",
+        "SavingPercent": 0,
+        "Order": 0
+      }
+    ],
+    "FacetFieldsDictionary": {
+      "Color": ["Black"],
+      "MultiValueDiscipline": ["Road"]
+    },
+    "CatalogNodeCodes": [
+      "Orbea",
+      "C0000QHS",
+      "C0000QHP",
+      "C0000QEF",
+      "5637144578",
+      "5637144576"
+    ],
+    "Price": ["$19.00"],
+    "SortPrice": 19,
+    "Discount": 0,
+    "Brand": "Orbea",
+    "AverageRating": 0,
+    "NumberOfReviews": 0,
+    "ImageUrl": null,
+    "Published": "2018-08-09T23:03:51+00:00",
+    "ColorVariantsToShow": []
+  },
+  {
+    "Id": 5451,
+    "Name": "Yeti 142mm X 12mm Derailleur Hanger",
+    "Code": "FR270Z03",
+    "Url": "/Yeti-142mm-X-12mm-Derailleur-Hanger",
+    "IsOnSale": false,
+    "IsNew": false,
+    "Created": "2018-01-04T18:41:34.95+00:00",
+    "SelectedVariant": {
+      "Code": "FR270Z03          A",
+      "Color": "",
+      "ListPrice": { "Amount": 19.99, "Currency": "USD" },
+      "MsrpPrice": { "Amount": 0, "Currency": "USD" },
+      "ImageUrl": null,
+      "SwatchImageUrl": null,
+      "SavingPercent": 0,
+      "Order": 0
+    },
+    "Variants": [
+      {
+        "Code": "FR270Z03          A",
+        "Color": "",
+        "ListPrice": { "Amount": 19.99, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 0, "Currency": "USD" },
+        "ImageUrl": null,
+        "SwatchImageUrl": null,
+        "SavingPercent": 0,
+        "Order": 0
+      }
+    ],
+    "FacetFieldsDictionary": { "MultiValueDiscipline": ["Road"] },
+    "CatalogNodeCodes": [
+      "Yeti Cycles",
+      "C0000QHS",
+      "C0000QHP",
+      "C0000QEF",
+      "5637144578",
+      "5637144576"
+    ],
+    "Price": ["$19.99"],
+    "SortPrice": 19.99,
+    "Discount": 0,
+    "Brand": "Yeti Cycles",
+    "AverageRating": 5,
+    "NumberOfReviews": 19,
+    "ImageUrl": "https://jnsn.imgix.net/globalassets/product-images---all-assets/yeti-cycles/fr270z03.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+    "Published": "2017-06-30T20:54:25.323+00:00",
+    "ColorVariantsToShow": []
+  },
+  {
+    "Id": 354937,
+    "Name": "Orbea Gain Aluminum Derailleur Hanger 2018/2019",
+    "Code": "FR001147",
+    "Url": "/Orbea-Gain-Aluminum-Derailleur-Hanger-20182019",
+    "IsOnSale": false,
+    "IsNew": false,
+    "Created": "2020-03-20T19:46:10+00:00",
+    "SelectedVariant": {
+      "Code": "FR001147 GAIN ALLOY",
+      "Color": "Aluminum",
+      "ListPrice": { "Amount": 19, "Currency": "USD" },
+      "MsrpPrice": { "Amount": 19, "Currency": "USD" },
+      "ImageUrl": "https://jnsn.imgix.net/globalassets/product-images---all-assets/orbea/fr001147-aluminum.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+      "SwatchImageUrl": "/globalassets/product-images---all-assets/orbea/fr001147-aluminum-swatch.jpg",
+      "SavingPercent": 0,
+      "Order": 0
+    },
+    "Variants": [
+      {
+        "Code": "FR001147 GAIN ALLOY",
+        "Color": "Aluminum",
+        "ListPrice": { "Amount": 19, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 19, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/product-images---all-assets/orbea/fr001147-aluminum.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "/globalassets/product-images---all-assets/orbea/fr001147-aluminum-swatch.jpg",
+        "SavingPercent": 0,
+        "Order": 0
+      }
+    ],
+    "FacetFieldsDictionary": {
+      "Color": ["Aluminum"],
+      "MultiValueDiscipline": ["MTB"]
+    },
+    "CatalogNodeCodes": [
+      "Orbea",
+      "C0000QHS",
+      "C0000QHP",
+      "C0000QEF",
+      "5637144578",
+      "5637144576"
+    ],
+    "Price": ["$19.00"],
+    "SortPrice": 19,
+    "Discount": 0,
+    "Brand": "Orbea",
+    "AverageRating": 0,
+    "NumberOfReviews": 0,
+    "ImageUrl": null,
+    "Published": "2020-05-21T12:33:03+00:00",
+    "ColorVariantsToShow": []
+  },
+  {
+    "Id": 71127,
+    "Name": "Orbea Occam Derailleur Hanger",
+    "Code": "FR194Z02",
+    "Url": "/Orbea-Occam-Derailleur-Hanger",
+    "IsOnSale": false,
+    "IsNew": false,
+    "Created": "2018-01-04T19:47:11.36+00:00",
+    "SelectedVariant": {
+      "Code": "FR194Z02SIL",
+      "Color": "",
+      "ListPrice": { "Amount": 30, "Currency": "USD" },
+      "MsrpPrice": { "Amount": 30, "Currency": "USD" },
+      "ImageUrl": null,
+      "SwatchImageUrl": null,
+      "SavingPercent": 0,
+      "Order": 0
+    },
+    "Variants": [
+      {
+        "Code": "FR194Z02SIL",
+        "Color": "",
+        "ListPrice": { "Amount": 30, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 30, "Currency": "USD" },
+        "ImageUrl": null,
+        "SwatchImageUrl": null,
+        "SavingPercent": 0,
+        "Order": 0
+      }
+    ],
+    "FacetFieldsDictionary": { "MultiValueDiscipline": ["MTB"] },
+    "CatalogNodeCodes": [
+      "Orbea",
+      "C0000QHS",
+      "C0000QHP",
+      "C0000QEF",
+      "5637144578",
+      "5637144576"
+    ],
+    "Price": ["$30.00"],
+    "SortPrice": 30,
+    "Discount": 0,
+    "Brand": "Orbea",
+    "AverageRating": 5,
+    "NumberOfReviews": 2,
+    "ImageUrl": "https://jnsn.imgix.net/globalassets/product-images---all-assets/orbea/fr194z02.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+    "Published": "2017-07-01T05:45:16.537+00:00",
+    "ColorVariantsToShow": []
+  },
+  {
+    "Id": 46651,
+    "Name": "Yeti 12X142 Derailleur Hanger Kit 2015",
+    "Code": "FR214Z01",
+    "Url": "/Yeti-12X142-Derailleur-Hanger-Kit-2015",
+    "IsOnSale": false,
+    "IsNew": false,
+    "Created": "2018-03-02T17:21:11.987+00:00",
+    "SelectedVariant": {
+      "Code": "FR214Z01BLK",
+      "Color": "",
+      "ListPrice": { "Amount": 26, "Currency": "USD" },
+      "MsrpPrice": { "Amount": 26, "Currency": "USD" },
+      "ImageUrl": null,
+      "SwatchImageUrl": null,
+      "SavingPercent": 0,
+      "Order": 0
+    },
+    "Variants": [
+      {
+        "Code": "FR214Z01BLK",
+        "Color": "",
+        "ListPrice": { "Amount": 26, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 26, "Currency": "USD" },
+        "ImageUrl": null,
+        "SwatchImageUrl": null,
+        "SavingPercent": 0,
+        "Order": 0
+      }
+    ],
+    "FacetFieldsDictionary": { "MultiValueDiscipline": ["MTB"] },
+    "CatalogNodeCodes": [
+      "Yeti Cycles",
+      "C0000QHS",
+      "C0000QHP",
+      "C0000QEF",
+      "5637144578",
+      "5637144576"
+    ],
+    "Price": ["$26.00"],
+    "SortPrice": 26,
+    "Discount": 0,
+    "Brand": "Yeti Cycles",
+    "AverageRating": 5,
+    "NumberOfReviews": 4,
+    "ImageUrl": "https://jnsn.imgix.net/globalassets/product-images---all-assets/yeti-cycles/fr214z01.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+    "Published": "2017-07-01T01:40:16.723+00:00",
+    "ColorVariantsToShow": []
+  },
+  {
+    "Id": 9922,
+    "Name": "Orbea Orca Derailleur Hanger",
+    "Code": "FR211Z00",
+    "Url": "/Orbea-Orca-Derailleur-Hanger",
+    "IsOnSale": false,
+    "IsNew": false,
+    "Created": "2017-06-30T21:17:41+00:00",
+    "SelectedVariant": {
+      "Code": "FR211Z00     DERL",
+      "Color": "Black",
+      "ListPrice": { "Amount": 15, "Currency": "USD" },
+      "MsrpPrice": { "Amount": 15, "Currency": "USD" },
+      "ImageUrl": null,
+      "SwatchImageUrl": null,
+      "SavingPercent": 0,
+      "Order": 0
+    },
+    "Variants": [
+      {
+        "Code": "FR211Z00     DERL",
+        "Color": "Black",
+        "ListPrice": { "Amount": 15, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 15, "Currency": "USD" },
+        "ImageUrl": null,
+        "SwatchImageUrl": null,
+        "SavingPercent": 0,
+        "Order": 0
+      }
+    ],
+    "FacetFieldsDictionary": {
+      "Color": ["Black"],
+      "MultiValueDiscipline": ["Road"]
+    },
+    "CatalogNodeCodes": [
+      "Orbea",
+      "C0000QHS",
+      "C0000QHP",
+      "C0000QEF",
+      "5637144578",
+      "5637144576"
+    ],
+    "Price": ["$15.00"],
+    "SortPrice": 15,
+    "Discount": 0,
+    "Brand": "Orbea",
+    "AverageRating": 0,
+    "NumberOfReviews": 0,
+    "ImageUrl": "https://jnsn.imgix.net/globalassets/product-images---all-assets/orbea/fr211z00.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+    "Published": "2018-07-17T20:30:57.91+00:00",
+    "ColorVariantsToShow": []
+  },
+  {
+    "Id": 32477,
+    "Name": "Wheels MFG. Derailleur Hanger - 160",
+    "Code": "FR243Z18",
+    "Url": "/Wheels-MFG-Derailleur-Hanger-160-en.aspx",
+    "IsOnSale": false,
+    "IsNew": false,
+    "Created": "2018-09-24T17:17:25.253+00:00",
+    "SelectedVariant": {
+      "Code": "FR243Z18BLK       WILI",
+      "Color": "Black",
+      "ListPrice": { "Amount": 32, "Currency": "USD" },
+      "MsrpPrice": { "Amount": 32, "Currency": "USD" },
+      "ImageUrl": "https://jnsn.imgix.net/globalassets/product-images---all-assets/wheels-manufacturing/FR243Z18-Black.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+      "SwatchImageUrl": "/globalassets/product-images---all-assets/wheels-manufacturing/FR243Z18-Black-Swatch.jpg",
+      "SavingPercent": 0,
+      "Order": 0
+    },
+    "Variants": [
+      {
+        "Code": "FR243Z18BLK       WILI",
+        "Color": "Black",
+        "ListPrice": { "Amount": 32, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 32, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/product-images---all-assets/wheels-manufacturing/FR243Z18-Black.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "/globalassets/product-images---all-assets/wheels-manufacturing/FR243Z18-Black-Swatch.jpg",
+        "SavingPercent": 0,
+        "Order": 0
+      }
+    ],
+    "FacetFieldsDictionary": {
+      "Color": ["Black"],
+      "MultiValueDiscipline": ["Road"]
+    },
+    "CatalogNodeCodes": [
+      "Wheels Manufacturing",
+      "C0000QHS",
+      "C0000QHP",
+      "C0000QEF",
+      "5637144578",
+      "5637144576"
+    ],
+    "Price": ["$32.00"],
+    "SortPrice": 32,
+    "Discount": 0,
+    "Brand": "Wheels Manufacturing",
+    "AverageRating": 0,
+    "NumberOfReviews": 0,
+    "ImageUrl": null,
+    "Published": "2018-02-28T21:30:00+00:00",
+    "ColorVariantsToShow": []
+  },
+  {
+    "Id": 3083,
+    "Name": "Wheels MFG Derailleur Hanger",
+    "Code": "FR309Z04",
+    "Url": "/Wheels-MFG-Derailleur-Hanger",
+    "IsOnSale": true,
+    "IsNew": false,
+    "Created": "2018-12-04T01:38:37.173+00:00",
+    "SelectedVariant": {
+      "Code": "FR309Z04     58",
+      "Color": "",
+      "ListPrice": { "Amount": 10.94, "Currency": "USD" },
+      "MsrpPrice": { "Amount": 27, "Currency": "USD" },
+      "ImageUrl": null,
+      "SwatchImageUrl": null,
+      "SavingPercent": 59,
+      "Order": 0
+    },
+    "Variants": [
+      {
+        "Code": "FR309Z04     58",
+        "Color": "",
+        "ListPrice": { "Amount": 10.94, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 27, "Currency": "USD" },
+        "ImageUrl": null,
+        "SwatchImageUrl": null,
+        "SavingPercent": 59,
+        "Order": 0
+      }
+    ],
+    "FacetFieldsDictionary": { "MultiValueDiscipline": ["Road"] },
+    "CatalogNodeCodes": [
+      "Black-Friday-Sale-20",
+      "Sales",
+      "5637144578",
+      "5637144576",
+      "Cyber-Monday-Sale-20",
+      "5637235329",
+      "5637149076",
+      "5637251078",
+      "5637223327",
+      "Featured",
+      "C0000QHS",
+      "C0000QHP",
+      "C0000QEF",
+      "Wheels Manufacturing",
+      "One-Day-Sale_1"
+    ],
+    "Price": ["$10.94"],
+    "SortPrice": 10.94,
+    "Discount": 59,
+    "Brand": "Wheels Manufacturing",
+    "AverageRating": 4.6,
+    "NumberOfReviews": 9,
+    "ImageUrl": "https://jnsn.imgix.net/globalassets/product-images---all-assets/wheels-manufacturing/fr309z04.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+    "Published": "2017-06-29T15:54:12.403+00:00",
+    "ColorVariantsToShow": []
+  },
+  {
+    "Id": 3963,
+    "Name": "Wheels Manufacturing Derailleur Hanger",
+    "Code": "FR299Z00",
+    "Url": "/Wheels-Manufacturing-Derailleur-Hanger",
+    "IsOnSale": true,
+    "IsNew": false,
+    "Created": "2017-08-02T01:06:11.167+00:00",
+    "SelectedVariant": {
+      "Code": "FR299Z00          97",
+      "Color": "",
+      "ListPrice": { "Amount": 5.4, "Currency": "USD" },
+      "MsrpPrice": { "Amount": 27, "Currency": "USD" },
+      "ImageUrl": null,
+      "SwatchImageUrl": null,
+      "SavingPercent": 80,
+      "Order": 0
+    },
+    "Variants": [
+      {
+        "Code": "FR299Z00          97",
+        "Color": "",
+        "ListPrice": { "Amount": 5.4, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 27, "Currency": "USD" },
+        "ImageUrl": null,
+        "SwatchImageUrl": null,
+        "SavingPercent": 80,
+        "Order": 0
+      }
+    ],
+    "FacetFieldsDictionary": { "MultiValueDiscipline": ["Road"] },
+    "CatalogNodeCodes": [
+      "C0000QHS",
+      "C0000QHP",
+      "C0000QEF",
+      "5637144578",
+      "5637144576",
+      "Wheels Manufacturing",
+      "Components-BF_1",
+      "Black-Friday-2017_1",
+      "Sales",
+      "Last-Chance-Componen",
+      "Last-Chance-Gear_1",
+      "AffiliateMarketing_1",
+      "Components-Cyber-Mon",
+      "Cyber-Monday-Sale_1",
+      "End-Of-Year-Clearanc",
+      "CompWS",
+      "WarehouseSale2020",
+      "5637235329",
+      "5637149076",
+      "5637251078",
+      "5637223327",
+      "Featured",
+      "One-Day-Sale_1"
+    ],
+    "Price": ["$5.40"],
+    "SortPrice": 5.4,
+    "Discount": 80,
+    "Brand": "Wheels Manufacturing",
+    "AverageRating": 5,
+    "NumberOfReviews": 1,
+    "ImageUrl": "https://jnsn.imgix.net/globalassets/product-images---all-assets/wheels-manufacturing/fr299z00.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+    "Published": "2017-06-29T20:35:20.873+00:00",
+    "ColorVariantsToShow": []
+  },
+  {
+    "Id": 52369,
+    "Name": "Wolf Tooth Goat Link 11Speed",
+    "Code": "RD207Z00",
+    "Url": "/Wolf-Tooth-Goat-Link-11Speed",
+    "IsOnSale": false,
+    "IsNew": false,
+    "Created": "2018-04-11T17:39:06.907+00:00",
+    "SelectedVariant": {
+      "Code": "RD207Z00BLK  11SP SHIM",
+      "Color": "",
+      "ListPrice": { "Amount": 29.95, "Currency": "USD" },
+      "MsrpPrice": { "Amount": 29.95, "Currency": "USD" },
+      "ImageUrl": null,
+      "SwatchImageUrl": null,
+      "SavingPercent": 0,
+      "Order": 0
+    },
+    "Variants": [
+      {
+        "Code": "RD207Z00BLK  11SP SHIM",
+        "Color": "",
+        "ListPrice": { "Amount": 29.95, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 29.95, "Currency": "USD" },
+        "ImageUrl": null,
+        "SwatchImageUrl": null,
+        "SavingPercent": 0,
+        "Order": 0
+      }
+    ],
+    "FacetFieldsDictionary": { "MultiValueDiscipline": ["Road"] },
+    "CatalogNodeCodes": [
+      "Wolf Tooth Components",
+      "5637251078",
+      "5637223327",
+      "Featured",
+      "5637144578",
+      "5637144576",
+      "C0000QGP",
+      "C0000QGK",
+      "C0000QGE",
+      "C0000QFT",
+      "C0000QEF",
+      "C0000QHS",
+      "C0000QHP"
+    ],
+    "Price": ["$29.95"],
+    "SortPrice": 29.95,
+    "Discount": 0,
+    "Brand": "Wolf Tooth Components",
+    "AverageRating": 4.7,
+    "NumberOfReviews": 9,
+    "ImageUrl": "https://jnsn.imgix.net/globalassets/product-images---all-assets/wolf-tooth-components/rd207z00.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+    "Published": "2017-07-01T02:28:21.097+00:00",
+    "ColorVariantsToShow": []
+  }
+]

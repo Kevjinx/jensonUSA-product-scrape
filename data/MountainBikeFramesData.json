@@ -1,0 +1,3558 @@
+[
+  {
+    "Id": 451098,
+    "Name": "Niner Air 9 Frame",
+    "Code": "FR001372",
+    "Url": "/Niner-Air-9-Frame1",
+    "IsOnSale": true,
+    "IsNew": false,
+    "Created": "2022-12-27T22:11:42+00:00",
+    "SelectedVariant": {
+      "Code": "FR001372 SM SILVER BAJA BLUE",
+      "Color": "Silver Baja Blue",
+      "ListPrice": { "Amount": 449.94, "Currency": "USD" },
+      "MsrpPrice": { "Amount": 749, "Currency": "USD" },
+      "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/28485-en-fr001372-silver-baja-blue.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+      "SwatchImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/28484-en-fr001372-silver-baja-blue-swatch.jpg?w=30&h=30&fit=max&auto=format&q=70",
+      "SavingPercent": 40,
+      "Order": 0
+    },
+    "Variants": [
+      {
+        "Code": "FR001372 SM SILVER BAJA BLUE",
+        "Color": "Silver Baja Blue",
+        "ListPrice": { "Amount": 449.94, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 749, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/28485-en-fr001372-silver-baja-blue.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/28484-en-fr001372-silver-baja-blue-swatch.jpg?w=30&h=30&fit=max&auto=format&q=70",
+        "SavingPercent": 40,
+        "Order": 0
+      },
+      {
+        "Code": "FR001372 MED SILVER BAJA BLUE",
+        "Color": "Silver Baja Blue",
+        "ListPrice": { "Amount": 449.94, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 749, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/28485-en-fr001372-silver-baja-blue.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "/globalassets/digizuite/28484-en-fr001372-silver-baja-blue-swatch.jpg",
+        "SavingPercent": 40,
+        "Order": 0
+      },
+      {
+        "Code": "FR001372 LRG SILVER BAJA BLUE",
+        "Color": "Silver Baja Blue",
+        "ListPrice": { "Amount": 449.94, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 749, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/28485-en-fr001372-silver-baja-blue.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "/globalassets/digizuite/28484-en-fr001372-silver-baja-blue-swatch.jpg",
+        "SavingPercent": 40,
+        "Order": 0
+      },
+      {
+        "Code": "FR001372 XLG SILVER BAJA BLUE",
+        "Color": "Silver Baja Blue",
+        "ListPrice": { "Amount": 449.94, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 749, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/28485-en-fr001372-silver-baja-blue.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "/globalassets/digizuite/28484-en-fr001372-silver-baja-blue-swatch.jpg",
+        "SavingPercent": 40,
+        "Order": 0
+      }
+    ],
+    "FacetFieldsDictionary": {
+      "Size": ["Small", "Medium", "Large", "Extra Large"],
+      "Color": ["Silver Baja Blue"],
+      "MultiValueIntendedUse": ["Cross Country", "Trail / All-Mountain"],
+      "WheelSize": ["29\""],
+      "MultiValueDiscipline": ["MTB"],
+      "Gender": ["Men"],
+      "BikeModel": ["Niner Air 9"],
+      "FrameMaterial": ["Aluminum"],
+      "RearSuspensionType": ["Hardtail"]
+    },
+    "CatalogNodeCodes": [
+      "Niner",
+      "C0000QHQ",
+      "C0000QHP",
+      "C0000QEF",
+      "5637144578",
+      "5637144576"
+    ],
+    "Price": ["$449.94"],
+    "SortPrice": 449.94,
+    "Discount": 40,
+    "Brand": "Niner",
+    "AverageRating": 0,
+    "NumberOfReviews": 0,
+    "ImageUrl": null,
+    "Published": "2023-01-19T19:59:19+00:00",
+    "ColorVariantsToShow": [
+      {
+        "Code": "FR001372 SM SILVER BAJA BLUE",
+        "Color": "Silver Baja Blue",
+        "ListPrice": { "Amount": 449.94, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 749, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/28485-en-fr001372-silver-baja-blue.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/28484-en-fr001372-silver-baja-blue-swatch.jpg?w=30&h=30&fit=max&auto=format&q=70",
+        "SavingPercent": 40,
+        "Order": 0
+      }
+    ]
+  },
+  {
+    "Id": 443475,
+    "Name": "Specialized Status 140 Frame",
+    "Code": "FR001363",
+    "Url": "/Specialized-Status-140-Frame",
+    "IsOnSale": true,
+    "IsNew": false,
+    "Created": "2022-10-05T18:42:03+00:00",
+    "SelectedVariant": {
+      "Code": "FR001363 LARGE GREEN",
+      "Color": "Satin Oak Green/Limestone",
+      "ListPrice": { "Amount": 1049.99, "Currency": "USD" },
+      "MsrpPrice": { "Amount": 1400, "Currency": "USD" },
+      "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/26291-en-fr001363-satin-oak-green~limestone.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+      "SwatchImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/26294-en-fr001363-satin-oak-green~limestone-swatch.jpg?w=30&h=30&fit=max&auto=format&q=70",
+      "SavingPercent": 25,
+      "Order": 0
+    },
+    "Variants": [
+      {
+        "Code": "FR001363 LARGE GREEN",
+        "Color": "Satin Oak Green/Limestone",
+        "ListPrice": { "Amount": 1049.99, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 1400, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/26291-en-fr001363-satin-oak-green~limestone.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/26294-en-fr001363-satin-oak-green~limestone-swatch.jpg?w=30&h=30&fit=max&auto=format&q=70",
+        "SavingPercent": 25,
+        "Order": 0
+      },
+      {
+        "Code": "FR001363 RASPBERRY M",
+        "Color": "Satin Raspberry/Cast Umber",
+        "ListPrice": { "Amount": 1049.99, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 1400, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/26292-en-fr001363-satin-raspberry~cast-umber.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/26293-en-fr001363-satin-raspberry~cast-umber-swatch.jpg?w=30&h=30&fit=max&auto=format&q=70",
+        "SavingPercent": 25,
+        "Order": 0
+      },
+      {
+        "Code": "FR001363 GREEN M",
+        "Color": "Satin Oak Green/Limestone",
+        "ListPrice": { "Amount": 1049.99, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 1400, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/26291-en-fr001363-satin-oak-green~limestone.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "/globalassets/digizuite/26294-en-fr001363-satin-oak-green~limestone-swatch.jpg",
+        "SavingPercent": 25,
+        "Order": 0
+      }
+    ],
+    "FacetFieldsDictionary": {
+      "Size": ["Large", "Medium"],
+      "Color": ["Satin Oak Green/Limestone", "Satin Raspberry/Cast Umber"],
+      "MultiValueIntendedUse": ["Trail / All-Mountain"],
+      "WheelSize": ["29\""],
+      "MultiValueDiscipline": ["MTB"],
+      "Gender": ["Men"],
+      "BikeModel": ["Specialized Status"],
+      "FrameMaterial": ["Aluminum"],
+      "RearSuspensionType": ["Full Suspension"]
+    },
+    "CatalogNodeCodes": [
+      "Specialized",
+      "C0000QHQ",
+      "C0000QHP",
+      "C0000QEF",
+      "5637144578",
+      "5637144576"
+    ],
+    "Price": ["$1,049.99"],
+    "SortPrice": 1049.99,
+    "Discount": 25,
+    "Brand": "Specialized",
+    "AverageRating": 0,
+    "NumberOfReviews": 0,
+    "ImageUrl": null,
+    "Published": "2022-11-04T15:24:43+00:00",
+    "ColorVariantsToShow": [
+      {
+        "Code": "FR001363 LARGE GREEN",
+        "Color": "Satin Oak Green/Limestone",
+        "ListPrice": { "Amount": 1049.99, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 1400, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/26291-en-fr001363-satin-oak-green~limestone.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/26294-en-fr001363-satin-oak-green~limestone-swatch.jpg?w=30&h=30&fit=max&auto=format&q=70",
+        "SavingPercent": 25,
+        "Order": 0
+      },
+      {
+        "Code": "FR001363 RASPBERRY M",
+        "Color": "Satin Raspberry/Cast Umber",
+        "ListPrice": { "Amount": 1049.99, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 1400, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/26292-en-fr001363-satin-raspberry~cast-umber.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/26293-en-fr001363-satin-raspberry~cast-umber-swatch.jpg?w=30&h=30&fit=max&auto=format&q=70",
+        "SavingPercent": 25,
+        "Order": 0
+      }
+    ]
+  },
+  {
+    "Id": 443470,
+    "Name": "Specialized Status 160 Frame",
+    "Code": "FR001362",
+    "Url": "/Specialized-Status-160-Frame",
+    "IsOnSale": true,
+    "IsNew": false,
+    "Created": "2022-10-05T18:42:01+00:00",
+    "SelectedVariant": {
+      "Code": "FR001362 LARGE BLUE SMOKE",
+      "Color": "Satin Smoke/Arctic Blue",
+      "ListPrice": { "Amount": 1049.99, "Currency": "USD" },
+      "MsrpPrice": { "Amount": 1400, "Currency": "USD" },
+      "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/26307-en-fr001362-satin-smoke~arctic-blue.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+      "SwatchImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/26306-en-fr001362-satin-smoke~arctic-blue-swatch.jpg?w=30&h=30&fit=max&auto=format&q=70",
+      "SavingPercent": 25,
+      "Order": 0
+    },
+    "Variants": [
+      {
+        "Code": "FR001362 LARGE BLUE SMOKE",
+        "Color": "Satin Smoke/Arctic Blue",
+        "ListPrice": { "Amount": 1049.99, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 1400, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/26307-en-fr001362-satin-smoke~arctic-blue.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/26306-en-fr001362-satin-smoke~arctic-blue-swatch.jpg?w=30&h=30&fit=max&auto=format&q=70",
+        "SavingPercent": 25,
+        "Order": 0
+      },
+      {
+        "Code": "FR001362 X LARGE BLUE SMOKE",
+        "Color": "Satin Smoke/Arctic Blue",
+        "ListPrice": { "Amount": 1049.99, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 1400, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/26307-en-fr001362-satin-smoke~arctic-blue.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "/globalassets/digizuite/26306-en-fr001362-satin-smoke~arctic-blue-swatch.jpg",
+        "SavingPercent": 25,
+        "Order": 0
+      },
+      {
+        "Code": "FR001362 LARGE SAGE GUNMETAL",
+        "Color": "Satin CA White Sage/Gunmetal",
+        "ListPrice": { "Amount": 1049.99, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 1400, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/26305-en-fr001362-satin-ca-white-sage~gunmetal.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/26304-en-fr001362-satin-ca-white-sage~gunmetal-swatch.jpg?w=30&h=30&fit=max&auto=format&q=70",
+        "SavingPercent": 25,
+        "Order": 0
+      },
+      {
+        "Code": "FR001362 X LARGE SAGE GUNMETAL",
+        "Color": "Satin CA White Sage/Gunmetal",
+        "ListPrice": { "Amount": 1049.99, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 1400, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/26305-en-fr001362-satin-ca-white-sage~gunmetal.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "/globalassets/digizuite/26304-en-fr001362-satin-ca-white-sage~gunmetal-swatch.jpg",
+        "SavingPercent": 25,
+        "Order": 0
+      }
+    ],
+    "FacetFieldsDictionary": {
+      "Size": ["Large", "Extra Large"],
+      "Color": ["Satin Smoke/Arctic Blue", "Satin CA White Sage/Gunmetal"],
+      "MultiValueIntendedUse": ["Trail / All-Mountain", "Enduro"],
+      "WheelSize": ["29\""],
+      "MultiValueDiscipline": ["MTB"],
+      "Gender": ["Men"],
+      "BikeModel": ["Specialized Status"],
+      "FrameMaterial": ["Aluminum"],
+      "RearSuspensionType": ["Full Suspension"]
+    },
+    "CatalogNodeCodes": [
+      "Specialized",
+      "C0000QHQ",
+      "C0000QHP",
+      "C0000QEF",
+      "5637144578",
+      "5637144576"
+    ],
+    "Price": ["$1,049.99"],
+    "SortPrice": 1049.99,
+    "Discount": 25,
+    "Brand": "Specialized",
+    "AverageRating": 0,
+    "NumberOfReviews": 0,
+    "ImageUrl": null,
+    "Published": "2022-11-04T15:32:37+00:00",
+    "ColorVariantsToShow": [
+      {
+        "Code": "FR001362 LARGE BLUE SMOKE",
+        "Color": "Satin Smoke/Arctic Blue",
+        "ListPrice": { "Amount": 1049.99, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 1400, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/26307-en-fr001362-satin-smoke~arctic-blue.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/26306-en-fr001362-satin-smoke~arctic-blue-swatch.jpg?w=30&h=30&fit=max&auto=format&q=70",
+        "SavingPercent": 25,
+        "Order": 0
+      },
+      {
+        "Code": "FR001362 LARGE SAGE GUNMETAL",
+        "Color": "Satin CA White Sage/Gunmetal",
+        "ListPrice": { "Amount": 1049.99, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 1400, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/26305-en-fr001362-satin-ca-white-sage~gunmetal.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/26304-en-fr001362-satin-ca-white-sage~gunmetal-swatch.jpg?w=30&h=30&fit=max&auto=format&q=70",
+        "SavingPercent": 25,
+        "Order": 0
+      }
+    ]
+  },
+  {
+    "Id": 443699,
+    "Name": "YETI ARC FRAME 2023",
+    "Code": "FR001365",
+    "Url": "/YETI-ARC-FRAME-2023",
+    "IsOnSale": false,
+    "IsNew": false,
+    "Created": "2022-10-20T14:16:27+00:00",
+    "SelectedVariant": {
+      "Code": "FR001365 LARGE COBALT",
+      "Color": "Cobalt",
+      "ListPrice": { "Amount": 2100, "Currency": "USD" },
+      "MsrpPrice": { "Amount": 2100, "Currency": "USD" },
+      "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/28238-en-fr001365-cobalt.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+      "SwatchImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/28240-en-fr001365-cobalt-swatch.jpg?w=30&h=30&fit=max&auto=format&q=70",
+      "SavingPercent": 0,
+      "Order": 0
+    },
+    "Variants": [
+      {
+        "Code": "FR001365 LARGE COBALT",
+        "Color": "Cobalt",
+        "ListPrice": { "Amount": 2100, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 2100, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/28238-en-fr001365-cobalt.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/28240-en-fr001365-cobalt-swatch.jpg?w=30&h=30&fit=max&auto=format&q=70",
+        "SavingPercent": 0,
+        "Order": 0
+      },
+      {
+        "Code": "FR001365 LARGE RHINO",
+        "Color": "Rhino",
+        "ListPrice": { "Amount": 2100, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 2100, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/28239-en-fr001365-rhino.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/28241-en-fr001365-rhino-swatch.jpg?w=30&h=30&fit=max&auto=format&q=70",
+        "SavingPercent": 0,
+        "Order": 0
+      },
+      {
+        "Code": "FR001365 LARGE TURQUOISE",
+        "Color": "Turquoise",
+        "ListPrice": { "Amount": 2100, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 2100, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/28243-en-fr001365-turquoise.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/28242-en-fr001365-turquoise-swatch.jpg?w=30&h=30&fit=max&auto=format&q=70",
+        "SavingPercent": 0,
+        "Order": 0
+      },
+      {
+        "Code": "FR001365 MEDIUM COBALT",
+        "Color": "Cobalt",
+        "ListPrice": { "Amount": 2100, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 2100, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/28238-en-fr001365-cobalt.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "/globalassets/digizuite/28240-en-fr001365-cobalt-swatch.jpg",
+        "SavingPercent": 0,
+        "Order": 0
+      },
+      {
+        "Code": "FR001365 MEDIUM RHINO",
+        "Color": "Rhino",
+        "ListPrice": { "Amount": 2100, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 2100, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/28239-en-fr001365-rhino.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "/globalassets/digizuite/28241-en-fr001365-rhino-swatch.jpg",
+        "SavingPercent": 0,
+        "Order": 0
+      },
+      {
+        "Code": "FR001365 MEDIUM TURQUOISE",
+        "Color": "Turquoise",
+        "ListPrice": { "Amount": 2100, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 2100, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/28243-en-fr001365-turquoise.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "/globalassets/digizuite/28242-en-fr001365-turquoise-swatch.jpg",
+        "SavingPercent": 0,
+        "Order": 0
+      },
+      {
+        "Code": "FR001365 SMALL COBALT",
+        "Color": "Cobalt",
+        "ListPrice": { "Amount": 2100, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 2100, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/28238-en-fr001365-cobalt.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "/globalassets/digizuite/28240-en-fr001365-cobalt-swatch.jpg",
+        "SavingPercent": 0,
+        "Order": 0
+      },
+      {
+        "Code": "FR001365 SMALL RHINO",
+        "Color": "Rhino",
+        "ListPrice": { "Amount": 2100, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 2100, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/28239-en-fr001365-rhino.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "/globalassets/digizuite/28241-en-fr001365-rhino-swatch.jpg",
+        "SavingPercent": 0,
+        "Order": 0
+      },
+      {
+        "Code": "FR001365 SMALL TURQUOISE",
+        "Color": "Turquoise",
+        "ListPrice": { "Amount": 2100, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 2100, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/28243-en-fr001365-turquoise.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "/globalassets/digizuite/28242-en-fr001365-turquoise-swatch.jpg",
+        "SavingPercent": 0,
+        "Order": 0
+      },
+      {
+        "Code": "FR001365 X LARGE COBALT",
+        "Color": "Cobalt",
+        "ListPrice": { "Amount": 2100, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 2100, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/28238-en-fr001365-cobalt.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "/globalassets/digizuite/28240-en-fr001365-cobalt-swatch.jpg",
+        "SavingPercent": 0,
+        "Order": 0
+      },
+      {
+        "Code": "FR001365 X LARGE RHINO",
+        "Color": "Rhino",
+        "ListPrice": { "Amount": 2100, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 2100, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/28239-en-fr001365-rhino.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "/globalassets/digizuite/28241-en-fr001365-rhino-swatch.jpg",
+        "SavingPercent": 0,
+        "Order": 0
+      },
+      {
+        "Code": "FR001365 X LARGE TURQUOISE",
+        "Color": "Turquoise",
+        "ListPrice": { "Amount": 2100, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 2100, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/28243-en-fr001365-turquoise.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "/globalassets/digizuite/28242-en-fr001365-turquoise-swatch.jpg",
+        "SavingPercent": 0,
+        "Order": 0
+      }
+    ],
+    "FacetFieldsDictionary": {
+      "Size": ["Large", "Medium", "Small", "Extra Large"],
+      "Color": ["Cobalt", "Rhino", "Turquoise"],
+      "MultiValueIntendedUse": ["Cross Country", "Trail / All-Mountain"],
+      "WheelSize": ["29\""],
+      "MultiValueDiscipline": ["MTB"],
+      "Gender": ["Men"],
+      "BikeModel": ["Yeti ARC"],
+      "FrameMaterial": ["Carbon"],
+      "RearSuspensionType": ["Hardtail"]
+    },
+    "CatalogNodeCodes": [
+      "C0000QHQ",
+      "C0000QHP",
+      "C0000QEF",
+      "5637144578",
+      "5637144576",
+      "Yeti Cycles"
+    ],
+    "Price": ["$2,100.00"],
+    "SortPrice": 2100,
+    "Discount": 0,
+    "Brand": "Yeti Cycles",
+    "AverageRating": 0,
+    "NumberOfReviews": 0,
+    "ImageUrl": null,
+    "Published": "2022-12-21T23:08:03+00:00",
+    "ColorVariantsToShow": [
+      {
+        "Code": "FR001365 LARGE COBALT",
+        "Color": "Cobalt",
+        "ListPrice": { "Amount": 2100, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 2100, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/28238-en-fr001365-cobalt.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/28240-en-fr001365-cobalt-swatch.jpg?w=30&h=30&fit=max&auto=format&q=70",
+        "SavingPercent": 0,
+        "Order": 0
+      },
+      {
+        "Code": "FR001365 LARGE RHINO",
+        "Color": "Rhino",
+        "ListPrice": { "Amount": 2100, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 2100, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/28239-en-fr001365-rhino.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/28241-en-fr001365-rhino-swatch.jpg?w=30&h=30&fit=max&auto=format&q=70",
+        "SavingPercent": 0,
+        "Order": 0
+      },
+      {
+        "Code": "FR001365 LARGE TURQUOISE",
+        "Color": "Turquoise",
+        "ListPrice": { "Amount": 2100, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 2100, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/28243-en-fr001365-turquoise.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/28242-en-fr001365-turquoise-swatch.jpg?w=30&h=30&fit=max&auto=format&q=70",
+        "SavingPercent": 0,
+        "Order": 0
+      }
+    ]
+  },
+  {
+    "Id": 371418,
+    "Name": "Rocky Mountain Instinct Carbon Frameset 2021",
+    "Code": "FR001185",
+    "Url": "/Rocky-Mountain-Instinct-Carbon-Frameset-2021",
+    "IsOnSale": true,
+    "IsNew": false,
+    "Created": "2020-10-12T20:10:54+00:00",
+    "SelectedVariant": {
+      "Code": "FR001185 S PURPLE/BEIGE 27.5",
+      "Color": "Purple/Beige",
+      "ListPrice": { "Amount": 2594.94, "Currency": "USD" },
+      "MsrpPrice": { "Amount": 3549, "Currency": "USD" },
+      "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/27069-en-fr001185-purple~beige.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+      "SwatchImageUrl": "/globalassets/digizuite/27067-en-fr001185-purple~beige-swatch.jpg",
+      "SavingPercent": 27,
+      "Order": 0
+    },
+    "Variants": [
+      {
+        "Code": "FR001185 S PURPLE/BEIGE 27.5",
+        "Color": "Purple/Beige",
+        "ListPrice": { "Amount": 2594.94, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 3549, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/27069-en-fr001185-purple~beige.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "/globalassets/digizuite/27067-en-fr001185-purple~beige-swatch.jpg",
+        "SavingPercent": 27,
+        "Order": 0
+      }
+    ],
+    "FacetFieldsDictionary": {
+      "Size": ["Small 27.5\""],
+      "Color": ["Purple/Beige"],
+      "MultiValueIntendedUse": ["Trail / All-Mountain"],
+      "WheelSize": ["29\""],
+      "MultiValueDiscipline": ["MTB"],
+      "Gender": ["Men"],
+      "BikeModel": ["Rocky Mountain Instinct"],
+      "RearSuspensionType": ["Full Suspension"]
+    },
+    "CatalogNodeCodes": [
+      "Rocky Mountain",
+      "C0000QHQ",
+      "C0000QHP",
+      "C0000QEF",
+      "5637144578",
+      "5637144576"
+    ],
+    "Price": ["$2,594.94"],
+    "SortPrice": 2594.94,
+    "Discount": 27,
+    "Brand": "Rocky Mountain",
+    "AverageRating": 0,
+    "NumberOfReviews": 0,
+    "ImageUrl": null,
+    "Published": "2022-11-17T22:58:06+00:00",
+    "ColorVariantsToShow": []
+  },
+  {
+    "Id": 443870,
+    "Name": "YETI SB160 X2 FACTORY FRAME 2023",
+    "Code": "FR001366",
+    "Url": "/YETI-SB160-X2-FACTORY-FRAME-2023",
+    "IsOnSale": false,
+    "IsNew": false,
+    "Created": "2022-10-20T14:17:23+00:00",
+    "SelectedVariant": {
+      "Code": "FR001366 LARGE COBALT",
+      "Color": "Cobalt",
+      "ListPrice": { "Amount": 5000, "Currency": "USD" },
+      "MsrpPrice": { "Amount": 5000, "Currency": "USD" },
+      "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/28162-en-fr001366-cobalt.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+      "SwatchImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/28161-en-fr001366-cobalt-swatch.jpg?w=30&h=30&fit=max&auto=format&q=70",
+      "SavingPercent": 0,
+      "Order": 0
+    },
+    "Variants": [
+      {
+        "Code": "FR001366 LARGE COBALT",
+        "Color": "Cobalt",
+        "ListPrice": { "Amount": 5000, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 5000, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/28162-en-fr001366-cobalt.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/28161-en-fr001366-cobalt-swatch.jpg?w=30&h=30&fit=max&auto=format&q=70",
+        "SavingPercent": 0,
+        "Order": 0
+      },
+      {
+        "Code": "FR001366 LARGE RADIUM",
+        "Color": "Radium",
+        "ListPrice": { "Amount": 5000, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 5000, "Currency": "USD" },
+        "ImageUrl": null,
+        "SwatchImageUrl": null,
+        "SavingPercent": 0,
+        "Order": 0
+      },
+      {
+        "Code": "FR001366 LARGE TURQUOISE",
+        "Color": "Turquoise",
+        "ListPrice": { "Amount": 5000, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 5000, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/28163-en-fr001366-turquoise.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/28164-en-fr001366-turquoise-swatch.jpg?w=30&h=30&fit=max&auto=format&q=70",
+        "SavingPercent": 0,
+        "Order": 0
+      },
+      {
+        "Code": "FR001366 MEDIUM COBALT",
+        "Color": "Cobalt",
+        "ListPrice": { "Amount": 5000, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 5000, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/28162-en-fr001366-cobalt.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "/globalassets/digizuite/28161-en-fr001366-cobalt-swatch.jpg",
+        "SavingPercent": 0,
+        "Order": 0
+      },
+      {
+        "Code": "FR001366 MEDIUM RADIUM",
+        "Color": "",
+        "ListPrice": { "Amount": 5000, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 5000, "Currency": "USD" },
+        "ImageUrl": null,
+        "SwatchImageUrl": null,
+        "SavingPercent": 0,
+        "Order": 0
+      },
+      {
+        "Code": "FR001366 MEDIUM TURQUOISE",
+        "Color": "Turquoise",
+        "ListPrice": { "Amount": 5000, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 5000, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/28163-en-fr001366-turquoise.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "/globalassets/digizuite/28164-en-fr001366-turquoise-swatch.jpg",
+        "SavingPercent": 0,
+        "Order": 0
+      },
+      {
+        "Code": "FR001366 SMALL COBALT",
+        "Color": "Cobalt",
+        "ListPrice": { "Amount": 5000, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 5000, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/28162-en-fr001366-cobalt.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "/globalassets/digizuite/28161-en-fr001366-cobalt-swatch.jpg",
+        "SavingPercent": 0,
+        "Order": 0
+      },
+      {
+        "Code": "FR001366 SMALL RADIUM",
+        "Color": "",
+        "ListPrice": { "Amount": 5000, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 5000, "Currency": "USD" },
+        "ImageUrl": null,
+        "SwatchImageUrl": null,
+        "SavingPercent": 0,
+        "Order": 0
+      },
+      {
+        "Code": "FR001366 SMALL TURQUOISE",
+        "Color": "Turquoise",
+        "ListPrice": { "Amount": 5000, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 5000, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/28163-en-fr001366-turquoise.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "/globalassets/digizuite/28164-en-fr001366-turquoise-swatch.jpg",
+        "SavingPercent": 0,
+        "Order": 0
+      },
+      {
+        "Code": "FR001366 X LARGE COBALT",
+        "Color": "Cobalt",
+        "ListPrice": { "Amount": 5000, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 5000, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/28162-en-fr001366-cobalt.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "/globalassets/digizuite/28161-en-fr001366-cobalt-swatch.jpg",
+        "SavingPercent": 0,
+        "Order": 0
+      },
+      {
+        "Code": "FR001366 X LARGE RADIUM",
+        "Color": "Radium",
+        "ListPrice": { "Amount": 5000, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 5000, "Currency": "USD" },
+        "ImageUrl": null,
+        "SwatchImageUrl": null,
+        "SavingPercent": 0,
+        "Order": 0
+      },
+      {
+        "Code": "FR001366 X LARGE TURQUOISE",
+        "Color": "Turquoise",
+        "ListPrice": { "Amount": 5000, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 5000, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/28163-en-fr001366-turquoise.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "/globalassets/digizuite/28164-en-fr001366-turquoise-swatch.jpg",
+        "SavingPercent": 0,
+        "Order": 0
+      },
+      {
+        "Code": "FR001366 XX LARGE COBALT",
+        "Color": "Cobalt",
+        "ListPrice": { "Amount": 5000, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 5000, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/28162-en-fr001366-cobalt.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "/globalassets/digizuite/28161-en-fr001366-cobalt-swatch.jpg",
+        "SavingPercent": 0,
+        "Order": 0
+      },
+      {
+        "Code": "FR001366 XX LARGE RADIUM",
+        "Color": "Radium",
+        "ListPrice": { "Amount": 5000, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 5000, "Currency": "USD" },
+        "ImageUrl": null,
+        "SwatchImageUrl": null,
+        "SavingPercent": 0,
+        "Order": 0
+      },
+      {
+        "Code": "FR001366 XX LARGE TURQUOISE",
+        "Color": "Turquoise",
+        "ListPrice": { "Amount": 5000, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 5000, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/28163-en-fr001366-turquoise.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "/globalassets/digizuite/28164-en-fr001366-turquoise-swatch.jpg",
+        "SavingPercent": 0,
+        "Order": 0
+      }
+    ],
+    "FacetFieldsDictionary": {
+      "Size": ["Large", "Medium", "Small", "Extra Large", "XX Large"],
+      "Color": ["Cobalt", "Radium", "Turquoise"],
+      "FinancingAvailable": ["True"],
+      "MultiValueIntendedUse": ["Enduro"],
+      "WheelSize": ["29\""],
+      "MultiValueDiscipline": ["MTB"],
+      "Gender": ["Men"],
+      "BikeModel": ["Yeti SB160"],
+      "FrameMaterial": ["Carbon"],
+      "RearSuspensionType": ["Full Suspension"]
+    },
+    "CatalogNodeCodes": [
+      "C0000QHQ",
+      "C0000QHP",
+      "C0000QEF",
+      "5637144578",
+      "5637144576",
+      "Yeti Cycles"
+    ],
+    "Price": ["$5,000.00"],
+    "SortPrice": 5000,
+    "Discount": 0,
+    "Brand": "Yeti Cycles",
+    "AverageRating": 0,
+    "NumberOfReviews": 0,
+    "ImageUrl": null,
+    "Published": "2022-12-17T23:42:59+00:00",
+    "ColorVariantsToShow": [
+      {
+        "Code": "FR001366 LARGE COBALT",
+        "Color": "Cobalt",
+        "ListPrice": { "Amount": 5000, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 5000, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/28162-en-fr001366-cobalt.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/28161-en-fr001366-cobalt-swatch.jpg?w=30&h=30&fit=max&auto=format&q=70",
+        "SavingPercent": 0,
+        "Order": 0
+      },
+      {
+        "Code": "FR001366 LARGE RADIUM",
+        "Color": "Radium",
+        "ListPrice": { "Amount": 5000, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 5000, "Currency": "USD" },
+        "ImageUrl": null,
+        "SwatchImageUrl": null,
+        "SavingPercent": 0,
+        "Order": 0
+      },
+      {
+        "Code": "FR001366 LARGE TURQUOISE",
+        "Color": "Turquoise",
+        "ListPrice": { "Amount": 5000, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 5000, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/28163-en-fr001366-turquoise.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/28164-en-fr001366-turquoise-swatch.jpg?w=30&h=30&fit=max&auto=format&q=70",
+        "SavingPercent": 0,
+        "Order": 0
+      },
+      {
+        "Code": "FR001366 MEDIUM RADIUM",
+        "Color": "",
+        "ListPrice": { "Amount": 5000, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 5000, "Currency": "USD" },
+        "ImageUrl": null,
+        "SwatchImageUrl": null,
+        "SavingPercent": 0,
+        "Order": 0
+      }
+    ]
+  },
+  {
+    "Id": 449699,
+    "Name": "Ibis DV9 Frame 2023",
+    "Code": "FR001371",
+    "Url": "/Ibis-DV9-Frame-2023",
+    "IsOnSale": false,
+    "IsNew": true,
+    "Created": "2022-12-05T18:45:20+00:00",
+    "SelectedVariant": {
+      "Code": "FR001371 SMALL BROWN",
+      "Color": "Brown",
+      "ListPrice": { "Amount": 1499, "Currency": "USD" },
+      "MsrpPrice": { "Amount": 1499, "Currency": "USD" },
+      "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/30050-en-fr001371-brown.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+      "SwatchImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/30051-en-fr001371-brown-swatch.jpg?w=30&h=30&fit=max&auto=format&q=70",
+      "SavingPercent": 0,
+      "Order": 0
+    },
+    "Variants": [
+      {
+        "Code": "FR001371 SMALL BROWN",
+        "Color": "Brown",
+        "ListPrice": { "Amount": 1499, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 1499, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/30050-en-fr001371-brown.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/30051-en-fr001371-brown-swatch.jpg?w=30&h=30&fit=max&auto=format&q=70",
+        "SavingPercent": 0,
+        "Order": 0
+      },
+      {
+        "Code": "FR001371 SMALL PURPLE",
+        "Color": "Purple",
+        "ListPrice": { "Amount": 1499, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 1499, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/30052-en-fr001371-purple.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/30048-en-fr001371-purple-swatch.jpg?w=30&h=30&fit=max&auto=format&q=70",
+        "SavingPercent": 0,
+        "Order": 0
+      },
+      {
+        "Code": "FR001371 MEDIUM BROWN",
+        "Color": "Brown",
+        "ListPrice": { "Amount": 1499, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 1499, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/30050-en-fr001371-brown.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "/globalassets/digizuite/30051-en-fr001371-brown-swatch.jpg",
+        "SavingPercent": 0,
+        "Order": 0
+      },
+      {
+        "Code": "FR001371 MEDUIM PURPLE",
+        "Color": "Purple",
+        "ListPrice": { "Amount": 1499, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 1499, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/30052-en-fr001371-purple.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "/globalassets/digizuite/30048-en-fr001371-purple-swatch.jpg",
+        "SavingPercent": 0,
+        "Order": 0
+      },
+      {
+        "Code": "FR001371 LARGE BROWN",
+        "Color": "Brown",
+        "ListPrice": { "Amount": 1499, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 1499, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/30050-en-fr001371-brown.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "/globalassets/digizuite/30051-en-fr001371-brown-swatch.jpg",
+        "SavingPercent": 0,
+        "Order": 0
+      },
+      {
+        "Code": "FR001371 LARGE PURPLE",
+        "Color": "Purple",
+        "ListPrice": { "Amount": 1499, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 1499, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/30052-en-fr001371-purple.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "/globalassets/digizuite/30048-en-fr001371-purple-swatch.jpg",
+        "SavingPercent": 0,
+        "Order": 0
+      },
+      {
+        "Code": "FR001371 X LARGE BROWN",
+        "Color": "Brown",
+        "ListPrice": { "Amount": 1499, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 1499, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/30050-en-fr001371-brown.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "/globalassets/digizuite/30051-en-fr001371-brown-swatch.jpg",
+        "SavingPercent": 0,
+        "Order": 0
+      },
+      {
+        "Code": "FR001371 X LARGE PURPLE",
+        "Color": "Purple",
+        "ListPrice": { "Amount": 1499, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 1499, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/30052-en-fr001371-purple.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "/globalassets/digizuite/30048-en-fr001371-purple-swatch.jpg",
+        "SavingPercent": 0,
+        "Order": 0
+      }
+    ],
+    "FacetFieldsDictionary": {
+      "Size": ["Small", "Medium", "Large", "Extra Large"],
+      "Color": ["Brown", "Purple"],
+      "MultiValueIntendedUse": ["Cross Country", "Trail / All-Mountain"],
+      "WheelSize": ["29\""],
+      "MultiValueDiscipline": ["MTB"],
+      "Gender": ["Men"],
+      "BikeModel": ["Ibis DV9"],
+      "FrameMaterial": ["Carbon"],
+      "RearSuspensionType": ["Hardtail"],
+      "VideoUrl": [
+        "<div class=\"product-image-item is-video\"><iframe title=\"YouTube video player\" src=\"https://www.youtube.com/embed/1X3F9vyRMEM?rel=0\" frameborder=\"0\" allowfullscreen=\"\"></iframe><br />This video is for informational purposes only and may not represent the specifications of the item/s on this page.</div>"
+      ]
+    },
+    "CatalogNodeCodes": [
+      "Ibis Bicycles",
+      "C0000QHQ",
+      "C0000QHP",
+      "C0000QEF",
+      "5637144578",
+      "5637144576"
+    ],
+    "Price": ["$1,499.00"],
+    "SortPrice": 1499,
+    "Discount": 0,
+    "Brand": "Ibis Bicycles",
+    "AverageRating": 0,
+    "NumberOfReviews": 0,
+    "ImageUrl": null,
+    "Published": "2023-02-09T22:12:08+00:00",
+    "ColorVariantsToShow": [
+      {
+        "Code": "FR001371 SMALL BROWN",
+        "Color": "Brown",
+        "ListPrice": { "Amount": 1499, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 1499, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/30050-en-fr001371-brown.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/30051-en-fr001371-brown-swatch.jpg?w=30&h=30&fit=max&auto=format&q=70",
+        "SavingPercent": 0,
+        "Order": 0
+      },
+      {
+        "Code": "FR001371 SMALL PURPLE",
+        "Color": "Purple",
+        "ListPrice": { "Amount": 1499, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 1499, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/30052-en-fr001371-purple.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/30048-en-fr001371-purple-swatch.jpg?w=30&h=30&fit=max&auto=format&q=70",
+        "SavingPercent": 0,
+        "Order": 0
+      }
+    ]
+  },
+  {
+    "Id": 451819,
+    "Name": "YETI SB140 29\" FLOAT X FACTORY FRAME 2023",
+    "Code": "FR001373",
+    "Url": "/YETI-SB140-29-FLOAT-X-FACTORY-FRAME-2023-1",
+    "IsOnSale": false,
+    "IsNew": false,
+    "Created": "2023-01-05T17:45:41+00:00",
+    "SelectedVariant": {
+      "Code": "FR001373 SANGRIA L",
+      "Color": "Sangria",
+      "ListPrice": { "Amount": 4500, "Currency": "USD" },
+      "MsrpPrice": { "Amount": 4500, "Currency": "USD" },
+      "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/28788-en-fr001373-sangria.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+      "SwatchImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/28782-en-fr001373-sangria-swatch.jpg?w=30&h=30&fit=max&auto=format&q=70",
+      "SavingPercent": 0,
+      "Order": 0
+    },
+    "Variants": [
+      {
+        "Code": "FR001373 SANGRIA L",
+        "Color": "Sangria",
+        "ListPrice": { "Amount": 4500, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 4500, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/28788-en-fr001373-sangria.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/28782-en-fr001373-sangria-swatch.jpg?w=30&h=30&fit=max&auto=format&q=70",
+        "SavingPercent": 0,
+        "Order": 0
+      },
+      {
+        "Code": "FR001373 SAGE L",
+        "Color": "Sage",
+        "ListPrice": { "Amount": 4500, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 4500, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/28787-en-fr001373-sage.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/28783-en-fr001373-sage-swatch.jpg?w=30&h=30&fit=max&auto=format&q=70",
+        "SavingPercent": 0,
+        "Order": 0
+      },
+      {
+        "Code": "FR001373 TURQUOISE L",
+        "Color": "Turquoise",
+        "ListPrice": { "Amount": 4500, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 4500, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/28786-en-fr001373-turquoise.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/28785-en-fr001373-turquoise-swatch.jpg?w=30&h=30&fit=max&auto=format&q=70",
+        "SavingPercent": 0,
+        "Order": 0
+      },
+      {
+        "Code": "FR001373 RAW GREY L",
+        "Color": "Raw Carbon",
+        "ListPrice": { "Amount": 4500, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 4500, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/28789-en-fr001373-raw-carbon.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/28784-en-fr001373-raw-carbon-swatch.jpg?w=30&h=30&fit=max&auto=format&q=70",
+        "SavingPercent": 0,
+        "Order": 0
+      },
+      {
+        "Code": "FR001373 SANGRIA M",
+        "Color": "Sangria",
+        "ListPrice": { "Amount": 4500, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 4500, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/28788-en-fr001373-sangria.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "/globalassets/digizuite/28782-en-fr001373-sangria-swatch.jpg",
+        "SavingPercent": 0,
+        "Order": 0
+      },
+      {
+        "Code": "FR001373 SAGE M",
+        "Color": "Sage",
+        "ListPrice": { "Amount": 4500, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 4500, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/28787-en-fr001373-sage.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "/globalassets/digizuite/28783-en-fr001373-sage-swatch.jpg",
+        "SavingPercent": 0,
+        "Order": 0
+      },
+      {
+        "Code": "FR001373 TURQUOISE M",
+        "Color": "Turquoise",
+        "ListPrice": { "Amount": 4500, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 4500, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/28786-en-fr001373-turquoise.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "/globalassets/digizuite/28785-en-fr001373-turquoise-swatch.jpg",
+        "SavingPercent": 0,
+        "Order": 0
+      },
+      {
+        "Code": "FR001373 RAW GREY M",
+        "Color": "Raw Carbon",
+        "ListPrice": { "Amount": 4500, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 4500, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/28789-en-fr001373-raw-carbon.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "/globalassets/digizuite/28784-en-fr001373-raw-carbon-swatch.jpg",
+        "SavingPercent": 0,
+        "Order": 0
+      },
+      {
+        "Code": "FR001373 SANGRIA S",
+        "Color": "Sangria",
+        "ListPrice": { "Amount": 4500, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 4500, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/28788-en-fr001373-sangria.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "/globalassets/digizuite/28782-en-fr001373-sangria-swatch.jpg",
+        "SavingPercent": 0,
+        "Order": 0
+      },
+      {
+        "Code": "FR001373 SAGE S",
+        "Color": "Sage",
+        "ListPrice": { "Amount": 4500, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 4500, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/28787-en-fr001373-sage.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "/globalassets/digizuite/28783-en-fr001373-sage-swatch.jpg",
+        "SavingPercent": 0,
+        "Order": 0
+      },
+      {
+        "Code": "FR001373 TURQUOISE S",
+        "Color": "Turquoise",
+        "ListPrice": { "Amount": 4500, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 4500, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/28786-en-fr001373-turquoise.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "/globalassets/digizuite/28785-en-fr001373-turquoise-swatch.jpg",
+        "SavingPercent": 0,
+        "Order": 0
+      },
+      {
+        "Code": "FR001373 RAW GREY S",
+        "Color": "Raw Carbon",
+        "ListPrice": { "Amount": 4500, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 4500, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/28789-en-fr001373-raw-carbon.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "/globalassets/digizuite/28784-en-fr001373-raw-carbon-swatch.jpg",
+        "SavingPercent": 0,
+        "Order": 0
+      },
+      {
+        "Code": "FR001373 SANGRIA XL",
+        "Color": "Sangria",
+        "ListPrice": { "Amount": 4500, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 4500, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/28788-en-fr001373-sangria.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "/globalassets/digizuite/28782-en-fr001373-sangria-swatch.jpg",
+        "SavingPercent": 0,
+        "Order": 0
+      },
+      {
+        "Code": "FR001373 SAGE XL",
+        "Color": "Sage",
+        "ListPrice": { "Amount": 4500, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 4500, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/28787-en-fr001373-sage.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "/globalassets/digizuite/28783-en-fr001373-sage-swatch.jpg",
+        "SavingPercent": 0,
+        "Order": 0
+      },
+      {
+        "Code": "FR001373 TURQUOISE XL",
+        "Color": "Turquoise",
+        "ListPrice": { "Amount": 4500, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 4500, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/28786-en-fr001373-turquoise.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "/globalassets/digizuite/28785-en-fr001373-turquoise-swatch.jpg",
+        "SavingPercent": 0,
+        "Order": 0
+      },
+      {
+        "Code": "FR001373 RAW GREY XL",
+        "Color": "Raw Carbon",
+        "ListPrice": { "Amount": 4500, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 4500, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/28789-en-fr001373-raw-carbon.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "/globalassets/digizuite/28784-en-fr001373-raw-carbon-swatch.jpg",
+        "SavingPercent": 0,
+        "Order": 0
+      },
+      {
+        "Code": "FR001373 RAW GREY 2X",
+        "Color": "Raw Carbon",
+        "ListPrice": { "Amount": 4500, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 4500, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/28789-en-fr001373-raw-carbon.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "/globalassets/digizuite/28784-en-fr001373-raw-carbon-swatch.jpg",
+        "SavingPercent": 0,
+        "Order": 0
+      }
+    ],
+    "FacetFieldsDictionary": {
+      "Size": ["Large", "Medium", "Small", "Extra Large", "XX Large"],
+      "Color": ["Sangria", "Sage", "Turquoise", "Raw Carbon"],
+      "MultiValueIntendedUse": ["Trail / All-Mountain", "Enduro"],
+      "WheelSize": ["29\""],
+      "MultiValueDiscipline": ["MTB"],
+      "Gender": ["Men"],
+      "BikeModel": ["Yeti SB140"],
+      "FrameMaterial": ["Carbon"],
+      "RearSuspensionType": ["Full Suspension"]
+    },
+    "CatalogNodeCodes": [
+      "Yeti Cycles",
+      "C0000QHQ",
+      "C0000QHP",
+      "C0000QEF",
+      "5637144578",
+      "5637144576"
+    ],
+    "Price": ["$4,500.00"],
+    "SortPrice": 4500,
+    "Discount": 0,
+    "Brand": "Yeti Cycles",
+    "AverageRating": 0,
+    "NumberOfReviews": 0,
+    "ImageUrl": null,
+    "Published": "2023-01-16T19:30:18+00:00",
+    "ColorVariantsToShow": [
+      {
+        "Code": "FR001373 SANGRIA L",
+        "Color": "Sangria",
+        "ListPrice": { "Amount": 4500, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 4500, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/28788-en-fr001373-sangria.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/28782-en-fr001373-sangria-swatch.jpg?w=30&h=30&fit=max&auto=format&q=70",
+        "SavingPercent": 0,
+        "Order": 0
+      },
+      {
+        "Code": "FR001373 SAGE L",
+        "Color": "Sage",
+        "ListPrice": { "Amount": 4500, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 4500, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/28787-en-fr001373-sage.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/28783-en-fr001373-sage-swatch.jpg?w=30&h=30&fit=max&auto=format&q=70",
+        "SavingPercent": 0,
+        "Order": 0
+      },
+      {
+        "Code": "FR001373 TURQUOISE L",
+        "Color": "Turquoise",
+        "ListPrice": { "Amount": 4500, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 4500, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/28786-en-fr001373-turquoise.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/28785-en-fr001373-turquoise-swatch.jpg?w=30&h=30&fit=max&auto=format&q=70",
+        "SavingPercent": 0,
+        "Order": 0
+      },
+      {
+        "Code": "FR001373 RAW GREY L",
+        "Color": "Raw Carbon",
+        "ListPrice": { "Amount": 4500, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 4500, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/28789-en-fr001373-raw-carbon.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/28784-en-fr001373-raw-carbon-swatch.jpg?w=30&h=30&fit=max&auto=format&q=70",
+        "SavingPercent": 0,
+        "Order": 0
+      }
+    ]
+  },
+  {
+    "Id": 400612,
+    "Name": "NORCO OPTIC C FRAME KIT 2023",
+    "Code": "FR001287",
+    "Url": "/NORCO-OPTIC-C-FRAME-KIT-2023",
+    "IsOnSale": false,
+    "IsNew": false,
+    "Created": "2021-09-09T12:28:41+00:00",
+    "SelectedVariant": {
+      "Code": "FR001287 SM GREY/GOLD",
+      "Color": "Grey/Gold",
+      "ListPrice": { "Amount": 2699, "Currency": "USD" },
+      "MsrpPrice": { "Amount": 2699, "Currency": "USD" },
+      "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/28958-en-fr001287-grey~gold.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+      "SwatchImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/28957-en-fr001287-grey~gold-swatch.jpg?w=30&h=30&fit=max&auto=format&q=70",
+      "SavingPercent": 0,
+      "Order": 0
+    },
+    "Variants": [
+      {
+        "Code": "FR001287 SM GREY/GOLD",
+        "Color": "Grey/Gold",
+        "ListPrice": { "Amount": 2699, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 2699, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/28958-en-fr001287-grey~gold.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/28957-en-fr001287-grey~gold-swatch.jpg?w=30&h=30&fit=max&auto=format&q=70",
+        "SavingPercent": 0,
+        "Order": 0
+      },
+      {
+        "Code": "FR001287 MD GREY/GOLD",
+        "Color": "Grey/Gold",
+        "ListPrice": { "Amount": 2699, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 2699, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/28958-en-fr001287-grey~gold.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "/globalassets/digizuite/28957-en-fr001287-grey~gold-swatch.jpg",
+        "SavingPercent": 0,
+        "Order": 0
+      },
+      {
+        "Code": "FR001287 LG GREY/GOLD",
+        "Color": "Grey/Gold",
+        "ListPrice": { "Amount": 2699, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 2699, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/28958-en-fr001287-grey~gold.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "/globalassets/digizuite/28957-en-fr001287-grey~gold-swatch.jpg",
+        "SavingPercent": 0,
+        "Order": 0
+      },
+      {
+        "Code": "FR001287 XL GREY/GOLD",
+        "Color": "Grey/Gold",
+        "ListPrice": { "Amount": 2699, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 2699, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/28958-en-fr001287-grey~gold.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "/globalassets/digizuite/28957-en-fr001287-grey~gold-swatch.jpg",
+        "SavingPercent": 0,
+        "Order": 0
+      }
+    ],
+    "FacetFieldsDictionary": {
+      "Size": ["Small", "Medium", "Large", "Extra Large"],
+      "Color": ["Grey/Gold"],
+      "MultiValueIntendedUse": ["Trail / All-Mountain"],
+      "WheelSize": ["29\""],
+      "MultiValueDiscipline": ["MTB"],
+      "Gender": ["Men"],
+      "BikeModel": ["Norco Optic"],
+      "RearSuspensionType": ["Full Suspension"]
+    },
+    "CatalogNodeCodes": [
+      "Norco",
+      "C0000QHQ",
+      "C0000QHP",
+      "C0000QEF",
+      "5637144578",
+      "5637144576"
+    ],
+    "Price": ["$2,699.00"],
+    "SortPrice": 2699,
+    "Discount": 0,
+    "Brand": "Norco",
+    "AverageRating": 0,
+    "NumberOfReviews": 0,
+    "ImageUrl": null,
+    "Published": "2023-01-22T23:50:50+00:00",
+    "ColorVariantsToShow": [
+      {
+        "Code": "FR001287 SM GREY/GOLD",
+        "Color": "Grey/Gold",
+        "ListPrice": { "Amount": 2699, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 2699, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/28958-en-fr001287-grey~gold.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/28957-en-fr001287-grey~gold-swatch.jpg?w=30&h=30&fit=max&auto=format&q=70",
+        "SavingPercent": 0,
+        "Order": 0
+      }
+    ]
+  },
+  {
+    "Id": 443198,
+    "Name": "Ibis Ripley 4 Frameset 2023",
+    "Code": "FR001359",
+    "Url": "/Ibis-Ripley-4-Frameset-2023",
+    "IsOnSale": false,
+    "IsNew": false,
+    "Created": "2022-09-25T05:16:09+00:00",
+    "SelectedVariant": {
+      "Code": "FR001359 SMALL GREY",
+      "Color": "Drywall",
+      "ListPrice": { "Amount": 3499, "Currency": "USD" },
+      "MsrpPrice": { "Amount": 3499, "Currency": "USD" },
+      "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/28921-en-fr001359-drywall.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+      "SwatchImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/28919-en-fr001359-drywall-swatch.jpg?w=30&h=30&fit=max&auto=format&q=70",
+      "SavingPercent": 0,
+      "Order": 0
+    },
+    "Variants": [
+      {
+        "Code": "FR001359 SMALL GREY",
+        "Color": "Drywall",
+        "ListPrice": { "Amount": 3499, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 3499, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/28921-en-fr001359-drywall.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/28919-en-fr001359-drywall-swatch.jpg?w=30&h=30&fit=max&auto=format&q=70",
+        "SavingPercent": 0,
+        "Order": 0
+      },
+      {
+        "Code": "FR001359 SMALL RED",
+        "Color": "Bad Apple",
+        "ListPrice": { "Amount": 3499, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 3499, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/28922-en-fr001359-bad-apple.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/28920-en-fr001359-bad-apple-swatch.jpg?w=30&h=30&fit=max&auto=format&q=70",
+        "SavingPercent": 0,
+        "Order": 0
+      },
+      {
+        "Code": "FR001359 MEDIUM GREY",
+        "Color": "Drywall",
+        "ListPrice": { "Amount": 3499, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 3499, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/28921-en-fr001359-drywall.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "/globalassets/digizuite/28919-en-fr001359-drywall-swatch.jpg",
+        "SavingPercent": 0,
+        "Order": 0
+      },
+      {
+        "Code": "FR001359 MEDIUM RED",
+        "Color": "Bad Apple",
+        "ListPrice": { "Amount": 3499, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 3499, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/28922-en-fr001359-bad-apple.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "/globalassets/digizuite/28920-en-fr001359-bad-apple-swatch.jpg",
+        "SavingPercent": 0,
+        "Order": 0
+      },
+      {
+        "Code": "FR001359 LARGE GREY",
+        "Color": "Drywall",
+        "ListPrice": { "Amount": 3499, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 3499, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/28921-en-fr001359-drywall.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "/globalassets/digizuite/28919-en-fr001359-drywall-swatch.jpg",
+        "SavingPercent": 0,
+        "Order": 0
+      },
+      {
+        "Code": "FR001359 LARGE RED",
+        "Color": "Bad Apple",
+        "ListPrice": { "Amount": 3499, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 3499, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/28922-en-fr001359-bad-apple.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "/globalassets/digizuite/28920-en-fr001359-bad-apple-swatch.jpg",
+        "SavingPercent": 0,
+        "Order": 0
+      },
+      {
+        "Code": "FR001359 X LARGE GREY",
+        "Color": "Drywall",
+        "ListPrice": { "Amount": 3499, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 3499, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/28921-en-fr001359-drywall.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "/globalassets/digizuite/28919-en-fr001359-drywall-swatch.jpg",
+        "SavingPercent": 0,
+        "Order": 0
+      },
+      {
+        "Code": "FR001359 X LARGE RED",
+        "Color": "Bad Apple",
+        "ListPrice": { "Amount": 3499, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 3499, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/28922-en-fr001359-bad-apple.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "/globalassets/digizuite/28920-en-fr001359-bad-apple-swatch.jpg",
+        "SavingPercent": 0,
+        "Order": 0
+      }
+    ],
+    "FacetFieldsDictionary": {
+      "Size": ["Small", "Medium", "Large", "Extra Large"],
+      "Color": ["Drywall", "Bad Apple"],
+      "MultiValueIntendedUse": ["Trail / All-Mountain"],
+      "WheelSize": ["29\""],
+      "MultiValueDiscipline": ["MTB"],
+      "Gender": ["Men"],
+      "BikeModel": ["Ibis Ripley"],
+      "FrameMaterial": ["Carbon"],
+      "RearSuspensionType": ["Full Suspension"]
+    },
+    "CatalogNodeCodes": [
+      "Ibis Bicycles",
+      "C0000QHQ",
+      "C0000QHP",
+      "C0000QEF",
+      "5637144578",
+      "5637144576"
+    ],
+    "Price": ["$3,499.00"],
+    "SortPrice": 3499,
+    "Discount": 0,
+    "Brand": "Ibis Bicycles",
+    "AverageRating": 0,
+    "NumberOfReviews": 0,
+    "ImageUrl": null,
+    "Published": "2023-01-31T04:42:12+00:00",
+    "ColorVariantsToShow": [
+      {
+        "Code": "FR001359 SMALL GREY",
+        "Color": "Drywall",
+        "ListPrice": { "Amount": 3499, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 3499, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/28921-en-fr001359-drywall.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/28919-en-fr001359-drywall-swatch.jpg?w=30&h=30&fit=max&auto=format&q=70",
+        "SavingPercent": 0,
+        "Order": 0
+      },
+      {
+        "Code": "FR001359 SMALL RED",
+        "Color": "Bad Apple",
+        "ListPrice": { "Amount": 3499, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 3499, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/28922-en-fr001359-bad-apple.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/28920-en-fr001359-bad-apple-swatch.jpg?w=30&h=30&fit=max&auto=format&q=70",
+        "SavingPercent": 0,
+        "Order": 0
+      }
+    ]
+  },
+  {
+    "Id": 452752,
+    "Name": "Rocky Mountain Element Carbon Frameset 2023",
+    "Code": "FR001374",
+    "Url": "/Rocky-Mountain-Element-Carbon-Frameset-2023-1",
+    "IsOnSale": false,
+    "IsNew": false,
+    "Created": "2023-01-21T00:11:59+00:00",
+    "SelectedVariant": {
+      "Code": "FR001374 BLACK L",
+      "Color": "Black",
+      "ListPrice": { "Amount": 3499, "Currency": "USD" },
+      "MsrpPrice": { "Amount": 3499, "Currency": "USD" },
+      "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/29022-en-fr001374-black.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+      "SwatchImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/29023-en-fr001374-black-swatch.jpg?w=30&h=30&fit=max&auto=format&q=70",
+      "SavingPercent": 0,
+      "Order": 0
+    },
+    "Variants": [
+      {
+        "Code": "FR001374 BLACK L",
+        "Color": "Black",
+        "ListPrice": { "Amount": 3499, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 3499, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/29022-en-fr001374-black.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/29023-en-fr001374-black-swatch.jpg?w=30&h=30&fit=max&auto=format&q=70",
+        "SavingPercent": 0,
+        "Order": 0
+      },
+      {
+        "Code": "FR001374 BLACK M",
+        "Color": "Black",
+        "ListPrice": { "Amount": 3499, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 3499, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/29022-en-fr001374-black.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "/globalassets/digizuite/29023-en-fr001374-black-swatch.jpg",
+        "SavingPercent": 0,
+        "Order": 0
+      },
+      {
+        "Code": "FR001374 BLACK XL",
+        "Color": "Black",
+        "ListPrice": { "Amount": 3499, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 3499, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/29022-en-fr001374-black.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "/globalassets/digizuite/29023-en-fr001374-black-swatch.jpg",
+        "SavingPercent": 0,
+        "Order": 0
+      }
+    ],
+    "FacetFieldsDictionary": {
+      "Size": ["Large", "Medium", "Extra Large"],
+      "Color": ["Black"],
+      "FinancingAvailable": ["False"],
+      "MultiValueIntendedUse": ["Trail / All-Mountain"],
+      "WheelSize": ["29\""],
+      "MultiValueDiscipline": ["MTB"],
+      "Gender": ["Men"],
+      "BikeModel": ["Rocky Mountain Element"],
+      "FrameMaterial": ["Carbon"],
+      "RearSuspensionType": ["Full Suspension"]
+    },
+    "CatalogNodeCodes": [
+      "Rocky Mountain",
+      "C0000QHQ",
+      "C0000QHP",
+      "C0000QEF",
+      "5637144578",
+      "5637144576"
+    ],
+    "Price": ["$3,499.00"],
+    "SortPrice": 3499,
+    "Discount": 0,
+    "Brand": "Rocky Mountain",
+    "AverageRating": 0,
+    "NumberOfReviews": 0,
+    "ImageUrl": null,
+    "Published": "2023-01-24T14:17:00+00:00",
+    "ColorVariantsToShow": [
+      {
+        "Code": "FR001374 BLACK L",
+        "Color": "Black",
+        "ListPrice": { "Amount": 3499, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 3499, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/29022-en-fr001374-black.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/29023-en-fr001374-black-swatch.jpg?w=30&h=30&fit=max&auto=format&q=70",
+        "SavingPercent": 0,
+        "Order": 0
+      }
+    ]
+  },
+  {
+    "Id": 452776,
+    "Name": "Rocky Mountain Altitude Carbon Frameset 2023",
+    "Code": "FR001376",
+    "Url": "/Rocky-Mountain-Altitude-Carbon-Frameset-20235",
+    "IsOnSale": false,
+    "IsNew": false,
+    "Created": "2023-01-21T00:12:09+00:00",
+    "SelectedVariant": {
+      "Code": "FR001376 RED L",
+      "Color": "Red",
+      "ListPrice": { "Amount": 4099, "Currency": "USD" },
+      "MsrpPrice": { "Amount": 4099, "Currency": "USD" },
+      "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/29025-en-fr001376-red.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+      "SwatchImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/29024-en-fr001376-red-swatch.jpg?w=30&h=30&fit=max&auto=format&q=70",
+      "SavingPercent": 0,
+      "Order": 0
+    },
+    "Variants": [
+      {
+        "Code": "FR001376 RED L",
+        "Color": "Red",
+        "ListPrice": { "Amount": 4099, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 4099, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/29025-en-fr001376-red.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/29024-en-fr001376-red-swatch.jpg?w=30&h=30&fit=max&auto=format&q=70",
+        "SavingPercent": 0,
+        "Order": 0
+      },
+      {
+        "Code": "FR001376 RED M",
+        "Color": "Red",
+        "ListPrice": { "Amount": 4099, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 4099, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/29025-en-fr001376-red.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "/globalassets/digizuite/29024-en-fr001376-red-swatch.jpg",
+        "SavingPercent": 0,
+        "Order": 0
+      },
+      {
+        "Code": "FR001376 RED XL",
+        "Color": "Red",
+        "ListPrice": { "Amount": 4099, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 4099, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/29025-en-fr001376-red.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "/globalassets/digizuite/29024-en-fr001376-red-swatch.jpg",
+        "SavingPercent": 0,
+        "Order": 0
+      }
+    ],
+    "FacetFieldsDictionary": {
+      "Size": ["Large", "Medium", "Extra Large"],
+      "Color": ["Red"],
+      "MultiValueIntendedUse": ["Enduro"],
+      "WheelSize": ["29\""],
+      "MultiValueDiscipline": ["MTB"],
+      "Gender": ["Men"],
+      "BikeModel": ["Rocky Mountain Altitude"],
+      "FrameMaterial": ["Carbon"],
+      "RearSuspensionType": ["Full Suspension"]
+    },
+    "CatalogNodeCodes": [
+      "Rocky Mountain",
+      "C0000QHQ",
+      "C0000QHP",
+      "C0000QEF",
+      "5637144578",
+      "5637144576"
+    ],
+    "Price": ["$4,099.00"],
+    "SortPrice": 4099,
+    "Discount": 0,
+    "Brand": "Rocky Mountain",
+    "AverageRating": 0,
+    "NumberOfReviews": 0,
+    "ImageUrl": null,
+    "Published": "2023-01-25T15:04:54+00:00",
+    "ColorVariantsToShow": [
+      {
+        "Code": "FR001376 RED L",
+        "Color": "Red",
+        "ListPrice": { "Amount": 4099, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 4099, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/29025-en-fr001376-red.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/29024-en-fr001376-red-swatch.jpg?w=30&h=30&fit=max&auto=format&q=70",
+        "SavingPercent": 0,
+        "Order": 0
+      }
+    ]
+  },
+  {
+    "Id": 449506,
+    "Name": "Marin San Quentin 3 27 5 Frame 2023",
+    "Code": "FR001370",
+    "Url": "/Marin-San-Quentin-3-27-5-Frame-2023",
+    "IsOnSale": false,
+    "IsNew": true,
+    "Created": "2022-12-02T17:45:45+00:00",
+    "SelectedVariant": {
+      "Code": "FR001370 LARGE WHITE",
+      "Color": "White",
+      "ListPrice": { "Amount": 549, "Currency": "USD" },
+      "MsrpPrice": { "Amount": 549, "Currency": "USD" },
+      "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/30892-en-fr001370-white.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+      "SwatchImageUrl": null,
+      "SavingPercent": 0,
+      "Order": 0
+    },
+    "Variants": [
+      {
+        "Code": "FR001370 LARGE WHITE",
+        "Color": "White",
+        "ListPrice": { "Amount": 549, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 549, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/30892-en-fr001370-white.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": null,
+        "SavingPercent": 0,
+        "Order": 0
+      },
+      {
+        "Code": "FR001370 MEDIUM WHITE",
+        "Color": "White",
+        "ListPrice": { "Amount": 549, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 549, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/30892-en-fr001370-white.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": null,
+        "SavingPercent": 0,
+        "Order": 0
+      },
+      {
+        "Code": "FR001370 SMALL WHITE",
+        "Color": "White",
+        "ListPrice": { "Amount": 549, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 549, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/30892-en-fr001370-white.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": null,
+        "SavingPercent": 0,
+        "Order": 0
+      }
+    ],
+    "FacetFieldsDictionary": {
+      "Size": ["Large", "Medium", "Small"],
+      "Color": ["White"],
+      "MultiValueIntendedUse": ["Trail / All-Mountain"],
+      "WheelSize": ["27.5\""],
+      "MultiValueDiscipline": ["MTB"],
+      "Gender": ["Men"],
+      "BikeModel": ["Marin San Quentin"],
+      "FrameMaterial": ["Aluminum"],
+      "RearSuspensionType": ["Hardtail"]
+    },
+    "CatalogNodeCodes": [
+      "Marin Bikes",
+      "C0000QHQ",
+      "C0000QHP",
+      "C0000QEF",
+      "5637144578",
+      "5637144576"
+    ],
+    "Price": ["$549.00"],
+    "SortPrice": 549,
+    "Discount": 0,
+    "Brand": "Marin Bikes",
+    "AverageRating": 0,
+    "NumberOfReviews": 0,
+    "ImageUrl": null,
+    "Published": "2023-03-09T18:21:49+00:00",
+    "ColorVariantsToShow": [
+      {
+        "Code": "FR001370 LARGE WHITE",
+        "Color": "White",
+        "ListPrice": { "Amount": 549, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 549, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/30892-en-fr001370-white.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": null,
+        "SavingPercent": 0,
+        "Order": 0
+      }
+    ]
+  },
+  {
+    "Id": 350279,
+    "Name": "Chromag Monk Bike Frame",
+    "Code": "FR001126",
+    "Url": "/Chromag-Monk-Bike-Frame-2020",
+    "IsOnSale": true,
+    "IsNew": false,
+    "Created": "2020-01-15T19:22:59+00:00",
+    "SelectedVariant": {
+      "Code": "FR001126 GREY LRG",
+      "Color": "Cool Grey",
+      "ListPrice": { "Amount": 552.94, "Currency": "USD" },
+      "MsrpPrice": { "Amount": 736, "Currency": "USD" },
+      "ImageUrl": "https://jnsn.imgix.net/globalassets/product-images---all-assets/chromag/fr001126-cool-grey.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+      "SwatchImageUrl": "https://jnsn.imgix.net/globalassets/product-images---all-assets/chromag/fr001126-cool-grey-swatch.jpg?w=30&h=30&fit=max&auto=format&q=70",
+      "SavingPercent": 25,
+      "Order": 0
+    },
+    "Variants": [
+      {
+        "Code": "FR001126 GREY LRG",
+        "Color": "Cool Grey",
+        "ListPrice": { "Amount": 552.94, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 736, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/product-images---all-assets/chromag/fr001126-cool-grey.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "https://jnsn.imgix.net/globalassets/product-images---all-assets/chromag/fr001126-cool-grey-swatch.jpg?w=30&h=30&fit=max&auto=format&q=70",
+        "SavingPercent": 25,
+        "Order": 0
+      },
+      {
+        "Code": "FR001126 BG LRG",
+        "Color": "Black Gold",
+        "ListPrice": { "Amount": 552.94, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 736, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/product-images---all-assets/chromag/fr001126-black-gold.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "https://jnsn.imgix.net/globalassets/product-images---all-assets/chromag/fr001126-black-gold-swatch.jpg?w=30&h=30&fit=max&auto=format&q=70",
+        "SavingPercent": 25,
+        "Order": 0
+      }
+    ],
+    "FacetFieldsDictionary": {
+      "Size": ["Long"],
+      "Color": ["Cool Grey", "Black Gold"],
+      "MultiValueIntendedUse": ["Street, Park & Dirt"],
+      "WheelSize": ["26\""],
+      "MultiValueDiscipline": ["MTB"],
+      "Gender": ["Men"],
+      "BikeModel": ["Chromag Monk"],
+      "FrameMaterial": ["Steel"],
+      "RearSuspensionType": ["Hardtail"]
+    },
+    "CatalogNodeCodes": [
+      "C0000QE6",
+      "C0000QE5",
+      "5637144578",
+      "5637144576",
+      "C0000QHQ",
+      "C0000QHP",
+      "C0000QEF",
+      "Chromag",
+      "HTMTBIKES",
+      "C0000QEC"
+    ],
+    "Price": ["$552.94"],
+    "SortPrice": 552.94,
+    "Discount": 25,
+    "Brand": "Chromag",
+    "AverageRating": 0,
+    "NumberOfReviews": 0,
+    "ImageUrl": null,
+    "Published": "2020-05-04T18:31:05+00:00",
+    "ColorVariantsToShow": [
+      {
+        "Code": "FR001126 GREY LRG",
+        "Color": "Cool Grey",
+        "ListPrice": { "Amount": 552.94, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 736, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/product-images---all-assets/chromag/fr001126-cool-grey.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "https://jnsn.imgix.net/globalassets/product-images---all-assets/chromag/fr001126-cool-grey-swatch.jpg?w=30&h=30&fit=max&auto=format&q=70",
+        "SavingPercent": 25,
+        "Order": 0
+      },
+      {
+        "Code": "FR001126 BG LRG",
+        "Color": "Black Gold",
+        "ListPrice": { "Amount": 552.94, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 736, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/product-images---all-assets/chromag/fr001126-black-gold.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "https://jnsn.imgix.net/globalassets/product-images---all-assets/chromag/fr001126-black-gold-swatch.jpg?w=30&h=30&fit=max&auto=format&q=70",
+        "SavingPercent": 25,
+        "Order": 0
+      }
+    ]
+  },
+  {
+    "Id": 362481,
+    "Name": "Chromag Doctahawk Frame 2021",
+    "Code": "FR001171",
+    "Url": "/Chromag-Doctahawk-Frame-2021",
+    "IsOnSale": false,
+    "IsNew": false,
+    "Created": "2020-08-12T16:47:18+00:00",
+    "SelectedVariant": {
+      "Code": "FR001171 RAW MED",
+      "Color": "Raw",
+      "ListPrice": { "Amount": 1650, "Currency": "USD" },
+      "MsrpPrice": { "Amount": 1650, "Currency": "USD" },
+      "ImageUrl": "https://jnsn.imgix.net/globalassets/product-images---all-assets/chromag/fr001171-raw.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+      "SwatchImageUrl": "/globalassets/product-images---all-assets/chromag/fr001171-raw-swatch.jpg",
+      "SavingPercent": 0,
+      "Order": 0
+    },
+    "Variants": [
+      {
+        "Code": "FR001171 RAW MED",
+        "Color": "Raw",
+        "ListPrice": { "Amount": 1650, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 1650, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/product-images---all-assets/chromag/fr001171-raw.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "/globalassets/product-images---all-assets/chromag/fr001171-raw-swatch.jpg",
+        "SavingPercent": 0,
+        "Order": 0
+      }
+    ],
+    "FacetFieldsDictionary": {
+      "Size": ["Medium"],
+      "Color": ["Raw"],
+      "MultiValueIntendedUse": ["Enduro"],
+      "WheelSize": ["29\""],
+      "MultiValueDiscipline": ["MTB"],
+      "Gender": ["Men"],
+      "BikeModel": ["Chromag Doctahawk"],
+      "FrameMaterial": ["Steel"],
+      "RearSuspensionType": ["Hardtail"]
+    },
+    "CatalogNodeCodes": [
+      "C0000QE6",
+      "C0000QE5",
+      "5637144578",
+      "5637144576",
+      "C0000QHQ",
+      "C0000QHP",
+      "C0000QEF",
+      "Chromag",
+      "ENMTBIKES",
+      "HTMTBIKES",
+      "29MTBBIKES"
+    ],
+    "Price": ["$1,650.00"],
+    "SortPrice": 1650,
+    "Discount": 0,
+    "Brand": "Chromag",
+    "AverageRating": 5,
+    "NumberOfReviews": 1,
+    "ImageUrl": null,
+    "Published": "2021-11-10T23:21:36+00:00",
+    "ColorVariantsToShow": []
+  },
+  {
+    "Id": 373924,
+    "Name": "Chromag Stylus Frame 2021",
+    "Code": "FR001211",
+    "Url": "/Chromag-Stylus-Frame-2021",
+    "IsOnSale": true,
+    "IsNew": false,
+    "Created": "2020-11-17T18:20:15+00:00",
+    "SelectedVariant": {
+      "Code": "FR001211 LARGE ROVER OLIVE",
+      "Color": "Rover Olive",
+      "ListPrice": { "Amount": 628.94, "Currency": "USD" },
+      "MsrpPrice": { "Amount": 838, "Currency": "USD" },
+      "ImageUrl": "https://jnsn.imgix.net/globalassets/product-images---all-assets/chromag/fr001211-rover-olive.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+      "SwatchImageUrl": "https://jnsn.imgix.net/globalassets/product-images---all-assets/chromag/fr001211-rover-olive-swatch.jpg?w=30&h=30&fit=max&auto=format&q=70",
+      "SavingPercent": 25,
+      "Order": 0
+    },
+    "Variants": [
+      {
+        "Code": "FR001211 LARGE ROVER OLIVE",
+        "Color": "Rover Olive",
+        "ListPrice": { "Amount": 628.94, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 838, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/product-images---all-assets/chromag/fr001211-rover-olive.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "https://jnsn.imgix.net/globalassets/product-images---all-assets/chromag/fr001211-rover-olive-swatch.jpg?w=30&h=30&fit=max&auto=format&q=70",
+        "SavingPercent": 25,
+        "Order": 0
+      },
+      {
+        "Code": "FR001211 X-LARGE, DARK CRYST",
+        "Color": "Dark Crystal",
+        "ListPrice": { "Amount": 628.94, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 838, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/product-images---all-assets/chromag/fr001211-dark-crystal.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "https://jnsn.imgix.net/globalassets/product-images---all-assets/chromag/fr001211-dark-crystal-swatch.jpg?w=30&h=30&fit=max&auto=format&q=70",
+        "SavingPercent": 25,
+        "Order": 0
+      },
+      {
+        "Code": "FR001211 X-LARGE ROVER OLIVE",
+        "Color": "Rover Olive",
+        "ListPrice": { "Amount": 628.94, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 838, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/product-images---all-assets/chromag/fr001211-rover-olive.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "/globalassets/product-images---all-assets/chromag/fr001211-rover-olive-swatch.jpg",
+        "SavingPercent": 25,
+        "Order": 0
+      }
+    ],
+    "FacetFieldsDictionary": {
+      "Size": ["Large", "Extra Large"],
+      "Color": ["Rover Olive", "Dark Crystal"],
+      "MultiValueIntendedUse": ["Trail / All-Mountain"],
+      "WheelSize": ["27.5\""],
+      "MultiValueDiscipline": ["MTB"],
+      "Gender": ["Men"],
+      "BikeModel": ["Chromag Stylus"],
+      "FrameMaterial": ["Steel"],
+      "RearSuspensionType": ["Hardtail"]
+    },
+    "CatalogNodeCodes": [
+      "C0000QE6",
+      "C0000QE5",
+      "5637144578",
+      "5637144576",
+      "C0000QHQ",
+      "C0000QHP",
+      "C0000QEF",
+      "Chromag",
+      "HTMTBIKES",
+      "TRAMMTBIKES",
+      "275MTBBIKES",
+      "5637233079",
+      "5637233076",
+      "Featured",
+      "5637233077"
+    ],
+    "Price": ["$628.94"],
+    "SortPrice": 628.94,
+    "Discount": 25,
+    "Brand": "Chromag",
+    "AverageRating": 4.8,
+    "NumberOfReviews": 4,
+    "ImageUrl": null,
+    "Published": "2021-05-10T12:15:58+00:00",
+    "ColorVariantsToShow": [
+      {
+        "Code": "FR001211 LARGE ROVER OLIVE",
+        "Color": "Rover Olive",
+        "ListPrice": { "Amount": 628.94, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 838, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/product-images---all-assets/chromag/fr001211-rover-olive.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "https://jnsn.imgix.net/globalassets/product-images---all-assets/chromag/fr001211-rover-olive-swatch.jpg?w=30&h=30&fit=max&auto=format&q=70",
+        "SavingPercent": 25,
+        "Order": 0
+      },
+      {
+        "Code": "FR001211 X-LARGE, DARK CRYST",
+        "Color": "Dark Crystal",
+        "ListPrice": { "Amount": 628.94, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 838, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/product-images---all-assets/chromag/fr001211-dark-crystal.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "https://jnsn.imgix.net/globalassets/product-images---all-assets/chromag/fr001211-dark-crystal-swatch.jpg?w=30&h=30&fit=max&auto=format&q=70",
+        "SavingPercent": 25,
+        "Order": 0
+      }
+    ]
+  },
+  {
+    "Id": 394736,
+    "Name": "Chromag Surface-Voyager Frame 2021",
+    "Code": "FR001273",
+    "Url": "/Chromag-Surface-Voyager-Frame-2021",
+    "IsOnSale": true,
+    "IsNew": false,
+    "Created": "2021-06-28T22:15:53+00:00",
+    "SelectedVariant": {
+      "Code": "FR001273 COPPER MEDIUM/LARGE",
+      "Color": "Copper",
+      "ListPrice": { "Amount": 1386.94, "Currency": "USD" },
+      "MsrpPrice": { "Amount": 2133, "Currency": "USD" },
+      "ImageUrl": "https://jnsn.imgix.net/globalassets/product-images---all-assets/chromag/fr001273-copper.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+      "SwatchImageUrl": "/globalassets/product-images---all-assets/chromag/fr001273-copper-swatch.jpg",
+      "SavingPercent": 35,
+      "Order": 0
+    },
+    "Variants": [
+      {
+        "Code": "FR001273 COPPER MEDIUM/LARGE",
+        "Color": "Copper",
+        "ListPrice": { "Amount": 1386.94, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 2133, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/product-images---all-assets/chromag/fr001273-copper.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "/globalassets/product-images---all-assets/chromag/fr001273-copper-swatch.jpg",
+        "SavingPercent": 35,
+        "Order": 0
+      }
+    ],
+    "FacetFieldsDictionary": {
+      "Size": ["Medium/Large"],
+      "Color": ["Copper"],
+      "MultiValueIntendedUse": ["Trail / All-Mountain"],
+      "WheelSize": ["29\""],
+      "MultiValueDiscipline": ["MTB"],
+      "Gender": ["Men"],
+      "BikeModel": ["Chromag Surface"],
+      "FrameMaterial": ["Steel"],
+      "RearSuspensionType": ["Hardtail"]
+    },
+    "CatalogNodeCodes": [
+      "C0000QE6",
+      "C0000QE5",
+      "5637144578",
+      "5637144576",
+      "C0000QHQ",
+      "C0000QHP",
+      "C0000QEF",
+      "Chromag",
+      "Components25th",
+      "25thSale",
+      "Sales",
+      "HTMTBIKES",
+      "TRAMMTBIKES",
+      "29MTBBIKES"
+    ],
+    "Price": ["$1,386.94"],
+    "SortPrice": 1386.94,
+    "Discount": 35,
+    "Brand": "Chromag",
+    "AverageRating": 0,
+    "NumberOfReviews": 0,
+    "ImageUrl": null,
+    "Published": "2021-08-09T21:29:11+00:00",
+    "ColorVariantsToShow": []
+  },
+  {
+    "Id": 394838,
+    "Name": "Chromag Primer Frame 2021",
+    "Code": "FR001272",
+    "Url": "/Chromag-Primer-Frame-2021",
+    "IsOnSale": true,
+    "IsNew": false,
+    "Created": "2021-06-28T22:16:19+00:00",
+    "SelectedVariant": {
+      "Code": "FR001272 MATTE RED MEDIUM",
+      "Color": "Matte Red",
+      "ListPrice": { "Amount": 1275.94, "Currency": "USD" },
+      "MsrpPrice": { "Amount": 1700, "Currency": "USD" },
+      "ImageUrl": "https://jnsn.imgix.net/globalassets/product-images---all-assets/chromag/fr001272-matte-red.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+      "SwatchImageUrl": "https://jnsn.imgix.net/globalassets/product-images---all-assets/chromag/fr001272-matte-red-swatch.jpg?w=30&h=30&fit=max&auto=format&q=70",
+      "SavingPercent": 25,
+      "Order": 0
+    },
+    "Variants": [
+      {
+        "Code": "FR001272 MATTE RED MEDIUM",
+        "Color": "Matte Red",
+        "ListPrice": { "Amount": 1275.94, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 1700, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/product-images---all-assets/chromag/fr001272-matte-red.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "https://jnsn.imgix.net/globalassets/product-images---all-assets/chromag/fr001272-matte-red-swatch.jpg?w=30&h=30&fit=max&auto=format&q=70",
+        "SavingPercent": 25,
+        "Order": 0
+      },
+      {
+        "Code": "FR001272 MATTE RED MEDIUM/LARGE",
+        "Color": "Matte Red",
+        "ListPrice": { "Amount": 1275.94, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 1700, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/product-images---all-assets/chromag/fr001272-matte-red.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "/globalassets/product-images---all-assets/chromag/fr001272-matte-red-swatch.jpg",
+        "SavingPercent": 25,
+        "Order": 0
+      }
+    ],
+    "FacetFieldsDictionary": {
+      "Size": ["Medium", "Medium/Large"],
+      "Color": ["Matte Red"],
+      "MultiValueIntendedUse": ["Trail / All-Mountain"],
+      "WheelSize": ["29\""],
+      "MultiValueDiscipline": ["MTB"],
+      "Gender": ["Men"],
+      "BikeModel": ["Chromag Primer"],
+      "FrameMaterial": ["Steel"],
+      "RearSuspensionType": ["Hardtail"]
+    },
+    "CatalogNodeCodes": [
+      "C0000QE6",
+      "C0000QE5",
+      "5637144578",
+      "5637144576",
+      "C0000QHQ",
+      "C0000QHP",
+      "C0000QEF",
+      "Chromag",
+      "HTMTBIKES",
+      "TRAMMTBIKES",
+      "29MTBBIKES",
+      "5637233079",
+      "5637233076",
+      "Featured",
+      "5637233077"
+    ],
+    "Price": ["$1,275.94"],
+    "SortPrice": 1275.94,
+    "Discount": 25,
+    "Brand": "Chromag",
+    "AverageRating": 0,
+    "NumberOfReviews": 0,
+    "ImageUrl": null,
+    "Published": "2021-08-10T17:11:54+00:00",
+    "ColorVariantsToShow": [
+      {
+        "Code": "FR001272 MATTE RED MEDIUM",
+        "Color": "Matte Red",
+        "ListPrice": { "Amount": 1275.94, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 1700, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/product-images---all-assets/chromag/fr001272-matte-red.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "https://jnsn.imgix.net/globalassets/product-images---all-assets/chromag/fr001272-matte-red-swatch.jpg?w=30&h=30&fit=max&auto=format&q=70",
+        "SavingPercent": 25,
+        "Order": 0
+      }
+    ]
+  },
+  {
+    "Id": 395996,
+    "Name": "Marin Alcatraz V Frame 2022",
+    "Code": "FR001277",
+    "Url": "/Marin-Alcatraz-V-Frame-2022-3",
+    "IsOnSale": false,
+    "IsNew": false,
+    "Created": "2021-07-21T18:37:12+00:00",
+    "SelectedVariant": {
+      "Code": "FR001277 L BLACK WHITE",
+      "Color": "Black/White",
+      "ListPrice": { "Amount": 549, "Currency": "USD" },
+      "MsrpPrice": { "Amount": 549, "Currency": "USD" },
+      "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/12205-en-fr001277-black~white.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+      "SwatchImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/12206-en-fr001277-black~white-swatch.jpg?w=30&h=30&fit=max&auto=format&q=70",
+      "SavingPercent": 0,
+      "Order": 0
+    },
+    "Variants": [
+      {
+        "Code": "FR001277 L BLACK WHITE",
+        "Color": "Black/White",
+        "ListPrice": { "Amount": 549, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 549, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/12205-en-fr001277-black~white.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/12206-en-fr001277-black~white-swatch.jpg?w=30&h=30&fit=max&auto=format&q=70",
+        "SavingPercent": 0,
+        "Order": 0
+      },
+      {
+        "Code": "FR001277 S BLACK WHITE",
+        "Color": "Black/White",
+        "ListPrice": { "Amount": 549, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 549, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/12205-en-fr001277-black~white.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "/globalassets/digizuite/12206-en-fr001277-black~white-swatch.jpg",
+        "SavingPercent": 0,
+        "Order": 0
+      }
+    ],
+    "FacetFieldsDictionary": {
+      "Size": ["Large", "Small"],
+      "Color": ["Black/White"],
+      "MultiValueIntendedUse": ["Street, Park & Dirt"],
+      "WheelSize": ["26\""],
+      "MultiValueDiscipline": ["MTB"],
+      "Gender": ["Men"],
+      "BikeModel": ["Marin Alcatraz"],
+      "FrameMaterial": ["Aluminum"],
+      "RearSuspensionType": ["Hardtail"]
+    },
+    "CatalogNodeCodes": [
+      "C0000QEC",
+      "C0000QE5",
+      "5637144578",
+      "5637144576",
+      "C0000QE6",
+      "C0000QHQ",
+      "C0000QHP",
+      "C0000QEF",
+      "Marin Bikes",
+      "HTMTBIKES"
+    ],
+    "Price": ["$549.00"],
+    "SortPrice": 549,
+    "Discount": 0,
+    "Brand": "Marin Bikes",
+    "AverageRating": 0,
+    "NumberOfReviews": 0,
+    "ImageUrl": null,
+    "Published": "2022-04-01T18:26:11+00:00",
+    "ColorVariantsToShow": [
+      {
+        "Code": "FR001277 L BLACK WHITE",
+        "Color": "Black/White",
+        "ListPrice": { "Amount": 549, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 549, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/12205-en-fr001277-black~white.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/12206-en-fr001277-black~white-swatch.jpg?w=30&h=30&fit=max&auto=format&q=70",
+        "SavingPercent": 0,
+        "Order": 0
+      }
+    ]
+  },
+  {
+    "Id": 396053,
+    "Name": "Marin ALPINE TRAIL CARBON 2 FRAME 2022",
+    "Code": "FR001278",
+    "Url": "/Marin-ALPINE-TRAIL-CARBON-2-FRAME-2022",
+    "IsOnSale": true,
+    "IsNew": false,
+    "Created": "2021-07-21T18:39:13+00:00",
+    "SelectedVariant": {
+      "Code": "FR001278 S BK/SILVER",
+      "Color": "Black/Silver",
+      "ListPrice": { "Amount": 1849.94, "Currency": "USD" },
+      "MsrpPrice": { "Amount": 2349, "Currency": "USD" },
+      "ImageUrl": "https://jnsn.imgix.net/globalassets/product-images---all-assets/marin-2021/fr001278-black~silver.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+      "SwatchImageUrl": "/globalassets/product-images---all-assets/marin-2021/fr001278-black~silver-swatch.jpg",
+      "SavingPercent": 21,
+      "Order": 0
+    },
+    "Variants": [
+      {
+        "Code": "FR001278 S BK/SILVER",
+        "Color": "Black/Silver",
+        "ListPrice": { "Amount": 1849.94, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 2349, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/product-images---all-assets/marin-2021/fr001278-black~silver.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "/globalassets/product-images---all-assets/marin-2021/fr001278-black~silver-swatch.jpg",
+        "SavingPercent": 21,
+        "Order": 0
+      }
+    ],
+    "FacetFieldsDictionary": {
+      "Size": ["Small"],
+      "Color": ["Black/Silver"],
+      "MultiValueIntendedUse": ["Trail / All-Mountain", "Enduro"],
+      "WheelSize": ["29\""],
+      "MultiValueDiscipline": ["MTB"],
+      "Gender": ["Men"],
+      "BikeModel": ["Marin Alpine Trail"],
+      "FrameMaterial": ["Carbon"],
+      "RearSuspensionType": ["Full Suspension"]
+    },
+    "CatalogNodeCodes": [
+      "C0000QE6",
+      "C0000QE5",
+      "5637144578",
+      "5637144576",
+      "C0000QHQ",
+      "C0000QHP",
+      "C0000QEF",
+      "Marin Bikes",
+      "ENMTBIKES",
+      "FSMTBIKES",
+      "TRAMMTBIKES",
+      "29MTBBIKES",
+      "5637229340",
+      "5637229327",
+      "5637229326",
+      "Featured"
+    ],
+    "Price": ["$1,849.94"],
+    "SortPrice": 1849.94,
+    "Discount": 21,
+    "Brand": "Marin Bikes",
+    "AverageRating": 5,
+    "NumberOfReviews": 1,
+    "ImageUrl": null,
+    "Published": "2022-01-05T13:35:36+00:00",
+    "ColorVariantsToShow": []
+  },
+  {
+    "Id": 400775,
+    "Name": "NORCO SIGHT C FRAME KIT 29\" 2023",
+    "Code": "FR001285",
+    "Url": "/NORCO-SIGHT-C-FRAME-KIT-29-2023",
+    "IsOnSale": false,
+    "IsNew": false,
+    "Created": "2021-09-09T12:30:25+00:00",
+    "SelectedVariant": {
+      "Code": "FR001285 SM GREY/GREEN",
+      "Color": "Grey/Green",
+      "ListPrice": { "Amount": 3149, "Currency": "USD" },
+      "MsrpPrice": { "Amount": 3149, "Currency": "USD" },
+      "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/21935-en-fr001285-grey~green.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+      "SwatchImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/21934-en-fr001285-grey~green-swatch.jpg?w=30&h=30&fit=max&auto=format&q=70",
+      "SavingPercent": 0,
+      "Order": 0
+    },
+    "Variants": [
+      {
+        "Code": "FR001285 SM GREY/GREEN",
+        "Color": "Grey/Green",
+        "ListPrice": { "Amount": 3149, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 3149, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/21935-en-fr001285-grey~green.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/21934-en-fr001285-grey~green-swatch.jpg?w=30&h=30&fit=max&auto=format&q=70",
+        "SavingPercent": 0,
+        "Order": 0
+      },
+      {
+        "Code": "FR001285 MD GREY/GREEN",
+        "Color": "Grey/Green",
+        "ListPrice": { "Amount": 3149, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 3149, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/21935-en-fr001285-grey~green.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "/globalassets/digizuite/21934-en-fr001285-grey~green-swatch.jpg",
+        "SavingPercent": 0,
+        "Order": 0
+      },
+      {
+        "Code": "FR001285 LG GREY/GREEN",
+        "Color": "Grey/Green",
+        "ListPrice": { "Amount": 3149, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 3149, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/21935-en-fr001285-grey~green.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "/globalassets/digizuite/21934-en-fr001285-grey~green-swatch.jpg",
+        "SavingPercent": 0,
+        "Order": 0
+      },
+      {
+        "Code": "FR001285 XL GREY/GREEN",
+        "Color": "Grey/Green",
+        "ListPrice": { "Amount": 3149, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 3149, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/21935-en-fr001285-grey~green.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "/globalassets/digizuite/21934-en-fr001285-grey~green-swatch.jpg",
+        "SavingPercent": 0,
+        "Order": 0
+      }
+    ],
+    "FacetFieldsDictionary": {
+      "Size": ["Small", "Medium", "Large", "Extra Large"],
+      "Color": ["Grey/Green"],
+      "MultiValueIntendedUse": ["Trail / All-Mountain", "Enduro"],
+      "WheelSize": ["29\""],
+      "MultiValueDiscipline": ["MTB"],
+      "Gender": ["Men"],
+      "BikeModel": ["Norco Sight"],
+      "FrameMaterial": ["Carbon"],
+      "RearSuspensionType": ["Full Suspension"]
+    },
+    "CatalogNodeCodes": [
+      "C0000QE6",
+      "C0000QE5",
+      "5637144578",
+      "5637144576",
+      "C0000QHQ",
+      "C0000QHP",
+      "C0000QEF",
+      "Norco",
+      "ENMTBIKES",
+      "FSMTBIKES",
+      "TRAMMTBIKES",
+      "29MTBBIKES"
+    ],
+    "Price": ["$3,149.00"],
+    "SortPrice": 3149,
+    "Discount": 0,
+    "Brand": "Norco",
+    "AverageRating": 0,
+    "NumberOfReviews": 0,
+    "ImageUrl": null,
+    "Published": "2022-08-02T19:12:37+00:00",
+    "ColorVariantsToShow": [
+      {
+        "Code": "FR001285 SM GREY/GREEN",
+        "Color": "Grey/Green",
+        "ListPrice": { "Amount": 3149, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 3149, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/21935-en-fr001285-grey~green.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/21934-en-fr001285-grey~green-swatch.jpg?w=30&h=30&fit=max&auto=format&q=70",
+        "SavingPercent": 0,
+        "Order": 0
+      }
+    ]
+  },
+  {
+    "Id": 413293,
+    "Name": "CHROMAG ROOTDOWN FRAME",
+    "Code": "FR001299",
+    "Url": "/CHROMAG-ROOTDOWN-FRAME-2022",
+    "IsOnSale": false,
+    "IsNew": false,
+    "Created": "2021-10-01T16:19:10+00:00",
+    "SelectedVariant": {
+      "Code": "FR001299 MD/LG BLACK CHROME",
+      "Color": "Black Chrome",
+      "ListPrice": { "Amount": 785, "Currency": "USD" },
+      "MsrpPrice": { "Amount": 785, "Currency": "USD" },
+      "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/16473-en-fr001299-black-chrome.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+      "SwatchImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/16471-en-fr001299-black-chrome-swatch.jpg?w=30&h=30&fit=max&auto=format&q=70",
+      "SavingPercent": 0,
+      "Order": 0
+    },
+    "Variants": [
+      {
+        "Code": "FR001299 MD/LG BLACK CHROME",
+        "Color": "Black Chrome",
+        "ListPrice": { "Amount": 785, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 785, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/16473-en-fr001299-black-chrome.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/16471-en-fr001299-black-chrome-swatch.jpg?w=30&h=30&fit=max&auto=format&q=70",
+        "SavingPercent": 0,
+        "Order": 0
+      },
+      {
+        "Code": "FR001299 XL BLACK CHROME",
+        "Color": "Black Chrome",
+        "ListPrice": { "Amount": 785, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 785, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/16473-en-fr001299-black-chrome.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "/globalassets/digizuite/16471-en-fr001299-black-chrome-swatch.jpg",
+        "SavingPercent": 0,
+        "Order": 0
+      },
+      {
+        "Code": "FR001299 MED CLAY",
+        "Color": "Clay",
+        "ListPrice": { "Amount": 785, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 785, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/16475-en-fr001299-clay.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/16478-en-fr001299-clay-swatch.jpg?w=30&h=30&fit=max&auto=format&q=70",
+        "SavingPercent": 0,
+        "Order": 0
+      },
+      {
+        "Code": "FR001299 MD/LG CLAY",
+        "Color": "Clay",
+        "ListPrice": { "Amount": 785, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 785, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/16475-en-fr001299-clay.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "/globalassets/digizuite/16478-en-fr001299-clay-swatch.jpg",
+        "SavingPercent": 0,
+        "Order": 0
+      },
+      {
+        "Code": "FR001299 LARGE CLAY",
+        "Color": "Clay",
+        "ListPrice": { "Amount": 785, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 785, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/16475-en-fr001299-clay.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "/globalassets/digizuite/16478-en-fr001299-clay-swatch.jpg",
+        "SavingPercent": 0,
+        "Order": 0
+      },
+      {
+        "Code": "FR001299 XL CLAY",
+        "Color": "Clay",
+        "ListPrice": { "Amount": 785, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 785, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/16475-en-fr001299-clay.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "/globalassets/digizuite/16478-en-fr001299-clay-swatch.jpg",
+        "SavingPercent": 0,
+        "Order": 0
+      },
+      {
+        "Code": "FR001299 MED MARS",
+        "Color": "Mars",
+        "ListPrice": { "Amount": 785, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 785, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/16476-en-fr001299-mars.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/16477-en-fr001299-mars-swatch.jpg?w=30&h=30&fit=max&auto=format&q=70",
+        "SavingPercent": 0,
+        "Order": 0
+      },
+      {
+        "Code": "FR001299 MD/LG MARS",
+        "Color": "Mars",
+        "ListPrice": { "Amount": 785, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 785, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/16476-en-fr001299-mars.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "/globalassets/digizuite/16477-en-fr001299-mars-swatch.jpg",
+        "SavingPercent": 0,
+        "Order": 0
+      },
+      {
+        "Code": "FR001299 LARGE MARS",
+        "Color": "Mars",
+        "ListPrice": { "Amount": 785, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 785, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/16476-en-fr001299-mars.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "/globalassets/digizuite/16477-en-fr001299-mars-swatch.jpg",
+        "SavingPercent": 0,
+        "Order": 0
+      }
+    ],
+    "FacetFieldsDictionary": {
+      "Size": ["Medium/Large", "Extra Large", "Medium", "Large"],
+      "Color": ["Black Chrome", "Clay", "Mars"],
+      "MultiValueIntendedUse": ["Trail / All-Mountain", "Enduro"],
+      "WheelSize": ["29\""],
+      "MultiValueDiscipline": ["MTB"],
+      "Gender": ["Men"],
+      "BikeModel": ["Chromag Rootdown"],
+      "FrameMaterial": ["Steel"],
+      "RearSuspensionType": ["Hardtail"]
+    },
+    "CatalogNodeCodes": [
+      "C0000QE6",
+      "C0000QE5",
+      "5637144578",
+      "5637144576",
+      "C0000QHQ",
+      "C0000QHP",
+      "C0000QEF",
+      "Chromag",
+      "ENMTBIKES",
+      "HTMTBIKES",
+      "TRAMMTBIKES",
+      "29MTBBIKES"
+    ],
+    "Price": ["$785.00"],
+    "SortPrice": 785,
+    "Discount": 0,
+    "Brand": "Chromag",
+    "AverageRating": 0,
+    "NumberOfReviews": 0,
+    "ImageUrl": null,
+    "Published": "2022-08-03T17:50:33+00:00",
+    "ColorVariantsToShow": [
+      {
+        "Code": "FR001299 MD/LG BLACK CHROME",
+        "Color": "Black Chrome",
+        "ListPrice": { "Amount": 785, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 785, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/16473-en-fr001299-black-chrome.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/16471-en-fr001299-black-chrome-swatch.jpg?w=30&h=30&fit=max&auto=format&q=70",
+        "SavingPercent": 0,
+        "Order": 0
+      },
+      {
+        "Code": "FR001299 MED CLAY",
+        "Color": "Clay",
+        "ListPrice": { "Amount": 785, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 785, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/16475-en-fr001299-clay.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/16478-en-fr001299-clay-swatch.jpg?w=30&h=30&fit=max&auto=format&q=70",
+        "SavingPercent": 0,
+        "Order": 0
+      },
+      {
+        "Code": "FR001299 MED MARS",
+        "Color": "Mars",
+        "ListPrice": { "Amount": 785, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 785, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/16476-en-fr001299-mars.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/16477-en-fr001299-mars-swatch.jpg?w=30&h=30&fit=max&auto=format&q=70",
+        "SavingPercent": 0,
+        "Order": 0
+      }
+    ]
+  },
+  {
+    "Id": 413309,
+    "Name": "CHROMAG MONK FRAME 2022",
+    "Code": "FR001302",
+    "Url": "/chromag-monk-frame-2022",
+    "IsOnSale": false,
+    "IsNew": false,
+    "Created": "2021-10-01T16:19:20+00:00",
+    "SelectedVariant": {
+      "Code": "FR001302 X-SHORT BLACK GOLD",
+      "Color": "Black/Gold",
+      "ListPrice": { "Amount": 736, "Currency": "USD" },
+      "MsrpPrice": { "Amount": 736, "Currency": "USD" },
+      "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/22146-en-fr001302-black~gold.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+      "SwatchImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/22148-en-fr001302-black~gold-swatch.jpg?w=30&h=30&fit=max&auto=format&q=70",
+      "SavingPercent": 0,
+      "Order": 0
+    },
+    "Variants": [
+      {
+        "Code": "FR001302 X-SHORT BLACK GOLD",
+        "Color": "Black/Gold",
+        "ListPrice": { "Amount": 736, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 736, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/22146-en-fr001302-black~gold.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/22148-en-fr001302-black~gold-swatch.jpg?w=30&h=30&fit=max&auto=format&q=70",
+        "SavingPercent": 0,
+        "Order": 0
+      },
+      {
+        "Code": "FR001302 LONG BLACK GOLD",
+        "Color": "Black/Gold",
+        "ListPrice": { "Amount": 736, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 736, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/22146-en-fr001302-black~gold.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "/globalassets/digizuite/22148-en-fr001302-black~gold-swatch.jpg",
+        "SavingPercent": 0,
+        "Order": 0
+      },
+      {
+        "Code": "FR001302 X-SHORT BRONZE",
+        "Color": "Bronze",
+        "ListPrice": { "Amount": 736, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 736, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/22137-en-fr001302-bronze.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/22136-en-fr001302-bronze-swatch.jpg?w=30&h=30&fit=max&auto=format&q=70",
+        "SavingPercent": 0,
+        "Order": 0
+      },
+      {
+        "Code": "FR001302 X-SHORT VIVID BLUE",
+        "Color": "Vivid Blue",
+        "ListPrice": { "Amount": 736, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 736, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/22139-en-fr001302-vivid-blue.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/22138-en-fr001302-vivid-blue-swatch.jpg?w=30&h=30&fit=max&auto=format&q=70",
+        "SavingPercent": 0,
+        "Order": 0
+      },
+      {
+        "Code": "FR001302 SHORT VIVID BLUE",
+        "Color": "Vivid Blue",
+        "ListPrice": { "Amount": 736, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 736, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/22139-en-fr001302-vivid-blue.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "/globalassets/digizuite/22138-en-fr001302-vivid-blue-swatch.jpg",
+        "SavingPercent": 0,
+        "Order": 0
+      },
+      {
+        "Code": "FR001302 LONG VIVID BLUE",
+        "Color": "Vivid Blue",
+        "ListPrice": { "Amount": 736, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 736, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/22139-en-fr001302-vivid-blue.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "/globalassets/digizuite/22138-en-fr001302-vivid-blue-swatch.jpg",
+        "SavingPercent": 0,
+        "Order": 0
+      },
+      {
+        "Code": "FR001302 X-LONG VIVID BLUE",
+        "Color": "Vivid Blue",
+        "ListPrice": { "Amount": 736, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 736, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/22139-en-fr001302-vivid-blue.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "/globalassets/digizuite/22138-en-fr001302-vivid-blue-swatch.jpg",
+        "SavingPercent": 0,
+        "Order": 0
+      }
+    ],
+    "FacetFieldsDictionary": {
+      "Size": ["Extra Short", "Long", "Short", "Extra Long"],
+      "Color": ["Black/Gold", "Bronze", "Vivid Blue"],
+      "MultiValueIntendedUse": ["Street, Park & Dirt"],
+      "WheelSize": ["26\""],
+      "MultiValueDiscipline": ["MTB"],
+      "Gender": ["Men"],
+      "BikeModel": ["Chromag Monk"],
+      "FrameMaterial": ["Steel"],
+      "RearSuspensionType": ["Hardtail"]
+    },
+    "CatalogNodeCodes": [
+      "C0000QE6",
+      "C0000QE5",
+      "5637144578",
+      "5637144576",
+      "C0000QHQ",
+      "C0000QHP",
+      "C0000QEF",
+      "Chromag",
+      "HTMTBIKES",
+      "C0000QEC"
+    ],
+    "Price": ["$736.00"],
+    "SortPrice": 736,
+    "Discount": 0,
+    "Brand": "Chromag",
+    "AverageRating": 0,
+    "NumberOfReviews": 0,
+    "ImageUrl": null,
+    "Published": "2022-08-05T18:54:14+00:00",
+    "ColorVariantsToShow": [
+      {
+        "Code": "FR001302 X-SHORT BLACK GOLD",
+        "Color": "Black/Gold",
+        "ListPrice": { "Amount": 736, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 736, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/22146-en-fr001302-black~gold.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/22148-en-fr001302-black~gold-swatch.jpg?w=30&h=30&fit=max&auto=format&q=70",
+        "SavingPercent": 0,
+        "Order": 0
+      },
+      {
+        "Code": "FR001302 X-SHORT BRONZE",
+        "Color": "Bronze",
+        "ListPrice": { "Amount": 736, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 736, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/22137-en-fr001302-bronze.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/22136-en-fr001302-bronze-swatch.jpg?w=30&h=30&fit=max&auto=format&q=70",
+        "SavingPercent": 0,
+        "Order": 0
+      },
+      {
+        "Code": "FR001302 X-SHORT VIVID BLUE",
+        "Color": "Vivid Blue",
+        "ListPrice": { "Amount": 736, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 736, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/22139-en-fr001302-vivid-blue.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/22138-en-fr001302-vivid-blue-swatch.jpg?w=30&h=30&fit=max&auto=format&q=70",
+        "SavingPercent": 0,
+        "Order": 0
+      }
+    ]
+  },
+  {
+    "Id": 425525,
+    "Name": "NORCO REVOLVER FS 1 120 FRAME 2022",
+    "Code": "FR001320",
+    "Url": "/NORCO-REVOLVER-FS-1-120-FRAME-2022",
+    "IsOnSale": false,
+    "IsNew": false,
+    "Created": "2021-12-21T17:16:04+00:00",
+    "SelectedVariant": {
+      "Code": "FR001320 SM BLK/SLV",
+      "Color": "Black/Silver",
+      "ListPrice": { "Amount": 2999.99, "Currency": "USD" },
+      "MsrpPrice": { "Amount": 2999.99, "Currency": "USD" },
+      "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/12314-en-fr001320-black~silver.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+      "SwatchImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/12312-en-fr001320-black~silver-swatch.jpg?w=30&h=30&fit=max&auto=format&q=70",
+      "SavingPercent": 0,
+      "Order": 0
+    },
+    "Variants": [
+      {
+        "Code": "FR001320 SM BLK/SLV",
+        "Color": "Black/Silver",
+        "ListPrice": { "Amount": 2999.99, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 2999.99, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/12314-en-fr001320-black~silver.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/12312-en-fr001320-black~silver-swatch.jpg?w=30&h=30&fit=max&auto=format&q=70",
+        "SavingPercent": 0,
+        "Order": 0
+      },
+      {
+        "Code": "FR001320 MD BLK/SLV",
+        "Color": "Black/Silver",
+        "ListPrice": { "Amount": 2999.99, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 2999.99, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/12314-en-fr001320-black~silver.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "/globalassets/digizuite/12312-en-fr001320-black~silver-swatch.jpg",
+        "SavingPercent": 0,
+        "Order": 0
+      },
+      {
+        "Code": "FR001320 LG BLK/SLV",
+        "Color": "Black/Silver",
+        "ListPrice": { "Amount": 2999.99, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 2999.99, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/12314-en-fr001320-black~silver.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "/globalassets/digizuite/12312-en-fr001320-black~silver-swatch.jpg",
+        "SavingPercent": 0,
+        "Order": 0
+      },
+      {
+        "Code": "FR001320 XL BLK/SLV",
+        "Color": "Black/Silver",
+        "ListPrice": { "Amount": 2999.99, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 2999.99, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/12314-en-fr001320-black~silver.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "/globalassets/digizuite/12312-en-fr001320-black~silver-swatch.jpg",
+        "SavingPercent": 0,
+        "Order": 0
+      }
+    ],
+    "FacetFieldsDictionary": {
+      "Size": ["Small", "Medium", "Large", "Extra Large"],
+      "Color": ["Black/Silver"],
+      "MultiValueIntendedUse": ["Cross Country", "Trail / All-Mountain"],
+      "WheelSize": ["29\""],
+      "MultiValueDiscipline": ["MTB"],
+      "Gender": ["Men"],
+      "BikeModel": ["Norco Revolver"],
+      "FrameMaterial": ["Carbon"],
+      "RearSuspensionType": ["Full Suspension"]
+    },
+    "CatalogNodeCodes": [
+      "C0000QE6",
+      "C0000QE5",
+      "5637144578",
+      "5637144576",
+      "C0000QHQ",
+      "C0000QHP",
+      "C0000QEF",
+      "Norco",
+      "XCMTBIKES",
+      "FSMTBIKES",
+      "TRAMMTBIKES",
+      "29MTBBIKES"
+    ],
+    "Price": ["$2,999.99"],
+    "SortPrice": 2999.99,
+    "Discount": 0,
+    "Brand": "Norco",
+    "AverageRating": 4,
+    "NumberOfReviews": 1,
+    "ImageUrl": null,
+    "Published": "2022-04-04T21:11:22+00:00",
+    "ColorVariantsToShow": [
+      {
+        "Code": "FR001320 SM BLK/SLV",
+        "Color": "Black/Silver",
+        "ListPrice": { "Amount": 2999.99, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 2999.99, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/12314-en-fr001320-black~silver.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/12312-en-fr001320-black~silver-swatch.jpg?w=30&h=30&fit=max&auto=format&q=70",
+        "SavingPercent": 0,
+        "Order": 0
+      }
+    ]
+  },
+  {
+    "Id": 425817,
+    "Name": "Specialized Stumpjumper Evo Alloy Frame",
+    "Code": "FR001340",
+    "Url": "/Specialized-Stumpjumper-Evo-Alloy-Frame",
+    "IsOnSale": true,
+    "IsNew": false,
+    "Created": "2021-12-21T19:38:51+00:00",
+    "SelectedVariant": {
+      "Code": "FR001340 ALLOY GUN S3",
+      "Color": "Satin Aluminum/Gunmetal",
+      "ListPrice": { "Amount": 1499.99, "Currency": "USD" },
+      "MsrpPrice": { "Amount": 2000, "Currency": "USD" },
+      "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/6292-en-fr001340-satin-aluminum~gunmetal.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+      "SwatchImageUrl": "/globalassets/digizuite/6284-en-fr001340-satin-aluminum~gunmetal-swatch.jpg",
+      "SavingPercent": 25,
+      "Order": 0
+    },
+    "Variants": [
+      {
+        "Code": "FR001340 ALLOY GUN S3",
+        "Color": "Satin Aluminum/Gunmetal",
+        "ListPrice": { "Amount": 1499.99, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 2000, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/6292-en-fr001340-satin-aluminum~gunmetal.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "/globalassets/digizuite/6284-en-fr001340-satin-aluminum~gunmetal-swatch.jpg",
+        "SavingPercent": 25,
+        "Order": 0
+      }
+    ],
+    "FacetFieldsDictionary": {
+      "Size": ["Medium"],
+      "Color": ["Satin Aluminum/Gunmetal"],
+      "FinancingAvailable": ["False"],
+      "MultiValueIntendedUse": ["Trail / All-Mountain", "Enduro"],
+      "WheelSize": ["29\""],
+      "MultiValueDiscipline": ["MTB"],
+      "Gender": ["Men"],
+      "BikeModel": ["Specialized Stumpjumper"],
+      "FrameMaterial": ["Aluminum"],
+      "RearSuspensionType": ["Full Suspension"]
+    },
+    "CatalogNodeCodes": [
+      "C0000QE6",
+      "C0000QE5",
+      "5637144578",
+      "5637144576",
+      "C0000QHQ",
+      "C0000QHP",
+      "C0000QEF",
+      "Specialized",
+      "ENMTBIKES",
+      "FSMTBIKES",
+      "TRAMMTBIKES",
+      "29MTBBIKES"
+    ],
+    "Price": ["$1,499.99"],
+    "SortPrice": 1499.99,
+    "Discount": 25,
+    "Brand": "Specialized",
+    "AverageRating": 4,
+    "NumberOfReviews": 1,
+    "ImageUrl": null,
+    "Published": "2022-01-21T23:17:06+00:00",
+    "ColorVariantsToShow": []
+  },
+  {
+    "Id": 425974,
+    "Name": "Specialized Enduro Frame",
+    "Code": "FR001331",
+    "Url": "/Specialized-Enduro-Frame",
+    "IsOnSale": true,
+    "IsNew": false,
+    "Created": "2021-12-21T19:40:30+00:00",
+    "SelectedVariant": {
+      "Code": "FR001331 BLUE ONYX BLACK S4",
+      "Color": "Satin Blue Onyx/Black",
+      "ListPrice": { "Amount": 2599.99, "Currency": "USD" },
+      "MsrpPrice": { "Amount": 2900, "Currency": "USD" },
+      "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/6825-en-fr001331-satin-blue-onyx~black.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+      "SwatchImageUrl": "/globalassets/digizuite/6826-en-fr001331-satin-blue-onyx~black-swatch.jpg",
+      "SavingPercent": 10,
+      "Order": 0
+    },
+    "Variants": [
+      {
+        "Code": "FR001331 BLUE ONYX BLACK S4",
+        "Color": "Satin Blue Onyx/Black",
+        "ListPrice": { "Amount": 2599.99, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 2900, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/6825-en-fr001331-satin-blue-onyx~black.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "/globalassets/digizuite/6826-en-fr001331-satin-blue-onyx~black-swatch.jpg",
+        "SavingPercent": 10,
+        "Order": 0
+      }
+    ],
+    "FacetFieldsDictionary": {
+      "Size": ["Large"],
+      "Color": ["Satin Blue Onyx/Black"],
+      "MultiValueIntendedUse": ["Trail / All-Mountain", "Enduro"],
+      "WheelSize": ["29\""],
+      "MultiValueDiscipline": ["MTB"],
+      "Gender": ["Men"],
+      "BikeModel": ["Specialized Enduro"],
+      "FrameMaterial": ["Carbon"],
+      "RearSuspensionType": ["Full Suspension"]
+    },
+    "CatalogNodeCodes": [
+      "C0000QE6",
+      "C0000QE5",
+      "5637144578",
+      "5637144576",
+      "C0000QHQ",
+      "C0000QHP",
+      "C0000QEF",
+      "Specialized",
+      "ENMTBIKES",
+      "FSMTBIKES",
+      "TRAMMTBIKES",
+      "29MTBBIKES"
+    ],
+    "Price": ["$2,599.99"],
+    "SortPrice": 2599.99,
+    "Discount": 10,
+    "Brand": "Specialized",
+    "AverageRating": 0,
+    "NumberOfReviews": 0,
+    "ImageUrl": null,
+    "Published": "2022-02-02T18:30:01+00:00",
+    "ColorVariantsToShow": []
+  },
+  {
+    "Id": 426185,
+    "Name": "Specialized Stumpjumper Evo Frame",
+    "Code": "FR001341",
+    "Url": "/Specialized-Stumpjumper-Evo-Frame",
+    "IsOnSale": true,
+    "IsNew": false,
+    "Created": "2021-12-21T19:42:36+00:00",
+    "SelectedVariant": {
+      "Code": "FR001341 RED ONYX/BLACK S3",
+      "Color": "Satin Red Onyx/Black",
+      "ListPrice": { "Amount": 2049.99, "Currency": "USD" },
+      "MsrpPrice": { "Amount": 3000, "Currency": "USD" },
+      "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/6829-en-fr001341-satin-red-onyx~black.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+      "SwatchImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/6830-en-fr001341-satin-red-onyx~black-swatch.jpg?w=30&h=30&fit=max&auto=format&q=70",
+      "SavingPercent": 32,
+      "Order": 0
+    },
+    "Variants": [
+      {
+        "Code": "FR001341 RED ONYX/BLACK S3",
+        "Color": "Satin Red Onyx/Black",
+        "ListPrice": { "Amount": 2049.99, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 3000, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/6829-en-fr001341-satin-red-onyx~black.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/6830-en-fr001341-satin-red-onyx~black-swatch.jpg?w=30&h=30&fit=max&auto=format&q=70",
+        "SavingPercent": 32,
+        "Order": 0
+      },
+      {
+        "Code": "FR001341 RED ONYX/BLACK S4",
+        "Color": "Satin Red Onyx/Black",
+        "ListPrice": { "Amount": 2049.99, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 3000, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/6829-en-fr001341-satin-red-onyx~black.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "/globalassets/digizuite/6830-en-fr001341-satin-red-onyx~black-swatch.jpg",
+        "SavingPercent": 32,
+        "Order": 0
+      },
+      {
+        "Code": "FR001341 RED ONYX/BLACK S5",
+        "Color": "Satin Red Onyx/Black",
+        "ListPrice": { "Amount": 2049.99, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 3000, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/6829-en-fr001341-satin-red-onyx~black.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "/globalassets/digizuite/6830-en-fr001341-satin-red-onyx~black-swatch.jpg",
+        "SavingPercent": 32,
+        "Order": 0
+      }
+    ],
+    "FacetFieldsDictionary": {
+      "Size": ["Medium", "Large", "Extra Large"],
+      "Color": ["Satin Red Onyx/Black"],
+      "FinancingAvailable": ["False"],
+      "MultiValueIntendedUse": ["Trail / All-Mountain", "Enduro"],
+      "WheelSize": ["29\""],
+      "MultiValueDiscipline": ["MTB"],
+      "Gender": ["Men"],
+      "BikeModel": ["Specialized Stumpjumper"],
+      "FrameMaterial": ["Carbon"],
+      "RearSuspensionType": ["Full Suspension"]
+    },
+    "CatalogNodeCodes": [
+      "C0000QE6",
+      "C0000QE5",
+      "5637144578",
+      "5637144576",
+      "C0000QHQ",
+      "C0000QHP",
+      "C0000QEF",
+      "Specialized",
+      "ENMTBIKES",
+      "FSMTBIKES",
+      "TRAMMTBIKES",
+      "29MTBBIKES",
+      "5637233079",
+      "5637233076",
+      "Featured",
+      "5637233077"
+    ],
+    "Price": ["$2,049.99"],
+    "SortPrice": 2049.99,
+    "Discount": 32,
+    "Brand": "Specialized",
+    "AverageRating": 5,
+    "NumberOfReviews": 3,
+    "ImageUrl": null,
+    "Published": "2022-02-02T17:43:42+00:00",
+    "ColorVariantsToShow": [
+      {
+        "Code": "FR001341 RED ONYX/BLACK S3",
+        "Color": "Satin Red Onyx/Black",
+        "ListPrice": { "Amount": 2049.99, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 3000, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/6829-en-fr001341-satin-red-onyx~black.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/6830-en-fr001341-satin-red-onyx~black-swatch.jpg?w=30&h=30&fit=max&auto=format&q=70",
+        "SavingPercent": 32,
+        "Order": 0
+      }
+    ]
+  },
+  {
+    "Id": 435262,
+    "Name": "Surly Ghost Grappler Frameset",
+    "Code": "FR001346",
+    "Url": "/Surly-Ghost-Grappler-Frameset",
+    "IsOnSale": false,
+    "IsNew": false,
+    "Created": "2022-03-29T20:43:10+00:00",
+    "SelectedVariant": {
+      "Code": "FR001346 SAGE GREEN, SMALL",
+      "Color": "Sage Green",
+      "ListPrice": { "Amount": 799, "Currency": "USD" },
+      "MsrpPrice": { "Amount": 799, "Currency": "USD" },
+      "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/12197-en-fr001346-sage-green.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+      "SwatchImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/12198-en-fr001346-sage-green-swatch.jpg?w=30&h=30&fit=max&auto=format&q=70",
+      "SavingPercent": 0,
+      "Order": 0
+    },
+    "Variants": [
+      {
+        "Code": "FR001346 SAGE GREEN, SMALL",
+        "Color": "Sage Green",
+        "ListPrice": { "Amount": 799, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 799, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/12197-en-fr001346-sage-green.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/12198-en-fr001346-sage-green-swatch.jpg?w=30&h=30&fit=max&auto=format&q=70",
+        "SavingPercent": 0,
+        "Order": 0
+      },
+      {
+        "Code": "FR001346 SAGE GREEN, MEDIUM",
+        "Color": "Sage Green",
+        "ListPrice": { "Amount": 799, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 799, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/12197-en-fr001346-sage-green.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "/globalassets/digizuite/12198-en-fr001346-sage-green-swatch.jpg",
+        "SavingPercent": 0,
+        "Order": 0
+      },
+      {
+        "Code": "FR001346 SAGE GREEN, LARGE",
+        "Color": "Sage Green",
+        "ListPrice": { "Amount": 799, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 799, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/12197-en-fr001346-sage-green.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "/globalassets/digizuite/12198-en-fr001346-sage-green-swatch.jpg",
+        "SavingPercent": 0,
+        "Order": 0
+      },
+      {
+        "Code": "FR001346 SAGE GREEN, X-LARGE",
+        "Color": "Sage Green",
+        "ListPrice": { "Amount": 799, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 799, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/12197-en-fr001346-sage-green.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "/globalassets/digizuite/12198-en-fr001346-sage-green-swatch.jpg",
+        "SavingPercent": 0,
+        "Order": 0
+      },
+      {
+        "Code": "FR001346 SAGE GREEN, X-SMALL",
+        "Color": "Sage Green",
+        "ListPrice": { "Amount": 799, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 799, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/12197-en-fr001346-sage-green.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "/globalassets/digizuite/12198-en-fr001346-sage-green-swatch.jpg",
+        "SavingPercent": 0,
+        "Order": 0
+      }
+    ],
+    "FacetFieldsDictionary": {
+      "Size": ["Small", "Medium", "Large", "Extra Large", "Extra Small"],
+      "Color": ["Sage Green"],
+      "MultiValueIntendedUse": ["Cross Country", "Touring"],
+      "WheelSize": ["29\""],
+      "MultiValueDiscipline": ["MTB", "Road"],
+      "Gender": ["Men"],
+      "BikeModel": ["Surly Ghost Grappler"],
+      "FrameMaterial": ["Steel"],
+      "RearSuspensionType": ["Hardtail"]
+    },
+    "CatalogNodeCodes": [
+      "C0000QE6",
+      "C0000QE5",
+      "5637144578",
+      "5637144576",
+      "C0000QHQ",
+      "C0000QHP",
+      "C0000QEF",
+      "Surly",
+      "XCMTBIKES",
+      "HTMTBIKES",
+      "29MTBBIKES"
+    ],
+    "Price": ["$799.00"],
+    "SortPrice": 799,
+    "Discount": 0,
+    "Brand": "Surly",
+    "AverageRating": 0,
+    "NumberOfReviews": 0,
+    "ImageUrl": null,
+    "Published": "2022-04-01T18:11:18+00:00",
+    "ColorVariantsToShow": [
+      {
+        "Code": "FR001346 SAGE GREEN, SMALL",
+        "Color": "Sage Green",
+        "ListPrice": { "Amount": 799, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 799, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/12197-en-fr001346-sage-green.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/12198-en-fr001346-sage-green-swatch.jpg?w=30&h=30&fit=max&auto=format&q=70",
+        "SavingPercent": 0,
+        "Order": 0
+      }
+    ]
+  },
+  {
+    "Id": 441901,
+    "Name": "Specialized SJ EVO Alloy LTD Frame",
+    "Code": "FR001354",
+    "Url": "/Specialized-SJ-EVO-Alloy-LTD-Frame",
+    "IsOnSale": false,
+    "IsNew": false,
+    "Created": "2022-07-15T18:43:37+00:00",
+    "SelectedVariant": {
+      "Code": "FR001354 S2 BLUE ONYX",
+      "Color": "Satin Blue Onyx/Black/Limestone",
+      "ListPrice": { "Amount": 2299.99, "Currency": "USD" },
+      "MsrpPrice": { "Amount": 2300, "Currency": "USD" },
+      "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/22304-en-fr001354-satin-blue-onyx~black~limestone.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+      "SwatchImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/22303-en-fr001354-satin-blue-onyx~black~limestone-swatch.jpg?w=30&h=30&fit=max&auto=format&q=70",
+      "SavingPercent": 0,
+      "Order": 0
+    },
+    "Variants": [
+      {
+        "Code": "FR001354 S2 BLUE ONYX",
+        "Color": "Satin Blue Onyx/Black/Limestone",
+        "ListPrice": { "Amount": 2299.99, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 2300, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/22304-en-fr001354-satin-blue-onyx~black~limestone.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/22303-en-fr001354-satin-blue-onyx~black~limestone-swatch.jpg?w=30&h=30&fit=max&auto=format&q=70",
+        "SavingPercent": 0,
+        "Order": 0
+      },
+      {
+        "Code": "FR001354 S3 BLUE ONYX",
+        "Color": "Satin Blue Onyx/Black/Limestone",
+        "ListPrice": { "Amount": 2299.99, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 2300, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/22304-en-fr001354-satin-blue-onyx~black~limestone.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "/globalassets/digizuite/22303-en-fr001354-satin-blue-onyx~black~limestone-swatch.jpg",
+        "SavingPercent": 0,
+        "Order": 0
+      },
+      {
+        "Code": "FR001354 S4 BLUE ONYX",
+        "Color": "Satin Blue Onyx/Black/Limestone",
+        "ListPrice": { "Amount": 2299.99, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 2300, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/22304-en-fr001354-satin-blue-onyx~black~limestone.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "/globalassets/digizuite/22303-en-fr001354-satin-blue-onyx~black~limestone-swatch.jpg",
+        "SavingPercent": 0,
+        "Order": 0
+      },
+      {
+        "Code": "FR001354 S5 BLUE ONYX",
+        "Color": "Satin Blue Onyx/Black/Limestone",
+        "ListPrice": { "Amount": 2299.99, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 2300, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/22304-en-fr001354-satin-blue-onyx~black~limestone.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "/globalassets/digizuite/22303-en-fr001354-satin-blue-onyx~black~limestone-swatch.jpg",
+        "SavingPercent": 0,
+        "Order": 0
+      }
+    ],
+    "FacetFieldsDictionary": {
+      "Size": ["Small", "Medium", "Large", "Extra Large"],
+      "Color": ["Satin Blue Onyx/Black/Limestone"],
+      "MultiValueIntendedUse": ["Trail / All-Mountain", "Enduro"],
+      "WheelSize": ["29\""],
+      "MultiValueDiscipline": ["MTB"],
+      "Gender": ["Men"],
+      "BikeModel": ["Specialized Stumpjumper"],
+      "FrameMaterial": ["Aluminum"],
+      "RearSuspensionType": ["Full Suspension"]
+    },
+    "CatalogNodeCodes": [
+      "C0000QE6",
+      "C0000QE5",
+      "5637144578",
+      "5637144576",
+      "C0000QHQ",
+      "C0000QHP",
+      "C0000QEF",
+      "Specialized",
+      "ENMTBIKES",
+      "FSMTBIKES",
+      "TRAMMTBIKES",
+      "29MTBBIKES"
+    ],
+    "Price": ["$2,299.99"],
+    "SortPrice": 2299.99,
+    "Discount": 0,
+    "Brand": "Specialized",
+    "AverageRating": 5,
+    "NumberOfReviews": 1,
+    "ImageUrl": null,
+    "Published": "2022-08-10T17:30:24+00:00",
+    "ColorVariantsToShow": [
+      {
+        "Code": "FR001354 S2 BLUE ONYX",
+        "Color": "Satin Blue Onyx/Black/Limestone",
+        "ListPrice": { "Amount": 2299.99, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 2300, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/22304-en-fr001354-satin-blue-onyx~black~limestone.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/22303-en-fr001354-satin-blue-onyx~black~limestone-swatch.jpg?w=30&h=30&fit=max&auto=format&q=70",
+        "SavingPercent": 0,
+        "Order": 0
+      }
+    ]
+  },
+  {
+    "Id": 442592,
+    "Name": "Marin El Roy Frame Kit",
+    "Code": "FR001356",
+    "Url": "/Marin-El-Roy-Frame-Kit",
+    "IsOnSale": false,
+    "IsNew": false,
+    "Created": "2022-07-28T16:14:23+00:00",
+    "SelectedVariant": {
+      "Code": "FR001356 MEDIUM BLUE",
+      "Color": "Gloss Blue/Red",
+      "ListPrice": { "Amount": 699.99, "Currency": "USD" },
+      "MsrpPrice": { "Amount": 699.99, "Currency": "USD" },
+      "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/22384-en-fr001356-gloss-blue~red.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+      "SwatchImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/22383-en-fr001356-gloss-blue~red-swatch.jpg?w=30&h=30&fit=max&auto=format&q=70",
+      "SavingPercent": 0,
+      "Order": 0
+    },
+    "Variants": [
+      {
+        "Code": "FR001356 MEDIUM BLUE",
+        "Color": "Gloss Blue/Red",
+        "ListPrice": { "Amount": 699.99, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 699.99, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/22384-en-fr001356-gloss-blue~red.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/22383-en-fr001356-gloss-blue~red-swatch.jpg?w=30&h=30&fit=max&auto=format&q=70",
+        "SavingPercent": 0,
+        "Order": 0
+      },
+      {
+        "Code": "FR001356 LARGE BLUE",
+        "Color": "Gloss Blue/Red",
+        "ListPrice": { "Amount": 699.99, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 699.99, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/22384-en-fr001356-gloss-blue~red.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "/globalassets/digizuite/22383-en-fr001356-gloss-blue~red-swatch.jpg",
+        "SavingPercent": 0,
+        "Order": 0
+      }
+    ],
+    "FacetFieldsDictionary": {
+      "Size": ["Medium", "Large"],
+      "Color": ["Gloss Blue/Red"],
+      "MultiValueIntendedUse": ["Trail / All-Mountain", "Enduro"],
+      "WheelSize": ["29\""],
+      "MultiValueDiscipline": ["MTB"],
+      "Gender": ["Men"],
+      "BikeModel": ["Marin El Roy"],
+      "FrameMaterial": ["Steel"],
+      "RearSuspensionType": ["Hardtail"]
+    },
+    "CatalogNodeCodes": [
+      "C0000QE6",
+      "C0000QE5",
+      "5637144578",
+      "5637144576",
+      "C0000QHQ",
+      "C0000QHP",
+      "C0000QEF",
+      "Marin Bikes",
+      "ENMTBIKES",
+      "HTMTBIKES",
+      "TRAMMTBIKES",
+      "29MTBBIKES"
+    ],
+    "Price": ["$699.99"],
+    "SortPrice": 699.99,
+    "Discount": 0,
+    "Brand": "Marin Bikes",
+    "AverageRating": 0,
+    "NumberOfReviews": 0,
+    "ImageUrl": null,
+    "Published": "2022-08-11T18:37:42+00:00",
+    "ColorVariantsToShow": [
+      {
+        "Code": "FR001356 MEDIUM BLUE",
+        "Color": "Gloss Blue/Red",
+        "ListPrice": { "Amount": 699.99, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 699.99, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/22384-en-fr001356-gloss-blue~red.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/22383-en-fr001356-gloss-blue~red-swatch.jpg?w=30&h=30&fit=max&auto=format&q=70",
+        "SavingPercent": 0,
+        "Order": 0
+      }
+    ]
+  },
+  {
+    "Id": 443326,
+    "Name": "Ibis Ripmo 2 Frameset 2023",
+    "Code": "FR001361",
+    "Url": "/Ibis-Ripmo-2-Frameset-2023",
+    "IsOnSale": false,
+    "IsNew": false,
+    "Created": "2022-09-26T15:56:55.953+00:00",
+    "SelectedVariant": {
+      "Code": "FR001361 SMALL CHARCOAL",
+      "Color": "Charcoal",
+      "ListPrice": { "Amount": 3699, "Currency": "USD" },
+      "MsrpPrice": { "Amount": 3699, "Currency": "USD" },
+      "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/28924-en-fr001361-charcoal.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+      "SwatchImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/28923-en-fr001361-charcoal-swatch.jpg?w=30&h=30&fit=max&auto=format&q=70",
+      "SavingPercent": 0,
+      "Order": 0
+    },
+    "Variants": [
+      {
+        "Code": "FR001361 SMALL CHARCOAL",
+        "Color": "Charcoal",
+        "ListPrice": { "Amount": 3699, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 3699, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/28924-en-fr001361-charcoal.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/28923-en-fr001361-charcoal-swatch.jpg?w=30&h=30&fit=max&auto=format&q=70",
+        "SavingPercent": 0,
+        "Order": 0
+      },
+      {
+        "Code": "FR001361 SMALL OLIVE",
+        "Color": "Olive",
+        "ListPrice": { "Amount": 3699, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 3699, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/28926-en-fr001361-olive.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/28925-en-fr001361-olive-swatch.jpg?w=30&h=30&fit=max&auto=format&q=70",
+        "SavingPercent": 0,
+        "Order": 0
+      },
+      {
+        "Code": "FR001361 MEDIUM CHARCOAL",
+        "Color": "Charcoal",
+        "ListPrice": { "Amount": 3699, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 3699, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/28924-en-fr001361-charcoal.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "/globalassets/digizuite/28923-en-fr001361-charcoal-swatch.jpg",
+        "SavingPercent": 0,
+        "Order": 0
+      },
+      {
+        "Code": "FR001361 MEDIUM OLIVE",
+        "Color": "Olive",
+        "ListPrice": { "Amount": 3699, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 3699, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/28926-en-fr001361-olive.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "/globalassets/digizuite/28925-en-fr001361-olive-swatch.jpg",
+        "SavingPercent": 0,
+        "Order": 0
+      },
+      {
+        "Code": "FR001361 LARGE CHARCOAL",
+        "Color": "Charcoal",
+        "ListPrice": { "Amount": 3699, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 3699, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/28924-en-fr001361-charcoal.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "/globalassets/digizuite/28923-en-fr001361-charcoal-swatch.jpg",
+        "SavingPercent": 0,
+        "Order": 0
+      },
+      {
+        "Code": "FR001361 LARGE OLIVE",
+        "Color": "Olive",
+        "ListPrice": { "Amount": 3699, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 3699, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/28926-en-fr001361-olive.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "/globalassets/digizuite/28925-en-fr001361-olive-swatch.jpg",
+        "SavingPercent": 0,
+        "Order": 0
+      },
+      {
+        "Code": "FR001361 X LARGE CHARCOAL",
+        "Color": "Charcoal",
+        "ListPrice": { "Amount": 3699, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 3699, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/28924-en-fr001361-charcoal.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "/globalassets/digizuite/28923-en-fr001361-charcoal-swatch.jpg",
+        "SavingPercent": 0,
+        "Order": 0
+      },
+      {
+        "Code": "FR001361 X LARGE OLIVE",
+        "Color": "Olive",
+        "ListPrice": { "Amount": 3699, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 3699, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/28926-en-fr001361-olive.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "/globalassets/digizuite/28925-en-fr001361-olive-swatch.jpg",
+        "SavingPercent": 0,
+        "Order": 0
+      }
+    ],
+    "FacetFieldsDictionary": {
+      "Size": ["Small", "Medium", "Large", "Extra Large"],
+      "Color": ["Charcoal", "Olive"],
+      "MultiValueIntendedUse": ["Trail / All-Mountain"],
+      "WheelSize": ["29\""],
+      "MultiValueDiscipline": ["MTB"],
+      "Gender": ["Men"],
+      "BikeModel": ["Ibis Ripmo"],
+      "FrameMaterial": ["Carbon"],
+      "RearSuspensionType": ["Full Suspension"]
+    },
+    "CatalogNodeCodes": [
+      "C0000QE6",
+      "C0000QE5",
+      "5637144578",
+      "5637144576",
+      "C0000QHQ",
+      "C0000QHP",
+      "C0000QEF",
+      "Ibis Bicycles",
+      "Financing_1",
+      "Featured",
+      "ENMTBIKES",
+      "FSMTBIKES",
+      "29MTBBIKES"
+    ],
+    "Price": ["$3,699.00"],
+    "SortPrice": 3699,
+    "Discount": 0,
+    "Brand": "Ibis Bicycles",
+    "AverageRating": 0,
+    "NumberOfReviews": 0,
+    "ImageUrl": null,
+    "Published": "2023-01-31T04:44:30+00:00",
+    "ColorVariantsToShow": [
+      {
+        "Code": "FR001361 SMALL CHARCOAL",
+        "Color": "Charcoal",
+        "ListPrice": { "Amount": 3699, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 3699, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/28924-en-fr001361-charcoal.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/28923-en-fr001361-charcoal-swatch.jpg?w=30&h=30&fit=max&auto=format&q=70",
+        "SavingPercent": 0,
+        "Order": 0
+      },
+      {
+        "Code": "FR001361 SMALL OLIVE",
+        "Color": "Olive",
+        "ListPrice": { "Amount": 3699, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 3699, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/28926-en-fr001361-olive.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/28925-en-fr001361-olive-swatch.jpg?w=30&h=30&fit=max&auto=format&q=70",
+        "SavingPercent": 0,
+        "Order": 0
+      }
+    ]
+  }
+]

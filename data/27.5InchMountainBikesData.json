@@ -1,0 +1,3406 @@
+[
+  {
+    "Id": 363512,
+    "Name": "Marin San Quentin 3 Bike 2022",
+    "Code": "BI002179",
+    "Url": "/Marin-San-Quentin-3-Bike-2022",
+    "IsOnSale": true,
+    "IsNew": false,
+    "Created": "2020-08-19T20:05:30+00:00",
+    "SelectedVariant": {
+      "Code": "BI002179 GLOSS RED/BLACK SM",
+      "Color": "Gloss Red/Black",
+      "ListPrice": { "Amount": 1589.94, "Currency": "USD" },
+      "MsrpPrice": { "Amount": 2399, "Currency": "USD" },
+      "ImageUrl": "https://jnsn.imgix.net/globalassets/product-images---all-assets/marin-2021/bi002179-gloss-red~black.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+      "SwatchImageUrl": "https://jnsn.imgix.net/globalassets/product-images---all-assets/marin-2021/bi002179-gloss-red~black-swatch.jpg?w=30&h=30&fit=max&auto=format&q=70",
+      "SavingPercent": 34,
+      "Order": 0
+    },
+    "Variants": [
+      {
+        "Code": "BI002179 GLOSS RED/BLACK SM",
+        "Color": "Gloss Red/Black",
+        "ListPrice": { "Amount": 1589.94, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 2399, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/product-images---all-assets/marin-2021/bi002179-gloss-red~black.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "https://jnsn.imgix.net/globalassets/product-images---all-assets/marin-2021/bi002179-gloss-red~black-swatch.jpg?w=30&h=30&fit=max&auto=format&q=70",
+        "SavingPercent": 34,
+        "Order": 0
+      },
+      {
+        "Code": "BI002179 GLOSS RED/BLACK MED",
+        "Color": "Gloss Red/Black",
+        "ListPrice": { "Amount": 1589.94, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 2399, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/product-images---all-assets/marin-2021/bi002179-gloss-red~black.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "/globalassets/product-images---all-assets/marin-2021/bi002179-gloss-red~black-swatch.jpg",
+        "SavingPercent": 34,
+        "Order": 0
+      },
+      {
+        "Code": "BI002179 GLOSS RED/BLACK LRG",
+        "Color": "Gloss Red/Black",
+        "ListPrice": { "Amount": 1589.94, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 2399, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/product-images---all-assets/marin-2021/bi002179-gloss-red~black.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "/globalassets/product-images---all-assets/marin-2021/bi002179-gloss-red~black-swatch.jpg",
+        "SavingPercent": 34,
+        "Order": 0
+      },
+      {
+        "Code": "BI002179 GLOSS RED/BLACK XL",
+        "Color": "Gloss Red/Black",
+        "ListPrice": { "Amount": 1589.94, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 2399, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/product-images---all-assets/marin-2021/bi002179-gloss-red~black.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "/globalassets/product-images---all-assets/marin-2021/bi002179-gloss-red~black-swatch.jpg",
+        "SavingPercent": 34,
+        "Order": 0
+      }
+    ],
+    "FacetFieldsDictionary": {
+      "MultiValueFeatures": [
+        "Shimano Components",
+        "Dropper Seatpost",
+        "Internal Cable Routing"
+      ],
+      "Size": ["Small", "Medium", "Large", "Extra Large"],
+      "Color": ["Gloss Red/Black"],
+      "FinancingAvailable": ["True"],
+      "MultiValueDiscipline": ["MTB"],
+      "Gender": ["Men"],
+      "RearSuspensionType": ["Hardtail"],
+      "BikeModel": ["Marin San Quentin"],
+      "ForkTravel": ["130mm"],
+      "DrivetrainType": ["1x12 Speed"],
+      "WheelSize": ["27.5\""],
+      "MultiValueIntendedUse": ["Trail / All-Mountain"],
+      "FrameMaterial": ["Aluminum"]
+    },
+    "CatalogNodeCodes": [
+      "C0000QE6",
+      "C0000QE5",
+      "5637144578",
+      "5637144576",
+      "Financing_1",
+      "Featured",
+      "Marin Bikes",
+      "Bikes25th",
+      "25thSale",
+      "Sales",
+      "HTMTBIKES",
+      "TRAMMTBIKES",
+      "275MTBBIKES",
+      "5637229331",
+      "5637229328",
+      "5637229326",
+      "5637238327"
+    ],
+    "Price": ["$1,589.94"],
+    "SortPrice": 1589.94,
+    "Discount": 34,
+    "Brand": "Marin Bikes",
+    "AverageRating": 5,
+    "NumberOfReviews": 2,
+    "ImageUrl": null,
+    "Published": "2021-04-27T12:30:54+00:00",
+    "ColorVariantsToShow": [
+      {
+        "Code": "BI002179 GLOSS RED/BLACK SM",
+        "Color": "Gloss Red/Black",
+        "ListPrice": { "Amount": 1589.94, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 2399, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/product-images---all-assets/marin-2021/bi002179-gloss-red~black.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "https://jnsn.imgix.net/globalassets/product-images---all-assets/marin-2021/bi002179-gloss-red~black-swatch.jpg?w=30&h=30&fit=max&auto=format&q=70",
+        "SavingPercent": 34,
+        "Order": 0
+      }
+    ]
+  },
+  {
+    "Id": 363517,
+    "Name": "Marin San Quentin 1 Bike 2022",
+    "Code": "BI002180",
+    "Url": "/Marin-San-Quentin-1-Bike-2022",
+    "IsOnSale": true,
+    "IsNew": false,
+    "Created": "2020-08-19T20:05:33+00:00",
+    "SelectedVariant": {
+      "Code": "BI002180 GLOSS GREY/BLACK SM",
+      "Color": "Gloss Grey/Black",
+      "ListPrice": { "Amount": 839.94, "Currency": "USD" },
+      "MsrpPrice": { "Amount": 1099, "Currency": "USD" },
+      "ImageUrl": "https://jnsn.imgix.net/globalassets/product-images---all-assets/marin-2021/bi002180-gloss-grey~black.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+      "SwatchImageUrl": "https://jnsn.imgix.net/globalassets/product-images---all-assets/marin-2021/bi002180-gloss-grey~black-swatch.jpg?w=30&h=30&fit=max&auto=format&q=70",
+      "SavingPercent": 24,
+      "Order": 0
+    },
+    "Variants": [
+      {
+        "Code": "BI002180 GLOSS GREY/BLACK SM",
+        "Color": "Gloss Grey/Black",
+        "ListPrice": { "Amount": 839.94, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 1099, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/product-images---all-assets/marin-2021/bi002180-gloss-grey~black.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "https://jnsn.imgix.net/globalassets/product-images---all-assets/marin-2021/bi002180-gloss-grey~black-swatch.jpg?w=30&h=30&fit=max&auto=format&q=70",
+        "SavingPercent": 24,
+        "Order": 0
+      },
+      {
+        "Code": "BI002180 GLOSS GREY/BLACK LRG",
+        "Color": "Gloss Grey/Black",
+        "ListPrice": { "Amount": 839.94, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 1099, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/product-images---all-assets/marin-2021/bi002180-gloss-grey~black.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "/globalassets/product-images---all-assets/marin-2021/bi002180-gloss-grey~black-swatch.jpg",
+        "SavingPercent": 24,
+        "Order": 0
+      },
+      {
+        "Code": "BI002180 GLOSS GREY/BLACK XL",
+        "Color": "Gloss Grey/Black",
+        "ListPrice": { "Amount": 839.94, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 1099, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/product-images---all-assets/marin-2021/bi002180-gloss-grey~black.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "/globalassets/product-images---all-assets/marin-2021/bi002180-gloss-grey~black-swatch.jpg",
+        "SavingPercent": 24,
+        "Order": 0
+      },
+      {
+        "Code": "BI002180 TEAL/PINK/BLACK MED",
+        "Color": "Gloss Teal/Pink/Black",
+        "ListPrice": { "Amount": 839.94, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 1099, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/product-images---all-assets/marin-2021/bi002180-gloss-teal~pink~black.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "https://jnsn.imgix.net/globalassets/product-images---all-assets/marin-2021/bi002180-gloss-teal~pink~black-swatch.jpg?w=30&h=30&fit=max&auto=format&q=70",
+        "SavingPercent": 24,
+        "Order": 0
+      },
+      {
+        "Code": "BI002180 TEAL/PINK/BLACK LRG",
+        "Color": "Gloss Teal/Pink/Black",
+        "ListPrice": { "Amount": 839.94, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 1099, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/product-images---all-assets/marin-2021/bi002180-gloss-teal~pink~black.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "/globalassets/product-images---all-assets/marin-2021/bi002180-gloss-teal~pink~black-swatch.jpg",
+        "SavingPercent": 24,
+        "Order": 0
+      },
+      {
+        "Code": "BI002180 TEAL/PINK/BLACK XL",
+        "Color": "Gloss Teal/Pink/Black",
+        "ListPrice": { "Amount": 839.94, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 1099, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/product-images---all-assets/marin-2021/bi002180-gloss-teal~pink~black.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "/globalassets/product-images---all-assets/marin-2021/bi002180-gloss-teal~pink~black-swatch.jpg",
+        "SavingPercent": 24,
+        "Order": 0
+      }
+    ],
+    "FacetFieldsDictionary": {
+      "MultiValueFeatures": ["Internal Cable Routing"],
+      "Size": ["Small", "Large", "Extra Large", "Medium"],
+      "Color": ["Gloss Grey/Black", "Gloss Teal/Pink/Black"],
+      "FinancingAvailable": ["True"],
+      "MultiValueDiscipline": ["MTB"],
+      "Gender": ["Men"],
+      "RearSuspensionType": ["Hardtail"],
+      "BikeModel": ["Marin San Quentin"],
+      "ForkTravel": ["120mm"],
+      "DrivetrainType": ["1x9 Speed"],
+      "WheelSize": ["27.5\""],
+      "MultiValueIntendedUse": ["Trail / All-Mountain"],
+      "FrameMaterial": ["Aluminum"]
+    },
+    "CatalogNodeCodes": [
+      "C0000QE6",
+      "C0000QE5",
+      "5637144578",
+      "5637144576",
+      "Financing_1",
+      "Featured",
+      "Marin Bikes",
+      "HTMTBIKES",
+      "275MTBBIKES",
+      "5637229331",
+      "5637229328",
+      "5637229326",
+      "5637238327",
+      "5637251826",
+      "Sales"
+    ],
+    "Price": ["$839.94"],
+    "SortPrice": 839.94,
+    "Discount": 24,
+    "Brand": "Marin Bikes",
+    "AverageRating": 4.4,
+    "NumberOfReviews": 7,
+    "ImageUrl": null,
+    "Published": "2022-01-04T14:08:10+00:00",
+    "ColorVariantsToShow": [
+      {
+        "Code": "BI002180 GLOSS GREY/BLACK SM",
+        "Color": "Gloss Grey/Black",
+        "ListPrice": { "Amount": 839.94, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 1099, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/product-images---all-assets/marin-2021/bi002180-gloss-grey~black.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "https://jnsn.imgix.net/globalassets/product-images---all-assets/marin-2021/bi002180-gloss-grey~black-swatch.jpg?w=30&h=30&fit=max&auto=format&q=70",
+        "SavingPercent": 24,
+        "Order": 0
+      },
+      {
+        "Code": "BI002180 TEAL/PINK/BLACK MED",
+        "Color": "Gloss Teal/Pink/Black",
+        "ListPrice": { "Amount": 839.94, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 1099, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/product-images---all-assets/marin-2021/bi002180-gloss-teal~pink~black.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "https://jnsn.imgix.net/globalassets/product-images---all-assets/marin-2021/bi002180-gloss-teal~pink~black-swatch.jpg?w=30&h=30&fit=max&auto=format&q=70",
+        "SavingPercent": 24,
+        "Order": 0
+      }
+    ]
+  },
+  {
+    "Id": 373924,
+    "Name": "Chromag Stylus Frame 2021",
+    "Code": "FR001211",
+    "Url": "/Chromag-Stylus-Frame-2021",
+    "IsOnSale": true,
+    "IsNew": false,
+    "Created": "2020-11-17T18:20:15+00:00",
+    "SelectedVariant": {
+      "Code": "FR001211 LARGE ROVER OLIVE",
+      "Color": "Rover Olive",
+      "ListPrice": { "Amount": 628.94, "Currency": "USD" },
+      "MsrpPrice": { "Amount": 838, "Currency": "USD" },
+      "ImageUrl": "https://jnsn.imgix.net/globalassets/product-images---all-assets/chromag/fr001211-rover-olive.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+      "SwatchImageUrl": "https://jnsn.imgix.net/globalassets/product-images---all-assets/chromag/fr001211-rover-olive-swatch.jpg?w=30&h=30&fit=max&auto=format&q=70",
+      "SavingPercent": 25,
+      "Order": 0
+    },
+    "Variants": [
+      {
+        "Code": "FR001211 LARGE ROVER OLIVE",
+        "Color": "Rover Olive",
+        "ListPrice": { "Amount": 628.94, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 838, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/product-images---all-assets/chromag/fr001211-rover-olive.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "https://jnsn.imgix.net/globalassets/product-images---all-assets/chromag/fr001211-rover-olive-swatch.jpg?w=30&h=30&fit=max&auto=format&q=70",
+        "SavingPercent": 25,
+        "Order": 0
+      },
+      {
+        "Code": "FR001211 X-LARGE, DARK CRYST",
+        "Color": "Dark Crystal",
+        "ListPrice": { "Amount": 628.94, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 838, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/product-images---all-assets/chromag/fr001211-dark-crystal.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "https://jnsn.imgix.net/globalassets/product-images---all-assets/chromag/fr001211-dark-crystal-swatch.jpg?w=30&h=30&fit=max&auto=format&q=70",
+        "SavingPercent": 25,
+        "Order": 0
+      },
+      {
+        "Code": "FR001211 X-LARGE ROVER OLIVE",
+        "Color": "Rover Olive",
+        "ListPrice": { "Amount": 628.94, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 838, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/product-images---all-assets/chromag/fr001211-rover-olive.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "/globalassets/product-images---all-assets/chromag/fr001211-rover-olive-swatch.jpg",
+        "SavingPercent": 25,
+        "Order": 0
+      }
+    ],
+    "FacetFieldsDictionary": {
+      "Size": ["Large", "Extra Large"],
+      "Color": ["Rover Olive", "Dark Crystal"],
+      "MultiValueIntendedUse": ["Trail / All-Mountain"],
+      "WheelSize": ["27.5\""],
+      "MultiValueDiscipline": ["MTB"],
+      "Gender": ["Men"],
+      "BikeModel": ["Chromag Stylus"],
+      "FrameMaterial": ["Steel"],
+      "RearSuspensionType": ["Hardtail"]
+    },
+    "CatalogNodeCodes": [
+      "C0000QE6",
+      "C0000QE5",
+      "5637144578",
+      "5637144576",
+      "C0000QHQ",
+      "C0000QHP",
+      "C0000QEF",
+      "Chromag",
+      "HTMTBIKES",
+      "TRAMMTBIKES",
+      "275MTBBIKES",
+      "5637233079",
+      "5637233076",
+      "Featured",
+      "5637233077"
+    ],
+    "Price": ["$628.94"],
+    "SortPrice": 628.94,
+    "Discount": 25,
+    "Brand": "Chromag",
+    "AverageRating": 4.8,
+    "NumberOfReviews": 4,
+    "ImageUrl": null,
+    "Published": "2021-05-10T12:15:58+00:00",
+    "ColorVariantsToShow": [
+      {
+        "Code": "FR001211 LARGE ROVER OLIVE",
+        "Color": "Rover Olive",
+        "ListPrice": { "Amount": 628.94, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 838, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/product-images---all-assets/chromag/fr001211-rover-olive.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "https://jnsn.imgix.net/globalassets/product-images---all-assets/chromag/fr001211-rover-olive-swatch.jpg?w=30&h=30&fit=max&auto=format&q=70",
+        "SavingPercent": 25,
+        "Order": 0
+      },
+      {
+        "Code": "FR001211 X-LARGE, DARK CRYST",
+        "Color": "Dark Crystal",
+        "ListPrice": { "Amount": 628.94, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 838, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/product-images---all-assets/chromag/fr001211-dark-crystal.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "https://jnsn.imgix.net/globalassets/product-images---all-assets/chromag/fr001211-dark-crystal-swatch.jpg?w=30&h=30&fit=max&auto=format&q=70",
+        "SavingPercent": 25,
+        "Order": 0
+      }
+    ]
+  },
+  {
+    "Id": 375989,
+    "Name": "Niner WFO e9 3-Star 20MPH E-Bike 2022",
+    "Code": "BI002465",
+    "Url": "/Niner-WFO-e9-3-Star-20MPH-E-Bike-2022",
+    "IsOnSale": true,
+    "IsNew": false,
+    "Created": "2021-01-06T23:26:33+00:00",
+    "SelectedVariant": {
+      "Code": "BI002465 GREY/ORANGE S",
+      "Color": "Grey/Orange",
+      "ListPrice": { "Amount": 4945.94, "Currency": "USD" },
+      "MsrpPrice": { "Amount": 6999, "Currency": "USD" },
+      "ImageUrl": "https://jnsn.imgix.net/globalassets/product-images---all-assets/niner-2021/bi002465-grey~orange.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+      "SwatchImageUrl": "https://jnsn.imgix.net/globalassets/product-images---all-assets/niner-2021/bi002465-grey~orange-swatch.jpg?w=30&h=30&fit=max&auto=format&q=70",
+      "SavingPercent": 29,
+      "Order": 0
+    },
+    "Variants": [
+      {
+        "Code": "BI002465 GREY/ORANGE S",
+        "Color": "Grey/Orange",
+        "ListPrice": { "Amount": 4945.94, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 6999, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/product-images---all-assets/niner-2021/bi002465-grey~orange.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "https://jnsn.imgix.net/globalassets/product-images---all-assets/niner-2021/bi002465-grey~orange-swatch.jpg?w=30&h=30&fit=max&auto=format&q=70",
+        "SavingPercent": 29,
+        "Order": 0
+      },
+      {
+        "Code": "BI002465 GREY/ORANGE M",
+        "Color": "Grey/Orange",
+        "ListPrice": { "Amount": 4945.94, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 6999, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/product-images---all-assets/niner-2021/bi002465-grey~orange.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "/globalassets/product-images---all-assets/niner-2021/bi002465-grey~orange-swatch.jpg",
+        "SavingPercent": 29,
+        "Order": 0
+      },
+      {
+        "Code": "BI002465 GREY/ORANGE L",
+        "Color": "Grey/Orange",
+        "ListPrice": { "Amount": 4945.94, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 6999, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/product-images---all-assets/niner-2021/bi002465-grey~orange.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "/globalassets/product-images---all-assets/niner-2021/bi002465-grey~orange-swatch.jpg",
+        "SavingPercent": 29,
+        "Order": 0
+      }
+    ],
+    "FacetFieldsDictionary": {
+      "MultiValueFeatures": [
+        "SRAM Components",
+        "Dropper Seatpost",
+        "Disc Brakes",
+        "Internal Cable Routing",
+        "E-Bike"
+      ],
+      "Motor": ["Bosch"],
+      "Size": ["Small", "Medium", "Large"],
+      "Color": ["Grey/Orange"],
+      "FinancingAvailable": ["True"],
+      "MultiValueDiscipline": ["MTB"],
+      "Gender": ["Men"],
+      "BikeModel": ["Niner WFO e9"],
+      "RearSuspensionType": ["Full Suspension"],
+      "ForkTravel": ["180mm"],
+      "DrivetrainType": ["1x12 Speed"],
+      "EstBikeWeight": ["55.50 lbs"],
+      "Battery": ["625 Wh"],
+      "MultiValueIntendedUse": ["E-Bike", "Trail / All-Mountain", "Enduro"],
+      "WheelSize": ["29\" (F) / 27.5\" (R)"],
+      "FrameMaterial": ["Aluminum"]
+    },
+    "CatalogNodeCodes": [
+      "Niner",
+      "Financing_1",
+      "Featured",
+      "5637144578",
+      "5637144576",
+      "Electric-Mountain-Bi",
+      "Electric-Bikes_1",
+      "C0000QE5",
+      "Bikes25th",
+      "25thSale",
+      "Sales",
+      "275MTBBIKES",
+      "C0000QE6",
+      "29MTBBIKES",
+      "5637229331",
+      "5637229328",
+      "5637229326"
+    ],
+    "Price": ["$4,945.94"],
+    "SortPrice": 4945.94,
+    "Discount": 29,
+    "Brand": "Niner",
+    "AverageRating": 4.5,
+    "NumberOfReviews": 2,
+    "ImageUrl": null,
+    "Published": "2021-11-30T13:27:34+00:00",
+    "ColorVariantsToShow": [
+      {
+        "Code": "BI002465 GREY/ORANGE S",
+        "Color": "Grey/Orange",
+        "ListPrice": { "Amount": 4945.94, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 6999, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/product-images---all-assets/niner-2021/bi002465-grey~orange.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "https://jnsn.imgix.net/globalassets/product-images---all-assets/niner-2021/bi002465-grey~orange-swatch.jpg?w=30&h=30&fit=max&auto=format&q=70",
+        "SavingPercent": 29,
+        "Order": 0
+      }
+    ]
+  },
+  {
+    "Id": 380110,
+    "Name": "Marin Rift Zone 1 27.5 Bike 2022",
+    "Code": "BI002500",
+    "Url": "/Marin-Rift-Zone-1-275-Bike-2022",
+    "IsOnSale": true,
+    "IsNew": false,
+    "Created": "2021-02-12T17:08:40+00:00",
+    "SelectedVariant": {
+      "Code": "BI002500 BLUE X LARGE",
+      "Color": "Blue",
+      "ListPrice": { "Amount": 1249.94, "Currency": "USD" },
+      "MsrpPrice": { "Amount": 1899, "Currency": "USD" },
+      "ImageUrl": "https://jnsn.imgix.net/globalassets/product-images---all-assets/marin-2021/bi002500-blue.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+      "SwatchImageUrl": "https://jnsn.imgix.net/globalassets/product-images---all-assets/marin-2021/bi002500-blue-swatch.jpg?w=30&h=30&fit=max&auto=format&q=70",
+      "SavingPercent": 34,
+      "Order": 0
+    },
+    "Variants": [
+      {
+        "Code": "BI002500 BLUE X LARGE",
+        "Color": "Blue",
+        "ListPrice": { "Amount": 1249.94, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 1899, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/product-images---all-assets/marin-2021/bi002500-blue.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "https://jnsn.imgix.net/globalassets/product-images---all-assets/marin-2021/bi002500-blue-swatch.jpg?w=30&h=30&fit=max&auto=format&q=70",
+        "SavingPercent": 34,
+        "Order": 0
+      },
+      {
+        "Code": "BI002500 ORANG X LARGE",
+        "Color": "Orange",
+        "ListPrice": { "Amount": 1249.94, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 1899, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/product-images---all-assets/marin-2021/bi002500-orange.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "https://jnsn.imgix.net/globalassets/product-images---all-assets/marin-2021/bi002500-orange-swatch.jpg?w=30&h=30&fit=max&auto=format&q=70",
+        "SavingPercent": 34,
+        "Order": 0
+      }
+    ],
+    "FacetFieldsDictionary": {
+      "MultiValueFeatures": [
+        "Shimano Components",
+        "Dropper Seatpost",
+        "Internal Cable Routing"
+      ],
+      "Size": ["Extra Large"],
+      "Color": ["Blue", "Orange"],
+      "FinancingAvailable": ["True"],
+      "MultiValueDiscipline": ["MTB"],
+      "Gender": ["Men"],
+      "RearSuspensionType": ["Full Suspension"],
+      "BikeModel": ["Marin Rift Zone"],
+      "ForkTravel": ["130mm"],
+      "DrivetrainType": ["1x11 Speed"],
+      "WheelSize": ["27.5\""],
+      "MultiValueIntendedUse": ["Trail / All-Mountain"],
+      "FrameMaterial": ["Aluminum"]
+    },
+    "CatalogNodeCodes": [
+      "C0000QE6",
+      "C0000QE5",
+      "5637144578",
+      "5637144576",
+      "Financing_1",
+      "Featured",
+      "Marin Bikes",
+      "Bikes25th",
+      "25thSale",
+      "Sales",
+      "FSMTBIKES",
+      "TRAMMTBIKES",
+      "275MTBBIKES",
+      "5637229331",
+      "5637229328",
+      "5637229326",
+      "5637238327"
+    ],
+    "Price": ["$1,249.94"],
+    "SortPrice": 1249.94,
+    "Discount": 34,
+    "Brand": "Marin Bikes",
+    "AverageRating": 4.8,
+    "NumberOfReviews": 12,
+    "ImageUrl": null,
+    "Published": "2021-04-07T13:01:21+00:00",
+    "ColorVariantsToShow": [
+      {
+        "Code": "BI002500 BLUE X LARGE",
+        "Color": "Blue",
+        "ListPrice": { "Amount": 1249.94, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 1899, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/product-images---all-assets/marin-2021/bi002500-blue.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "https://jnsn.imgix.net/globalassets/product-images---all-assets/marin-2021/bi002500-blue-swatch.jpg?w=30&h=30&fit=max&auto=format&q=70",
+        "SavingPercent": 34,
+        "Order": 0
+      },
+      {
+        "Code": "BI002500 ORANG X LARGE",
+        "Color": "Orange",
+        "ListPrice": { "Amount": 1249.94, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 1899, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/product-images---all-assets/marin-2021/bi002500-orange.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "https://jnsn.imgix.net/globalassets/product-images---all-assets/marin-2021/bi002500-orange-swatch.jpg?w=30&h=30&fit=max&auto=format&q=70",
+        "SavingPercent": 34,
+        "Order": 0
+      }
+    ]
+  },
+  {
+    "Id": 384101,
+    "Name": "Marin Palisades Trail 2 27.5\" Bike 2021",
+    "Code": "BI002527",
+    "Url": "/Marin-Palisades-Trail-2-275-Bike-2021",
+    "IsOnSale": true,
+    "IsNew": false,
+    "Created": "2021-03-12T18:47:21+00:00",
+    "SelectedVariant": {
+      "Code": "BI002527 SMALL, BLUE",
+      "Color": "Blue",
+      "ListPrice": { "Amount": 449.94, "Currency": "USD" },
+      "MsrpPrice": { "Amount": 1019, "Currency": "USD" },
+      "ImageUrl": "https://jnsn.imgix.net/globalassets/product-images---all-assets/marin-2021/bi002527-blue.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+      "SwatchImageUrl": "https://jnsn.imgix.net/globalassets/product-images---all-assets/marin-2021/bi002527-blue-swatch.jpg?w=30&h=30&fit=max&auto=format&q=70",
+      "SavingPercent": 56,
+      "Order": 0
+    },
+    "Variants": [
+      {
+        "Code": "BI002527 SMALL, BLUE",
+        "Color": "Blue",
+        "ListPrice": { "Amount": 449.94, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 1019, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/product-images---all-assets/marin-2021/bi002527-blue.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "https://jnsn.imgix.net/globalassets/product-images---all-assets/marin-2021/bi002527-blue-swatch.jpg?w=30&h=30&fit=max&auto=format&q=70",
+        "SavingPercent": 56,
+        "Order": 0
+      },
+      {
+        "Code": "BI002527 LARGE, BLUE",
+        "Color": "Blue",
+        "ListPrice": { "Amount": 449.94, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 1019, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/product-images---all-assets/marin-2021/bi002527-blue.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "/globalassets/product-images---all-assets/marin-2021/bi002527-blue-swatch.jpg",
+        "SavingPercent": 56,
+        "Order": 0
+      }
+    ],
+    "FacetFieldsDictionary": {
+      "MultiValueFeatures": ["Shimano Components", "Internal Cable Routing"],
+      "Size": ["Small", "Large"],
+      "Color": ["Blue"],
+      "FinancingAvailable": ["True"],
+      "MultiValueDiscipline": ["MTB"],
+      "Gender": ["Men"],
+      "RearSuspensionType": ["Hardtail"],
+      "BikeModel": ["Marin Palisades"],
+      "VideoUrl": [
+        "<div class=\"product-image-item is-video\"><iframe title=\"YouTube video player\" src=\"https://www.youtube.com/embed/KO797AB99JI\" frameborder=\"0\" allowfullscreen=\"\"></iframe><br />This video is for informational purposes only and may not represent the specifications of item/s on this page.</div>"
+      ],
+      "ForkTravel": ["100mm"],
+      "DrivetrainType": ["2x9 Speed"],
+      "WheelSize": ["27.5\""],
+      "MultiValueIntendedUse": ["Cross Country"],
+      "FrameMaterial": ["Aluminum"]
+    },
+    "CatalogNodeCodes": [
+      "Marin Bikes",
+      "Bikes25th",
+      "25thSale",
+      "Sales",
+      "5637144578",
+      "5637144576",
+      "XCMTBIKES",
+      "C0000QE6",
+      "C0000QE5",
+      "HTMTBIKES",
+      "275MTBBIKES",
+      "5637229331",
+      "5637229328",
+      "5637229326",
+      "Featured",
+      "5637233079",
+      "5637233076",
+      "Financing_1"
+    ],
+    "Price": ["$449.94"],
+    "SortPrice": 449.94,
+    "Discount": 56,
+    "Brand": "Marin Bikes",
+    "AverageRating": 4.8,
+    "NumberOfReviews": 38,
+    "ImageUrl": null,
+    "Published": "2021-05-24T12:52:08+00:00",
+    "ColorVariantsToShow": [
+      {
+        "Code": "BI002527 SMALL, BLUE",
+        "Color": "Blue",
+        "ListPrice": { "Amount": 449.94, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 1019, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/product-images---all-assets/marin-2021/bi002527-blue.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "https://jnsn.imgix.net/globalassets/product-images---all-assets/marin-2021/bi002527-blue-swatch.jpg?w=30&h=30&fit=max&auto=format&q=70",
+        "SavingPercent": 56,
+        "Order": 0
+      }
+    ]
+  },
+  {
+    "Id": 392303,
+    "Name": "Juliana Roubion V4 4 2022",
+    "Code": "BI002576",
+    "Url": "/Juliana-Roubion-V4-4-2022",
+    "IsOnSale": true,
+    "IsNew": false,
+    "Created": "2021-05-27T16:08:17+00:00",
+    "SelectedVariant": {
+      "Code": "BI002576 SMALL BLUE",
+      "Color": "Blue Steel/Purple",
+      "ListPrice": { "Amount": 5079.94, "Currency": "USD" },
+      "MsrpPrice": { "Amount": 6349, "Currency": "USD" },
+      "ImageUrl": "https://jnsn.imgix.net/globalassets/product-images---all-assets/santa-cruz2/bi002576-blue.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+      "SwatchImageUrl": "https://jnsn.imgix.net/globalassets/product-images---all-assets/santa-cruz2/bi002576-blue-swatch.jpg?w=30&h=30&fit=max&auto=format&q=70",
+      "SavingPercent": 20,
+      "Order": 0
+    },
+    "Variants": [
+      {
+        "Code": "BI002576 SMALL BLUE",
+        "Color": "Blue Steel/Purple",
+        "ListPrice": { "Amount": 5079.94, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 6349, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/product-images---all-assets/santa-cruz2/bi002576-blue.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "https://jnsn.imgix.net/globalassets/product-images---all-assets/santa-cruz2/bi002576-blue-swatch.jpg?w=30&h=30&fit=max&auto=format&q=70",
+        "SavingPercent": 20,
+        "Order": 0
+      },
+      {
+        "Code": "BI002576 MEDIUM BLUE",
+        "Color": "Blue Steel/Purple",
+        "ListPrice": { "Amount": 5079.94, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 6349, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/product-images---all-assets/santa-cruz2/bi002576-blue.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "/globalassets/product-images---all-assets/santa-cruz2/bi002576-blue-swatch.jpg",
+        "SavingPercent": 20,
+        "Order": 0
+      }
+    ],
+    "FacetFieldsDictionary": {
+      "MultiValueFeatures": [
+        "SRAM Components",
+        "Dropper Seatpost",
+        "Internal Cable Routing"
+      ],
+      "Size": ["Small", "Medium"],
+      "Color": ["Blue Steel/Purple"],
+      "FinancingAvailable": ["True"],
+      "MultiValueDiscipline": ["MTB"],
+      "Gender": ["Women"],
+      "RearSuspensionType": ["Full Suspension"],
+      "BikeModel": ["Juliana Roubion"],
+      "ForkTravel": ["160mm"],
+      "DrivetrainType": ["1x12 Speed"],
+      "WheelSize": ["27.5\""],
+      "MultiValueIntendedUse": ["Trail / All-Mountain", "Enduro"],
+      "FrameMaterial": ["Carbon"]
+    },
+    "CatalogNodeCodes": [
+      "C0000QEE",
+      "C0000QE5",
+      "5637144578",
+      "5637144576",
+      "C0000QE6",
+      "Financing_1",
+      "Featured",
+      "Santa-Cruz-Bicycles_1",
+      "ENMTBIKES",
+      "FSMTBIKES",
+      "275MTBBIKES",
+      "29MTBBIKES",
+      "Juliana-Bicycles_1"
+    ],
+    "Price": ["$5,079.94"],
+    "SortPrice": 5079.94,
+    "Discount": 20,
+    "Brand": "Juliana Bicycles",
+    "AverageRating": 0,
+    "NumberOfReviews": 0,
+    "ImageUrl": null,
+    "Published": "2021-05-27T16:08:17.943+00:00",
+    "ColorVariantsToShow": [
+      {
+        "Code": "BI002576 SMALL BLUE",
+        "Color": "Blue Steel/Purple",
+        "ListPrice": { "Amount": 5079.94, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 6349, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/product-images---all-assets/santa-cruz2/bi002576-blue.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "https://jnsn.imgix.net/globalassets/product-images---all-assets/santa-cruz2/bi002576-blue-swatch.jpg?w=30&h=30&fit=max&auto=format&q=70",
+        "SavingPercent": 20,
+        "Order": 0
+      }
+    ]
+  },
+  {
+    "Id": 396103,
+    "Name": "Marin RIFT ZONE 3 27.5 2022 BIKE",
+    "Code": "BI002705",
+    "Url": "/Marin-RIFT-ZONE-3-275-2022-BIKE",
+    "IsOnSale": true,
+    "IsNew": false,
+    "Created": "2021-07-21T18:39:35+00:00",
+    "SelectedVariant": {
+      "Code": "BI002705 M BLK/SLIVER",
+      "Color": "Black/Silver",
+      "ListPrice": { "Amount": 2099.94, "Currency": "USD" },
+      "MsrpPrice": { "Amount": 2999, "Currency": "USD" },
+      "ImageUrl": "https://jnsn.imgix.net/globalassets/product-images---all-assets/marin-2021/bi002705-black~silver.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+      "SwatchImageUrl": "/globalassets/product-images---all-assets/marin-2021/bi002705-black~silver-swatch.jpg",
+      "SavingPercent": 30,
+      "Order": 0
+    },
+    "Variants": [
+      {
+        "Code": "BI002705 M BLK/SLIVER",
+        "Color": "Black/Silver",
+        "ListPrice": { "Amount": 2099.94, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 2999, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/product-images---all-assets/marin-2021/bi002705-black~silver.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "/globalassets/product-images---all-assets/marin-2021/bi002705-black~silver-swatch.jpg",
+        "SavingPercent": 30,
+        "Order": 0
+      }
+    ],
+    "FacetFieldsDictionary": {
+      "MultiValueFeatures": [
+        "Shimano Components",
+        "Dropper Seatpost",
+        "Internal Cable Routing"
+      ],
+      "Size": ["Medium"],
+      "Color": ["Black/Silver"],
+      "FinancingAvailable": ["True"],
+      "MultiValueDiscipline": ["MTB"],
+      "Gender": ["Men"],
+      "RearSuspensionType": ["Full Suspension"],
+      "BikeModel": ["Marin Rift Zone"],
+      "ForkTravel": ["130mm"],
+      "DrivetrainType": ["1x12 Speed"],
+      "WheelSize": ["27.5\""],
+      "MultiValueIntendedUse": ["Trail / All-Mountain"],
+      "FrameMaterial": ["Aluminum"]
+    },
+    "CatalogNodeCodes": [
+      "C0000QE6",
+      "C0000QE5",
+      "5637144578",
+      "5637144576",
+      "Financing_1",
+      "Featured",
+      "Marin Bikes",
+      "FSMTBIKES",
+      "275MTBBIKES",
+      "5637229331",
+      "5637229328",
+      "5637229326"
+    ],
+    "Price": ["$2,099.94"],
+    "SortPrice": 2099.94,
+    "Discount": 30,
+    "Brand": "Marin Bikes",
+    "AverageRating": 5,
+    "NumberOfReviews": 1,
+    "ImageUrl": null,
+    "Published": "2021-11-08T13:18:09+00:00",
+    "ColorVariantsToShow": []
+  },
+  {
+    "Id": 398044,
+    "Name": "Yeti 160E C1 E-Bike 2023",
+    "Code": "BI002771",
+    "Url": "/Yeti-160E-C1-E-Bike-2023",
+    "IsOnSale": false,
+    "IsNew": false,
+    "Created": "2021-08-20T21:58:31.833+00:00",
+    "SelectedVariant": {
+      "Code": "BI002771 LG RHINO",
+      "Color": "Rhino",
+      "ListPrice": { "Amount": 10100, "Currency": "USD" },
+      "MsrpPrice": { "Amount": 10100, "Currency": "USD" },
+      "ImageUrl": "https://jnsn.imgix.net/globalassets/product-images---all-assets/yeti-2021/bi002771-rhino.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+      "SwatchImageUrl": "https://jnsn.imgix.net/globalassets/product-images---all-assets/yeti-2021/bi002771-rhino-swatch.jpg?w=30&h=30&fit=max&auto=format&q=70",
+      "SavingPercent": 0,
+      "Order": 0
+    },
+    "Variants": [
+      {
+        "Code": "BI002771 LG RHINO",
+        "Color": "Rhino",
+        "ListPrice": { "Amount": 10100, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 10100, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/product-images---all-assets/yeti-2021/bi002771-rhino.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "https://jnsn.imgix.net/globalassets/product-images---all-assets/yeti-2021/bi002771-rhino-swatch.jpg?w=30&h=30&fit=max&auto=format&q=70",
+        "SavingPercent": 0,
+        "Order": 0
+      },
+      {
+        "Code": "BI002771 LG TURQ",
+        "Color": "Turquoise",
+        "ListPrice": { "Amount": 10100, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 10100, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/product-images---all-assets/yeti-2021/bi002771-turquoise.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "https://jnsn.imgix.net/globalassets/product-images---all-assets/yeti-2021/bi002771-turquoise-swatch.jpg?w=30&h=30&fit=max&auto=format&q=70",
+        "SavingPercent": 0,
+        "Order": 0
+      },
+      {
+        "Code": "BI002771 MD RHINO",
+        "Color": "Rhino",
+        "ListPrice": { "Amount": 10100, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 10100, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/product-images---all-assets/yeti-2021/bi002771-rhino.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "/globalassets/product-images---all-assets/yeti-2021/bi002771-rhino-swatch.jpg",
+        "SavingPercent": 0,
+        "Order": 0
+      },
+      {
+        "Code": "BI002771 MD TURQ",
+        "Color": "Turquoise",
+        "ListPrice": { "Amount": 10100, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 10100, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/product-images---all-assets/yeti-2021/bi002771-turquoise.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "/globalassets/product-images---all-assets/yeti-2021/bi002771-turquoise-swatch.jpg",
+        "SavingPercent": 0,
+        "Order": 0
+      },
+      {
+        "Code": "BI002771 SM RHINO",
+        "Color": "Rhino",
+        "ListPrice": { "Amount": 10100, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 10100, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/product-images---all-assets/yeti-2021/bi002771-rhino.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "/globalassets/product-images---all-assets/yeti-2021/bi002771-rhino-swatch.jpg",
+        "SavingPercent": 0,
+        "Order": 0
+      },
+      {
+        "Code": "BI002771 SM TURQ",
+        "Color": "Turquoise",
+        "ListPrice": { "Amount": 10100, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 10100, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/product-images---all-assets/yeti-2021/bi002771-turquoise.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "/globalassets/product-images---all-assets/yeti-2021/bi002771-turquoise-swatch.jpg",
+        "SavingPercent": 0,
+        "Order": 0
+      },
+      {
+        "Code": "BI002771 XL RHINO",
+        "Color": "Rhino",
+        "ListPrice": { "Amount": 10100, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 10100, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/product-images---all-assets/yeti-2021/bi002771-rhino.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "/globalassets/product-images---all-assets/yeti-2021/bi002771-rhino-swatch.jpg",
+        "SavingPercent": 0,
+        "Order": 0
+      },
+      {
+        "Code": "BI002771 XL TURQ",
+        "Color": "Turquoise",
+        "ListPrice": { "Amount": 10100, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 10100, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/product-images---all-assets/yeti-2021/bi002771-turquoise.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "/globalassets/product-images---all-assets/yeti-2021/bi002771-turquoise-swatch.jpg",
+        "SavingPercent": 0,
+        "Order": 0
+      }
+    ],
+    "FacetFieldsDictionary": {
+      "MultiValueFeatures": [
+        "Shimano Components",
+        "Dropper Seatpost",
+        "Internal Cable Routing",
+        "E-Bike"
+      ],
+      "Motor": ["Shimano"],
+      "Size": ["Large", "Medium", "Small", "Extra Large"],
+      "Color": ["Rhino", "Turquoise"],
+      "FinancingAvailable": ["True"],
+      "MultiValueDiscipline": ["MTB"],
+      "Gender": ["Men"],
+      "BikeModel": ["Yeti 160E"],
+      "RearSuspensionType": ["Full Suspension"],
+      "ForkTravel": ["170mm"],
+      "DrivetrainType": ["1x12 Speed"],
+      "Battery": ["630 Wh"],
+      "MultiValueIntendedUse": ["E-Bike", "Enduro"],
+      "WheelSize": ["29\""],
+      "FrameMaterial": ["Carbon"]
+    },
+    "CatalogNodeCodes": [
+      "C0000QE6",
+      "C0000QE5",
+      "5637144578",
+      "5637144576",
+      "Yeti Cycles",
+      "Financing_1",
+      "Featured",
+      "Electric-Mountain-Bi",
+      "Electric-Bikes_1",
+      "ENMTBIKES",
+      "FSMTBIKES",
+      "275MTBBIKES",
+      "29MTBBIKES",
+      "5637229339",
+      "5637229327",
+      "5637229326"
+    ],
+    "Price": ["$10,100.00"],
+    "SortPrice": 10100,
+    "Discount": 0,
+    "Brand": "Yeti Cycles",
+    "AverageRating": 0,
+    "NumberOfReviews": 0,
+    "ImageUrl": null,
+    "Published": "2021-09-13T19:48:46+00:00",
+    "ColorVariantsToShow": [
+      {
+        "Code": "BI002771 LG RHINO",
+        "Color": "Rhino",
+        "ListPrice": { "Amount": 10100, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 10100, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/product-images---all-assets/yeti-2021/bi002771-rhino.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "https://jnsn.imgix.net/globalassets/product-images---all-assets/yeti-2021/bi002771-rhino-swatch.jpg?w=30&h=30&fit=max&auto=format&q=70",
+        "SavingPercent": 0,
+        "Order": 0
+      },
+      {
+        "Code": "BI002771 LG TURQ",
+        "Color": "Turquoise",
+        "ListPrice": { "Amount": 10100, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 10100, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/product-images---all-assets/yeti-2021/bi002771-turquoise.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "https://jnsn.imgix.net/globalassets/product-images---all-assets/yeti-2021/bi002771-turquoise-swatch.jpg?w=30&h=30&fit=max&auto=format&q=70",
+        "SavingPercent": 0,
+        "Order": 0
+      }
+    ]
+  },
+  {
+    "Id": 398587,
+    "Name": "NORCO SHORE A2 BIKE 2022",
+    "Code": "BI002794",
+    "Url": "/NORCO-SHORE-A2-BIKE-2022",
+    "IsOnSale": false,
+    "IsNew": false,
+    "Created": "2021-08-23T06:22:59+00:00",
+    "SelectedVariant": {
+      "Code": "BI002794 MD PUR/BLUE",
+      "Color": "Purple/Blue",
+      "ListPrice": { "Amount": 4599, "Currency": "USD" },
+      "MsrpPrice": { "Amount": 4599, "Currency": "USD" },
+      "ImageUrl": "https://jnsn.imgix.net/globalassets/product-images---all-assets/norco/bi002794-purple~blue.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+      "SwatchImageUrl": "/globalassets/product-images---all-assets/norco/bi002794-purple~blue-swatch.jpg",
+      "SavingPercent": 0,
+      "Order": 0
+    },
+    "Variants": [
+      {
+        "Code": "BI002794 MD PUR/BLUE",
+        "Color": "Purple/Blue",
+        "ListPrice": { "Amount": 4599, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 4599, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/product-images---all-assets/norco/bi002794-purple~blue.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "/globalassets/product-images---all-assets/norco/bi002794-purple~blue-swatch.jpg",
+        "SavingPercent": 0,
+        "Order": 0
+      }
+    ],
+    "FacetFieldsDictionary": {
+      "MultiValueFeatures": [
+        "Shimano Components",
+        "Dropper Seatpost",
+        "Disc Brakes",
+        "Internal Cable Routing"
+      ],
+      "Size": ["Medium"],
+      "Color": ["Purple/Blue"],
+      "FinancingAvailable": ["True"],
+      "MultiValueDiscipline": ["MTB"],
+      "Gender": ["Men"],
+      "RearSuspensionType": ["Full Suspension"],
+      "BikeModel": ["Norco Shore"],
+      "ForkTravel": ["180mm"],
+      "DrivetrainType": ["1x12 Speed"],
+      "WheelSize": ["27.5\""],
+      "MultiValueIntendedUse": ["Enduro"],
+      "ModelYear": ["2022"],
+      "FrameMaterial": ["Aluminum"]
+    },
+    "CatalogNodeCodes": [
+      "C0000QE6",
+      "C0000QE5",
+      "5637144578",
+      "5637144576",
+      "Financing_1",
+      "Featured",
+      "Norco",
+      "ENMTBIKES",
+      "FSMTBIKES",
+      "275MTBBIKES",
+      "5637229331",
+      "5637229328",
+      "5637229326"
+    ],
+    "Price": ["$4,599.00"],
+    "SortPrice": 4599,
+    "Discount": 0,
+    "Brand": "Norco",
+    "AverageRating": 0,
+    "NumberOfReviews": 0,
+    "ImageUrl": null,
+    "Published": "2021-11-11T18:39:06+00:00",
+    "ColorVariantsToShow": []
+  },
+  {
+    "Id": 398663,
+    "Name": "NORCO SHORE A1 BIKE 2022",
+    "Code": "BI002793",
+    "Url": "/NORCO-SHORE-A1-BIKE-2022",
+    "IsOnSale": true,
+    "IsNew": false,
+    "Created": "2021-08-23T06:23:45+00:00",
+    "SelectedVariant": {
+      "Code": "BI002793 MD SILVER/SILVER",
+      "Color": "Silver/Silver",
+      "ListPrice": { "Amount": 6299, "Currency": "USD" },
+      "MsrpPrice": { "Amount": 6299, "Currency": "USD" },
+      "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/8663-en-bi002793-silver~silver.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+      "SwatchImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/8660-en-bi002793-silver~silver-swatch.jpg?w=30&h=30&fit=max&auto=format&q=70",
+      "SavingPercent": 0,
+      "Order": 0
+    },
+    "Variants": [
+      {
+        "Code": "BI002793 MD SILVER/SILVER",
+        "Color": "Silver/Silver",
+        "ListPrice": { "Amount": 6299, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 6299, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/8663-en-bi002793-silver~silver.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/8660-en-bi002793-silver~silver-swatch.jpg?w=30&h=30&fit=max&auto=format&q=70",
+        "SavingPercent": 0,
+        "Order": 0
+      },
+      {
+        "Code": "BI002793 XL SILVER/SILVER",
+        "Color": "Silver/Silver",
+        "ListPrice": { "Amount": 4724.94, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 6299, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/8663-en-bi002793-silver~silver.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "/globalassets/digizuite/8660-en-bi002793-silver~silver-swatch.jpg",
+        "SavingPercent": 25,
+        "Order": 0
+      }
+    ],
+    "FacetFieldsDictionary": {
+      "MultiValueFeatures": [
+        "SRAM Components",
+        "Dropper Seatpost",
+        "Disc Brakes",
+        "Internal Cable Routing"
+      ],
+      "Size": ["Medium", "Extra Large"],
+      "Color": ["Silver/Silver"],
+      "FinancingAvailable": ["True"],
+      "MultiValueDiscipline": ["MTB"],
+      "Gender": ["Men"],
+      "RearSuspensionType": ["Full Suspension"],
+      "BikeModel": ["Norco Shore"],
+      "ForkTravel": ["180mm"],
+      "DrivetrainType": ["1x12 Speed"],
+      "WheelSize": ["27.5\""],
+      "MultiValueIntendedUse": ["Enduro"],
+      "FrameMaterial": ["Aluminum"]
+    },
+    "CatalogNodeCodes": [
+      "C0000QE6",
+      "C0000QE5",
+      "5637144578",
+      "5637144576",
+      "Financing_1",
+      "Featured",
+      "Norco",
+      "ENMTBIKES",
+      "FSMTBIKES",
+      "275MTBBIKES"
+    ],
+    "Price": ["$6,299.00", "$4,724.94"],
+    "SortPrice": 4724.94,
+    "Discount": 25,
+    "Brand": "Norco",
+    "AverageRating": 0,
+    "NumberOfReviews": 0,
+    "ImageUrl": null,
+    "Published": "2022-02-18T19:51:22+00:00",
+    "ColorVariantsToShow": [
+      {
+        "Code": "BI002793 MD SILVER/SILVER",
+        "Color": "Silver/Silver",
+        "ListPrice": { "Amount": 6299, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 6299, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/8663-en-bi002793-silver~silver.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/8660-en-bi002793-silver~silver-swatch.jpg?w=30&h=30&fit=max&auto=format&q=70",
+        "SavingPercent": 0,
+        "Order": 0
+      }
+    ]
+  },
+  {
+    "Id": 409299,
+    "Name": "Orbea LAUFEY H10 Bike 2022",
+    "Code": "BI002997",
+    "Url": "/Orbea-LAUFEY-H10-Bike-2022",
+    "IsOnSale": true,
+    "IsNew": false,
+    "Created": "2021-09-20T22:07:59+00:00",
+    "SelectedVariant": {
+      "Code": "BI002997 S RAW ALUMINIUM",
+      "Color": "Raw Aluminum",
+      "ListPrice": { "Amount": 1949.94, "Currency": "USD" },
+      "MsrpPrice": { "Amount": 2599, "Currency": "USD" },
+      "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/21340-en-bi002997-raw-aluminum.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+      "SwatchImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/21336-en-bi002997-raw-aluminum-swatch.jpg?w=30&h=30&fit=max&auto=format&q=70",
+      "SavingPercent": 25,
+      "Order": 0
+    },
+    "Variants": [
+      {
+        "Code": "BI002997 S RAW ALUMINIUM",
+        "Color": "Raw Aluminum",
+        "ListPrice": { "Amount": 1949.94, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 2599, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/21340-en-bi002997-raw-aluminum.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/21336-en-bi002997-raw-aluminum-swatch.jpg?w=30&h=30&fit=max&auto=format&q=70",
+        "SavingPercent": 25,
+        "Order": 0
+      },
+      {
+        "Code": "BI002997 S GOLDEN SAND",
+        "Color": "Golden Sand",
+        "ListPrice": { "Amount": 1949.94, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 2599, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/26939-en-bi002997-golden-sand.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/26940-en-bi002997-golden-sand-swatch.jpg?w=30&h=30&fit=max&auto=format&q=70",
+        "SavingPercent": 25,
+        "Order": 0
+      },
+      {
+        "Code": "BI002997 M RAW ALUMINIUM",
+        "Color": "Raw Aluminum",
+        "ListPrice": { "Amount": 1949.94, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 2599, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/21340-en-bi002997-raw-aluminum.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "/globalassets/digizuite/21336-en-bi002997-raw-aluminum-swatch.jpg",
+        "SavingPercent": 25,
+        "Order": 0
+      },
+      {
+        "Code": "BI002997 L GOLDEN SAND",
+        "Color": "Golden Sand",
+        "ListPrice": { "Amount": 1949.94, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 2599, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/26939-en-bi002997-golden-sand.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "/globalassets/digizuite/26940-en-bi002997-golden-sand-swatch.jpg",
+        "SavingPercent": 25,
+        "Order": 0
+      },
+      {
+        "Code": "BI002997 XL RAW ALUMINIUM",
+        "Color": "Raw Aluminum",
+        "ListPrice": { "Amount": 1949.94, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 2599, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/21340-en-bi002997-raw-aluminum.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "/globalassets/digizuite/21336-en-bi002997-raw-aluminum-swatch.jpg",
+        "SavingPercent": 25,
+        "Order": 0
+      }
+    ],
+    "FacetFieldsDictionary": {
+      "MultiValueFeatures": [
+        "Shimano Components",
+        "Dropper Seatpost",
+        "Disc Brakes",
+        "Internal Cable Routing"
+      ],
+      "Size": ["Small", "Medium", "Large", "Extra Large"],
+      "Color": ["Raw Aluminum", "Golden Sand"],
+      "FinancingAvailable": ["True"],
+      "MultiValueDiscipline": ["MTB"],
+      "Gender": ["Men"],
+      "RearSuspensionType": ["Hardtail"],
+      "BikeModel": ["Orbea Laufey"],
+      "ForkTravel": ["140mm"],
+      "DrivetrainType": ["1x12 Speed"],
+      "WheelSize": ["27.5\""],
+      "MultiValueIntendedUse": ["Trail / All-Mountain"],
+      "ModelYear": ["2022"],
+      "FrameMaterial": ["Aluminum"]
+    },
+    "CatalogNodeCodes": [
+      "C0000QE6",
+      "C0000QE5",
+      "5637144578",
+      "5637144576",
+      "Orbea",
+      "Financing_1",
+      "Featured",
+      "HTMTBIKES",
+      "TRAMMTBIKES",
+      "275MTBBIKES",
+      "29MTBBIKES",
+      "5637251826",
+      "Sales"
+    ],
+    "Price": ["$1,949.94"],
+    "SortPrice": 1949.94,
+    "Discount": 25,
+    "Brand": "Orbea",
+    "AverageRating": 4,
+    "NumberOfReviews": 1,
+    "ImageUrl": null,
+    "Published": "2022-11-17T00:23:17+00:00",
+    "ColorVariantsToShow": [
+      {
+        "Code": "BI002997 S RAW ALUMINIUM",
+        "Color": "Raw Aluminum",
+        "ListPrice": { "Amount": 1949.94, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 2599, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/21340-en-bi002997-raw-aluminum.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/21336-en-bi002997-raw-aluminum-swatch.jpg?w=30&h=30&fit=max&auto=format&q=70",
+        "SavingPercent": 25,
+        "Order": 0
+      },
+      {
+        "Code": "BI002997 S GOLDEN SAND",
+        "Color": "Golden Sand",
+        "ListPrice": { "Amount": 1949.94, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 2599, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/26939-en-bi002997-golden-sand.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/26940-en-bi002997-golden-sand-swatch.jpg?w=30&h=30&fit=max&auto=format&q=70",
+        "SavingPercent": 25,
+        "Order": 0
+      }
+    ]
+  },
+  {
+    "Id": 418858,
+    "Name": "Rocky Mountain Reaper 27.5 Bike 2022",
+    "Code": "BI003191",
+    "Url": "/Rocky-Mountain-Reaper-275-Bike-2022",
+    "IsOnSale": true,
+    "IsNew": false,
+    "Created": "2021-11-05T17:32:20.187+00:00",
+    "SelectedVariant": {
+      "Code": "BI003191 GOLD / GREEN OS",
+      "Color": "Gold/Green",
+      "ListPrice": { "Amount": 2391.94, "Currency": "USD" },
+      "MsrpPrice": { "Amount": 2989, "Currency": "USD" },
+      "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/28357-en-bi003191-gold~green.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+      "SwatchImageUrl": "/globalassets/digizuite/27207-en-bi003194-gold~green-swatch.jpg",
+      "SavingPercent": 20,
+      "Order": 0
+    },
+    "Variants": [
+      {
+        "Code": "BI003191 GOLD / GREEN OS",
+        "Color": "Gold/Green",
+        "ListPrice": { "Amount": 2391.94, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 2989, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/28357-en-bi003191-gold~green.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "/globalassets/digizuite/27207-en-bi003194-gold~green-swatch.jpg",
+        "SavingPercent": 20,
+        "Order": 0
+      }
+    ],
+    "FacetFieldsDictionary": {
+      "Size": ["One Size"],
+      "Color": ["Gold/Green"],
+      "MultiValueIntendedUse": ["Trail / All-Mountain", "Enduro"],
+      "WheelSize": ["27.5\""],
+      "FinancingAvailable": ["True"],
+      "MultiValueDiscipline": ["MTB"],
+      "BikeModel": ["Rocky Mountain Reaper"],
+      "FrameMaterial": ["Aluminum"]
+    },
+    "CatalogNodeCodes": [
+      "C0000QED",
+      "C0000QE5",
+      "5637144578",
+      "5637144576",
+      "Financing_1",
+      "Featured",
+      "Rocky Mountain",
+      "FSMTBIKES",
+      "C0000QE6",
+      "TRAMMTBIKES",
+      "275MTBBIKES"
+    ],
+    "Price": ["$2,391.94"],
+    "SortPrice": 2391.94,
+    "Discount": 20,
+    "Brand": "Rocky Mountain",
+    "AverageRating": 0,
+    "NumberOfReviews": 0,
+    "ImageUrl": null,
+    "Published": "2022-12-22T21:29:13+00:00",
+    "ColorVariantsToShow": []
+  },
+  {
+    "Id": 419223,
+    "Name": "Rocky Mountain Altitude Carbon 50 27 5\"Bike 2022",
+    "Code": "BI003251",
+    "Url": "/Rocky-Mountain-Altitude-Carbon-50-27-5Bike-2022",
+    "IsOnSale": true,
+    "IsNew": false,
+    "Created": "2021-11-02T18:11:52+00:00",
+    "SelectedVariant": {
+      "Code": "BI003251 GREEN / GREEN SM",
+      "Color": "Green/Green",
+      "ListPrice": { "Amount": 4551.94, "Currency": "USD" },
+      "MsrpPrice": { "Amount": 6069, "Currency": "USD" },
+      "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/25137-en-bi003251-green~green.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+      "SwatchImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/25138-en-bi003251-green~green-swatch.jpg?w=30&h=30&fit=max&auto=format&q=70",
+      "SavingPercent": 25,
+      "Order": 0
+    },
+    "Variants": [
+      {
+        "Code": "BI003251 GREEN / GREEN SM",
+        "Color": "Green/Green",
+        "ListPrice": { "Amount": 4551.94, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 6069, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/25137-en-bi003251-green~green.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/25138-en-bi003251-green~green-swatch.jpg?w=30&h=30&fit=max&auto=format&q=70",
+        "SavingPercent": 25,
+        "Order": 0
+      },
+      {
+        "Code": "BI003251 GREY / PINK SM",
+        "Color": "Grey/Pink",
+        "ListPrice": { "Amount": 4551.94, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 6069, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/12827-en-bi003251_4-grey~pink.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/12822-en-bi003251-grey~pink-swatch.jpg?w=30&h=30&fit=max&auto=format&q=70",
+        "SavingPercent": 25,
+        "Order": 0
+      }
+    ],
+    "FacetFieldsDictionary": {
+      "MultiValueFeatures": [
+        "Shimano Components",
+        "Dropper Seatpost",
+        "Internal Cable Routing"
+      ],
+      "Size": ["Small"],
+      "Color": ["Green/Green", "Grey/Pink"],
+      "FinancingAvailable": ["True"],
+      "MultiValueDiscipline": ["MTB"],
+      "Gender": ["Men"],
+      "RearSuspensionType": ["Full Suspension"],
+      "BikeModel": ["Rocky Mountain Altitude"],
+      "ForkTravel": ["170mm"],
+      "DrivetrainType": ["1x12 Speed"],
+      "WheelSize": ["27.5\""],
+      "MultiValueIntendedUse": ["Enduro"],
+      "FrameMaterial": ["Carbon"]
+    },
+    "CatalogNodeCodes": [
+      "C0000QE6",
+      "C0000QE5",
+      "5637144578",
+      "5637144576",
+      "Financing_1",
+      "Featured",
+      "Rocky Mountain",
+      "ENMTBIKES",
+      "FSMTBIKES",
+      "275MTBBIKES"
+    ],
+    "Price": ["$4,551.94"],
+    "SortPrice": 4551.94,
+    "Discount": 25,
+    "Brand": "Rocky Mountain",
+    "AverageRating": 0,
+    "NumberOfReviews": 0,
+    "ImageUrl": null,
+    "Published": "2022-10-04T21:19:50+00:00",
+    "ColorVariantsToShow": [
+      {
+        "Code": "BI003251 GREEN / GREEN SM",
+        "Color": "Green/Green",
+        "ListPrice": { "Amount": 4551.94, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 6069, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/25137-en-bi003251-green~green.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/25138-en-bi003251-green~green-swatch.jpg?w=30&h=30&fit=max&auto=format&q=70",
+        "SavingPercent": 25,
+        "Order": 0
+      },
+      {
+        "Code": "BI003251 GREY / PINK SM",
+        "Color": "Grey/Pink",
+        "ListPrice": { "Amount": 4551.94, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 6069, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/12827-en-bi003251_4-grey~pink.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/12822-en-bi003251-grey~pink-swatch.jpg?w=30&h=30&fit=max&auto=format&q=70",
+        "SavingPercent": 25,
+        "Order": 0
+      }
+    ]
+  },
+  {
+    "Id": 419341,
+    "Name": "Rocky Mountain Altitude Alloy 70 Coil 27 5\"Bike 2022",
+    "Code": "BI003255",
+    "Url": "/Rocky-Mountain-Altitude-Alloy-70-Coil-27-5Bike-2022",
+    "IsOnSale": true,
+    "IsNew": false,
+    "Created": "2021-11-02T18:13:21+00:00",
+    "SelectedVariant": {
+      "Code": "BI003255 GREEN / GREEN MD",
+      "Color": "Green/Green",
+      "ListPrice": { "Amount": 4599.94, "Currency": "USD" },
+      "MsrpPrice": { "Amount": 5749, "Currency": "USD" },
+      "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/21495-en-bi003255-green~green.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+      "SwatchImageUrl": "/globalassets/digizuite/21491-en-bi003255-green~green-swatch.jpg",
+      "SavingPercent": 20,
+      "Order": 0
+    },
+    "Variants": [
+      {
+        "Code": "BI003255 GREEN / GREEN MD",
+        "Color": "Green/Green",
+        "ListPrice": { "Amount": 4599.94, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 5749, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/21495-en-bi003255-green~green.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "/globalassets/digizuite/21491-en-bi003255-green~green-swatch.jpg",
+        "SavingPercent": 20,
+        "Order": 0
+      }
+    ],
+    "FacetFieldsDictionary": {
+      "MultiValueFeatures": [
+        "Shimano Components",
+        "Dropper Seatpost",
+        "Internal Cable Routing"
+      ],
+      "Size": ["Medium"],
+      "Color": ["Green/Green"],
+      "FinancingAvailable": ["True"],
+      "MultiValueDiscipline": ["MTB"],
+      "Gender": ["Men"],
+      "RearSuspensionType": ["Full Suspension"],
+      "BikeModel": ["Rocky Mountain Altitude"],
+      "ForkTravel": ["170mm"],
+      "DrivetrainType": ["1x12 Speed"],
+      "WheelSize": ["27.5\""],
+      "MultiValueIntendedUse": ["Enduro"],
+      "FrameMaterial": ["Aluminum"]
+    },
+    "CatalogNodeCodes": [
+      "C0000QE6",
+      "C0000QE5",
+      "5637144578",
+      "5637144576",
+      "Financing_1",
+      "Featured",
+      "Rocky Mountain",
+      "ENMTBIKES",
+      "FSMTBIKES",
+      "275MTBBIKES"
+    ],
+    "Price": ["$4,599.94"],
+    "SortPrice": 4599.94,
+    "Discount": 20,
+    "Brand": "Rocky Mountain",
+    "AverageRating": 0,
+    "NumberOfReviews": 0,
+    "ImageUrl": null,
+    "Published": "2022-07-22T22:20:20+00:00",
+    "ColorVariantsToShow": []
+  },
+  {
+    "Id": 419790,
+    "Name": "Ibis Mojo 4 Logo Carbon Wheel Deore Bike 2022",
+    "Code": "BI003277",
+    "Url": "/Ibis-Mojo-4-Logo-Carbon-Wheel-Deore-Bike-2022",
+    "IsOnSale": true,
+    "IsNew": false,
+    "Created": "2021-11-10T17:11:40+00:00",
+    "SelectedVariant": {
+      "Code": "BI003277 BLUE MEDIUM",
+      "Color": "Blue Dream",
+      "ListPrice": { "Amount": 3866.94, "Currency": "USD" },
+      "MsrpPrice": { "Amount": 5949, "Currency": "USD" },
+      "ImageUrl": "https://jnsn.imgix.net/globalassets/product-images---all-assets/ibis-2021/bi003277-blue-dream.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+      "SwatchImageUrl": "https://jnsn.imgix.net/globalassets/product-images---all-assets/ibis-2021/bi003277-blue-dream-swatch.jpg?w=30&h=30&fit=max&auto=format&q=70",
+      "SavingPercent": 35,
+      "Order": 0
+    },
+    "Variants": [
+      {
+        "Code": "BI003277 BLUE MEDIUM",
+        "Color": "Blue Dream",
+        "ListPrice": { "Amount": 3866.94, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 5949, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/product-images---all-assets/ibis-2021/bi003277-blue-dream.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "https://jnsn.imgix.net/globalassets/product-images---all-assets/ibis-2021/bi003277-blue-dream-swatch.jpg?w=30&h=30&fit=max&auto=format&q=70",
+        "SavingPercent": 35,
+        "Order": 0
+      },
+      {
+        "Code": "BI003277 GREY MEDIUM",
+        "Color": "Dirty White Board",
+        "ListPrice": { "Amount": 3866.94, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 5949, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/product-images---all-assets/ibis-2021/bi003277-dirty-white-board.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "https://jnsn.imgix.net/globalassets/product-images---all-assets/ibis-2021/bi003277-dirty-white-board-swatch.jpg?w=30&h=30&fit=max&auto=format&q=70",
+        "SavingPercent": 35,
+        "Order": 0
+      },
+      {
+        "Code": "BI003277 BLUE LARGE",
+        "Color": "Blue Dream",
+        "ListPrice": { "Amount": 3866.94, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 5949, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/product-images---all-assets/ibis-2021/bi003277-blue-dream.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "/globalassets/product-images---all-assets/ibis-2021/bi003277-blue-dream-swatch.jpg",
+        "SavingPercent": 35,
+        "Order": 0
+      },
+      {
+        "Code": "BI003277 GREY LARGE",
+        "Color": "Dirty White Board",
+        "ListPrice": { "Amount": 3866.94, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 5949, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/product-images---all-assets/ibis-2021/bi003277-dirty-white-board.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "/globalassets/product-images---all-assets/ibis-2021/bi003277-dirty-white-board-swatch.jpg",
+        "SavingPercent": 35,
+        "Order": 0
+      },
+      {
+        "Code": "BI003277 BLUE X LARGE",
+        "Color": "Blue Dream",
+        "ListPrice": { "Amount": 3866.94, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 5949, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/product-images---all-assets/ibis-2021/bi003277-blue-dream.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "/globalassets/product-images---all-assets/ibis-2021/bi003277-blue-dream-swatch.jpg",
+        "SavingPercent": 35,
+        "Order": 0
+      }
+    ],
+    "FacetFieldsDictionary": {
+      "MultiValueFeatures": [
+        "Shimano Components",
+        "Dropper Seatpost",
+        "Internal Cable Routing"
+      ],
+      "Size": ["Medium", "Large", "Extra Large"],
+      "Color": ["Blue Dream", "Dirty White Board"],
+      "FinancingAvailable": ["True"],
+      "MultiValueDiscipline": ["MTB"],
+      "Gender": ["Men"],
+      "RearSuspensionType": ["Full Suspension"],
+      "BikeModel": ["Ibis Mojo"],
+      "ForkTravel": ["140mm"],
+      "DrivetrainType": ["1x12 Speed"],
+      "WheelSize": ["27.5\""],
+      "MultiValueIntendedUse": ["Trail / All-Mountain"],
+      "FrameMaterial": ["Carbon"]
+    },
+    "CatalogNodeCodes": [
+      "Bikes25th",
+      "25thSale",
+      "Sales",
+      "5637144578",
+      "5637144576",
+      "FSMTBIKES",
+      "C0000QE6",
+      "C0000QE5",
+      "TRAMMTBIKES",
+      "275MTBBIKES",
+      "5637229339",
+      "5637229327",
+      "5637229326",
+      "Featured",
+      "5637233079",
+      "5637233076",
+      "Ibis Bicycles",
+      "5637251826",
+      "Financing_1"
+    ],
+    "Price": ["$3,866.94"],
+    "SortPrice": 3866.94,
+    "Discount": 35,
+    "Brand": "Ibis Bicycles",
+    "AverageRating": 5,
+    "NumberOfReviews": 2,
+    "ImageUrl": null,
+    "Published": "2021-12-08T13:48:18+00:00",
+    "ColorVariantsToShow": [
+      {
+        "Code": "BI003277 BLUE MEDIUM",
+        "Color": "Blue Dream",
+        "ListPrice": { "Amount": 3866.94, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 5949, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/product-images---all-assets/ibis-2021/bi003277-blue-dream.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "https://jnsn.imgix.net/globalassets/product-images---all-assets/ibis-2021/bi003277-blue-dream-swatch.jpg?w=30&h=30&fit=max&auto=format&q=70",
+        "SavingPercent": 35,
+        "Order": 0
+      },
+      {
+        "Code": "BI003277 GREY MEDIUM",
+        "Color": "Dirty White Board",
+        "ListPrice": { "Amount": 3866.94, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 5949, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/product-images---all-assets/ibis-2021/bi003277-dirty-white-board.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "https://jnsn.imgix.net/globalassets/product-images---all-assets/ibis-2021/bi003277-dirty-white-board-swatch.jpg?w=30&h=30&fit=max&auto=format&q=70",
+        "SavingPercent": 35,
+        "Order": 0
+      }
+    ]
+  },
+  {
+    "Id": 419811,
+    "Name": "Ibis Mojo 4 Logo Carbon Wheel SLX Bike 2022",
+    "Code": "BI003279",
+    "Url": "/Ibis-Mojo-4-Logo-Carbon-Wheel-SLX-Bike-2022",
+    "IsOnSale": true,
+    "IsNew": false,
+    "Created": "2021-11-10T17:11:57+00:00",
+    "SelectedVariant": {
+      "Code": "BI003279 BLUE LARGE",
+      "Color": "Blue Dream",
+      "ListPrice": { "Amount": 4724.94, "Currency": "USD" },
+      "MsrpPrice": { "Amount": 6749, "Currency": "USD" },
+      "ImageUrl": "https://jnsn.imgix.net/globalassets/product-images---all-assets/ibis-2021/bi003279-blue-dream.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+      "SwatchImageUrl": "https://jnsn.imgix.net/globalassets/product-images---all-assets/ibis-2021/bi003279-blue-dream-swatch.jpg?w=30&h=30&fit=max&auto=format&q=70",
+      "SavingPercent": 30,
+      "Order": 0
+    },
+    "Variants": [
+      {
+        "Code": "BI003279 BLUE LARGE",
+        "Color": "Blue Dream",
+        "ListPrice": { "Amount": 4724.94, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 6749, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/product-images---all-assets/ibis-2021/bi003279-blue-dream.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "https://jnsn.imgix.net/globalassets/product-images---all-assets/ibis-2021/bi003279-blue-dream-swatch.jpg?w=30&h=30&fit=max&auto=format&q=70",
+        "SavingPercent": 30,
+        "Order": 0
+      },
+      {
+        "Code": "BI003279 GREY LARGE",
+        "Color": "Dirty White Board",
+        "ListPrice": { "Amount": 4724.94, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 6749, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/28305-en-bi003279-dirty-white-board.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/28304-en-bi003279-dirty-white-board-swatch.jpg?w=30&h=30&fit=max&auto=format&q=70",
+        "SavingPercent": 30,
+        "Order": 0
+      }
+    ],
+    "FacetFieldsDictionary": {
+      "MultiValueFeatures": [
+        "Shimano Components",
+        "Dropper Seatpost",
+        "Internal Cable Routing"
+      ],
+      "Size": ["Large"],
+      "Color": ["Blue Dream", "Dirty White Board"],
+      "FinancingAvailable": ["True"],
+      "MultiValueDiscipline": ["MTB"],
+      "Gender": ["Men"],
+      "RearSuspensionType": ["Full Suspension"],
+      "BikeModel": ["Ibis Mojo"],
+      "ForkTravel": ["140mm"],
+      "DrivetrainType": ["1x12 Speed"],
+      "WheelSize": ["27.5\""],
+      "MultiValueIntendedUse": ["Trail / All-Mountain"],
+      "FrameMaterial": ["Carbon"]
+    },
+    "CatalogNodeCodes": [
+      "FSMTBIKES",
+      "C0000QE6",
+      "C0000QE5",
+      "5637144578",
+      "5637144576",
+      "TRAMMTBIKES",
+      "275MTBBIKES",
+      "5637229339",
+      "5637229327",
+      "5637229326",
+      "Featured",
+      "5637233079",
+      "5637233076",
+      "Ibis Bicycles",
+      "Financing_1"
+    ],
+    "Price": ["$4,724.94"],
+    "SortPrice": 4724.94,
+    "Discount": 30,
+    "Brand": "Ibis Bicycles",
+    "AverageRating": 0,
+    "NumberOfReviews": 0,
+    "ImageUrl": null,
+    "Published": "2022-12-21T21:06:03+00:00",
+    "ColorVariantsToShow": [
+      {
+        "Code": "BI003279 BLUE LARGE",
+        "Color": "Blue Dream",
+        "ListPrice": { "Amount": 4724.94, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 6749, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/product-images---all-assets/ibis-2021/bi003279-blue-dream.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "https://jnsn.imgix.net/globalassets/product-images---all-assets/ibis-2021/bi003279-blue-dream-swatch.jpg?w=30&h=30&fit=max&auto=format&q=70",
+        "SavingPercent": 30,
+        "Order": 0
+      },
+      {
+        "Code": "BI003279 GREY LARGE",
+        "Color": "Dirty White Board",
+        "ListPrice": { "Amount": 4724.94, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 6749, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/28305-en-bi003279-dirty-white-board.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/28304-en-bi003279-dirty-white-board-swatch.jpg?w=30&h=30&fit=max&auto=format&q=70",
+        "SavingPercent": 30,
+        "Order": 0
+      }
+    ]
+  },
+  {
+    "Id": 447893,
+    "Name": "Marin San Quentin 1 Bike 2023",
+    "Code": "BI003596",
+    "Url": "/Marin-San-Quentin-1-Bike-2023",
+    "IsOnSale": false,
+    "IsNew": false,
+    "Created": "2022-10-23T23:31:49+00:00",
+    "SelectedVariant": {
+      "Code": "BI003596 LARGE GREY BLACK",
+      "Color": "Grey/Black",
+      "ListPrice": { "Amount": 999, "Currency": "USD" },
+      "MsrpPrice": { "Amount": 999, "Currency": "USD" },
+      "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/26022-en-bi003596-grey~black.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+      "SwatchImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/26023-en-bi003596-grey~black-swatch.jpg?w=30&h=30&fit=max&auto=format&q=70",
+      "SavingPercent": 0,
+      "Order": 0
+    },
+    "Variants": [
+      {
+        "Code": "BI003596 LARGE GREY BLACK",
+        "Color": "Grey/Black",
+        "ListPrice": { "Amount": 999, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 999, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/26022-en-bi003596-grey~black.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/26023-en-bi003596-grey~black-swatch.jpg?w=30&h=30&fit=max&auto=format&q=70",
+        "SavingPercent": 0,
+        "Order": 0
+      },
+      {
+        "Code": "BI003596 X LARGE GREY BLACK",
+        "Color": "Grey/Black",
+        "ListPrice": { "Amount": 999, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 999, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/26022-en-bi003596-grey~black.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "/globalassets/digizuite/26023-en-bi003596-grey~black-swatch.jpg",
+        "SavingPercent": 0,
+        "Order": 0
+      },
+      {
+        "Code": "BI003596 MEDIUM GREY BLACK",
+        "Color": "Grey/Black",
+        "ListPrice": { "Amount": 999, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 999, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/26022-en-bi003596-grey~black.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "/globalassets/digizuite/26023-en-bi003596-grey~black-swatch.jpg",
+        "SavingPercent": 0,
+        "Order": 0
+      },
+      {
+        "Code": "BI003596 SMALL GREY BLACK",
+        "Color": "Grey/Black",
+        "ListPrice": { "Amount": 999, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 999, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/26022-en-bi003596-grey~black.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "/globalassets/digizuite/26023-en-bi003596-grey~black-swatch.jpg",
+        "SavingPercent": 0,
+        "Order": 0
+      },
+      {
+        "Code": "BI003596 LARGE SAND",
+        "Color": "Sand",
+        "ListPrice": { "Amount": 999, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 999, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/26021-en-bi003596-sand.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/26024-en-bi003596-sand-swatch.jpg?w=30&h=30&fit=max&auto=format&q=70",
+        "SavingPercent": 0,
+        "Order": 0
+      },
+      {
+        "Code": "BI003596 X LARGE SAND",
+        "Color": "Sand",
+        "ListPrice": { "Amount": 999, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 999, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/26021-en-bi003596-sand.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "/globalassets/digizuite/26024-en-bi003596-sand-swatch.jpg",
+        "SavingPercent": 0,
+        "Order": 0
+      },
+      {
+        "Code": "BI003596 MEDIUM SAND",
+        "Color": "Sand",
+        "ListPrice": { "Amount": 999, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 999, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/26021-en-bi003596-sand.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "/globalassets/digizuite/26024-en-bi003596-sand-swatch.jpg",
+        "SavingPercent": 0,
+        "Order": 0
+      },
+      {
+        "Code": "BI003596 SMALL SAND",
+        "Color": "Sand",
+        "ListPrice": { "Amount": 999, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 999, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/26021-en-bi003596-sand.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "/globalassets/digizuite/26024-en-bi003596-sand-swatch.jpg",
+        "SavingPercent": 0,
+        "Order": 0
+      }
+    ],
+    "FacetFieldsDictionary": {
+      "MultiValueFeatures": ["Internal Cable Routing"],
+      "Size": ["Large", "Extra Large", "Medium", "Small"],
+      "Color": ["Grey/Black", "Sand"],
+      "FinancingAvailable": ["True"],
+      "MultiValueDiscipline": ["MTB"],
+      "Gender": ["Men"],
+      "RearSuspensionType": ["Hardtail"],
+      "BikeModel": ["Marin San Quentin"],
+      "ForkTravel": ["130mm"],
+      "DrivetrainType": ["1x9 Speed"],
+      "WheelSize": ["27.5\""],
+      "MultiValueIntendedUse": ["Trail / All-Mountain", "Enduro"],
+      "FrameMaterial": ["Aluminum"]
+    },
+    "CatalogNodeCodes": [
+      "C0000QE6",
+      "C0000QE5",
+      "5637144578",
+      "5637144576",
+      "Financing_1",
+      "Featured",
+      "Marin Bikes",
+      "HTMTBIKES",
+      "TRAMMTBIKES",
+      "275MTBBIKES"
+    ],
+    "Price": ["$999.00"],
+    "SortPrice": 999,
+    "Discount": 0,
+    "Brand": "Marin Bikes",
+    "AverageRating": 5,
+    "NumberOfReviews": 1,
+    "ImageUrl": null,
+    "Published": "2022-10-31T21:53:16+00:00",
+    "ColorVariantsToShow": [
+      {
+        "Code": "BI003596 LARGE GREY BLACK",
+        "Color": "Grey/Black",
+        "ListPrice": { "Amount": 999, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 999, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/26022-en-bi003596-grey~black.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/26023-en-bi003596-grey~black-swatch.jpg?w=30&h=30&fit=max&auto=format&q=70",
+        "SavingPercent": 0,
+        "Order": 0
+      },
+      {
+        "Code": "BI003596 LARGE SAND",
+        "Color": "Sand",
+        "ListPrice": { "Amount": 999, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 999, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/26021-en-bi003596-sand.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/26024-en-bi003596-sand-swatch.jpg?w=30&h=30&fit=max&auto=format&q=70",
+        "SavingPercent": 0,
+        "Order": 0
+      }
+    ]
+  },
+  {
+    "Id": 447920,
+    "Name": "Santa Cruz Heckler 9 C R MX 23",
+    "Code": "BI003598",
+    "Url": "/Santa-Cruz-Heckler-9-C-R-MX-23",
+    "IsOnSale": true,
+    "IsNew": false,
+    "Created": "2022-10-23T23:32:27+00:00",
+    "SelectedVariant": {
+      "Code": "BI003598 MEDIUM MARITIME GREY",
+      "Color": "Maritime Grey",
+      "ListPrice": { "Amount": 6999, "Currency": "USD" },
+      "MsrpPrice": { "Amount": 8749, "Currency": "USD" },
+      "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/26497-en-bi003598-maritime-grey.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+      "SwatchImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/26496-en-bi003598-maritime-grey-swatch.jpg?w=30&h=30&fit=max&auto=format&q=70",
+      "SavingPercent": 20,
+      "Order": 0
+    },
+    "Variants": [
+      {
+        "Code": "BI003598 MEDIUM MARITIME GREY",
+        "Color": "Maritime Grey",
+        "ListPrice": { "Amount": 6999, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 8749, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/26497-en-bi003598-maritime-grey.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/26496-en-bi003598-maritime-grey-swatch.jpg?w=30&h=30&fit=max&auto=format&q=70",
+        "SavingPercent": 20,
+        "Order": 0
+      },
+      {
+        "Code": "BI003598 LARGE AVOCADO GREEN",
+        "Color": "Avocado Green",
+        "ListPrice": { "Amount": 6999, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 8749, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/26495-en-bi003598-avocado-green.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/26494-en-bi003598-avocado-green-swatch.jpg?w=30&h=30&fit=max&auto=format&q=70",
+        "SavingPercent": 20,
+        "Order": 0
+      }
+    ],
+    "FacetFieldsDictionary": {
+      "MultiValueFeatures": [
+        "SRAM Components",
+        "Dropper Seatpost",
+        "Internal Cable Routing",
+        "E-Bike"
+      ],
+      "Motor": ["Shimano"],
+      "Size": ["Medium", "Large"],
+      "Color": ["Maritime Grey", "Avocado Green"],
+      "FinancingAvailable": ["True"],
+      "MultiValueDiscipline": ["MTB"],
+      "Gender": ["Men"],
+      "BikeModel": ["Santa Cruz Heckler"],
+      "RearSuspensionType": ["Full Suspension"],
+      "ForkTravel": ["160mm"],
+      "DrivetrainType": ["1x12 Speed"],
+      "Battery": ["720 Wh"],
+      "MultiValueIntendedUse": ["E-Bike", "Enduro"],
+      "WheelSize": ["29\" (F) / 27.5\" (R)"],
+      "FrameMaterial": ["Carbon"]
+    },
+    "CatalogNodeCodes": [
+      "Electric-Mountain-Bi",
+      "Electric-Bikes_1",
+      "C0000QE5",
+      "5637144578",
+      "5637144576",
+      "ENMTBIKES",
+      "C0000QE6",
+      "FSMTBIKES",
+      "275MTBBIKES",
+      "29MTBBIKES",
+      "Financing_1",
+      "Featured",
+      "Santa-Cruz-Bicycles_1"
+    ],
+    "Price": ["$6,999.00"],
+    "SortPrice": 6999,
+    "Discount": 20,
+    "Brand": "Santa Cruz Bicycles",
+    "AverageRating": 0,
+    "NumberOfReviews": 0,
+    "ImageUrl": null,
+    "Published": "2022-11-08T21:41:17+00:00",
+    "ColorVariantsToShow": [
+      {
+        "Code": "BI003598 MEDIUM MARITIME GREY",
+        "Color": "Maritime Grey",
+        "ListPrice": { "Amount": 6999, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 8749, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/26497-en-bi003598-maritime-grey.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/26496-en-bi003598-maritime-grey-swatch.jpg?w=30&h=30&fit=max&auto=format&q=70",
+        "SavingPercent": 20,
+        "Order": 0
+      },
+      {
+        "Code": "BI003598 LARGE AVOCADO GREEN",
+        "Color": "Avocado Green",
+        "ListPrice": { "Amount": 6999, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 8749, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/26495-en-bi003598-avocado-green.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/26494-en-bi003598-avocado-green-swatch.jpg?w=30&h=30&fit=max&auto=format&q=70",
+        "SavingPercent": 20,
+        "Order": 0
+      }
+    ]
+  },
+  {
+    "Id": 449466,
+    "Name": "Marin Rift Zone 1 27 5 Bike 2023",
+    "Code": "BI003656",
+    "Url": "/Marin-Rift-Zone-1-27-5-Bike-2023",
+    "IsOnSale": false,
+    "IsNew": false,
+    "Created": "2022-12-02T17:45:20+00:00",
+    "SelectedVariant": {
+      "Code": "BI003656 LARGE CHARCOAL",
+      "Color": "Charcoal",
+      "ListPrice": { "Amount": 1799, "Currency": "USD" },
+      "MsrpPrice": { "Amount": 1799, "Currency": "USD" },
+      "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/28737-en-bi003656-charcoal.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+      "SwatchImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/28738-en-bi003656-charcoal-swatch.jpg?w=30&h=30&fit=max&auto=format&q=70",
+      "SavingPercent": 0,
+      "Order": 0
+    },
+    "Variants": [
+      {
+        "Code": "BI003656 LARGE CHARCOAL",
+        "Color": "Charcoal",
+        "ListPrice": { "Amount": 1799, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 1799, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/28737-en-bi003656-charcoal.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/28738-en-bi003656-charcoal-swatch.jpg?w=30&h=30&fit=max&auto=format&q=70",
+        "SavingPercent": 0,
+        "Order": 0
+      },
+      {
+        "Code": "BI003656 MEDIUM CHARCOAL",
+        "Color": "Charcoal",
+        "ListPrice": { "Amount": 1799, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 1799, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/28737-en-bi003656-charcoal.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "/globalassets/digizuite/28738-en-bi003656-charcoal-swatch.jpg",
+        "SavingPercent": 0,
+        "Order": 0
+      },
+      {
+        "Code": "BI003656 SMALL CHARCOAL",
+        "Color": "Charcoal",
+        "ListPrice": { "Amount": 1799, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 1799, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/28737-en-bi003656-charcoal.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "/globalassets/digizuite/28738-en-bi003656-charcoal-swatch.jpg",
+        "SavingPercent": 0,
+        "Order": 0
+      },
+      {
+        "Code": "BI003656 X SMALL CHARCOAL",
+        "Color": "Charcoal",
+        "ListPrice": { "Amount": 1799, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 1799, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/28737-en-bi003656-charcoal.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "/globalassets/digizuite/28738-en-bi003656-charcoal-swatch.jpg",
+        "SavingPercent": 0,
+        "Order": 0
+      },
+      {
+        "Code": "BI003656 LARGE ORANGE",
+        "Color": "Orange",
+        "ListPrice": { "Amount": 1799, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 1799, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/28736-en-bi003656-orange.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/28739-en-bi003656-orange-swatch.jpg?w=30&h=30&fit=max&auto=format&q=70",
+        "SavingPercent": 0,
+        "Order": 0
+      },
+      {
+        "Code": "BI003656 MEDIUM ORANGE",
+        "Color": "Orange",
+        "ListPrice": { "Amount": 1799, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 1799, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/28736-en-bi003656-orange.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "/globalassets/digizuite/28739-en-bi003656-orange-swatch.jpg",
+        "SavingPercent": 0,
+        "Order": 0
+      },
+      {
+        "Code": "BI003656 SMALL ORANGE",
+        "Color": "Orange",
+        "ListPrice": { "Amount": 1799, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 1799, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/28736-en-bi003656-orange.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "/globalassets/digizuite/28739-en-bi003656-orange-swatch.jpg",
+        "SavingPercent": 0,
+        "Order": 0
+      },
+      {
+        "Code": "BI003656 X SMALL ORANGE",
+        "Color": "Orange",
+        "ListPrice": { "Amount": 1799, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 1799, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/28736-en-bi003656-orange.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "/globalassets/digizuite/28739-en-bi003656-orange-swatch.jpg",
+        "SavingPercent": 0,
+        "Order": 0
+      }
+    ],
+    "FacetFieldsDictionary": {
+      "MultiValueFeatures": ["Shimano Components", "Internal Cable Routing"],
+      "Size": ["Large", "Medium", "Small", "Extra Small"],
+      "Color": ["Charcoal", "Orange"],
+      "FinancingAvailable": ["True"],
+      "MultiValueDiscipline": ["MTB"],
+      "Gender": ["Men"],
+      "RearSuspensionType": ["Full Suspension"],
+      "BikeModel": ["Marin Rift Zone"],
+      "ForkTravel": ["140mm"],
+      "DrivetrainType": ["1x11 Speed"],
+      "WheelSize": ["27.5\""],
+      "MultiValueIntendedUse": ["Trail / All-Mountain"],
+      "FrameMaterial": ["Aluminum"]
+    },
+    "CatalogNodeCodes": [
+      "Financing_1",
+      "Featured",
+      "5637144578",
+      "5637144576",
+      "Marin Bikes",
+      "FSMTBIKES",
+      "C0000QE6",
+      "C0000QE5",
+      "TRAMMTBIKES",
+      "275MTBBIKES"
+    ],
+    "Price": ["$1,799.00"],
+    "SortPrice": 1799,
+    "Discount": 0,
+    "Brand": "Marin Bikes",
+    "AverageRating": 0,
+    "NumberOfReviews": 0,
+    "ImageUrl": null,
+    "Published": "2023-01-15T23:40:22+00:00",
+    "ColorVariantsToShow": [
+      {
+        "Code": "BI003656 LARGE CHARCOAL",
+        "Color": "Charcoal",
+        "ListPrice": { "Amount": 1799, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 1799, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/28737-en-bi003656-charcoal.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/28738-en-bi003656-charcoal-swatch.jpg?w=30&h=30&fit=max&auto=format&q=70",
+        "SavingPercent": 0,
+        "Order": 0
+      },
+      {
+        "Code": "BI003656 LARGE ORANGE",
+        "Color": "Orange",
+        "ListPrice": { "Amount": 1799, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 1799, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/28736-en-bi003656-orange.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/28739-en-bi003656-orange-swatch.jpg?w=30&h=30&fit=max&auto=format&q=70",
+        "SavingPercent": 0,
+        "Order": 0
+      }
+    ]
+  },
+  {
+    "Id": 449475,
+    "Name": "GT Force Carbon Pro LE Bike",
+    "Code": "BI003666",
+    "Url": "/GT-Force-Carbon-Pro-LE-Bike",
+    "IsOnSale": true,
+    "IsNew": false,
+    "Created": "2022-12-02T17:45:25+00:00",
+    "SelectedVariant": {
+      "Code": "BI003666 LARGE INDIGO",
+      "Color": "Indigo",
+      "ListPrice": { "Amount": 4445.94, "Currency": "USD" },
+      "MsrpPrice": { "Amount": 6350, "Currency": "USD" },
+      "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/27898-en-bi003666-indigo.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+      "SwatchImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/27900-en-bi003666-indigo-swatch.jpg?w=30&h=30&fit=max&auto=format&q=70",
+      "SavingPercent": 30,
+      "Order": 0
+    },
+    "Variants": [
+      {
+        "Code": "BI003666 LARGE INDIGO",
+        "Color": "Indigo",
+        "ListPrice": { "Amount": 4445.94, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 6350, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/27898-en-bi003666-indigo.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/27900-en-bi003666-indigo-swatch.jpg?w=30&h=30&fit=max&auto=format&q=70",
+        "SavingPercent": 30,
+        "Order": 0
+      },
+      {
+        "Code": "BI003666 MEDIUM INDIGO",
+        "Color": "Indigo",
+        "ListPrice": { "Amount": 4445.94, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 6350, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/27898-en-bi003666-indigo.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "/globalassets/digizuite/27900-en-bi003666-indigo-swatch.jpg",
+        "SavingPercent": 30,
+        "Order": 0
+      },
+      {
+        "Code": "BI003666 SMALL INDIGO",
+        "Color": "Indigo",
+        "ListPrice": { "Amount": 4445.94, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 6350, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/27898-en-bi003666-indigo.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "/globalassets/digizuite/27900-en-bi003666-indigo-swatch.jpg",
+        "SavingPercent": 30,
+        "Order": 0
+      },
+      {
+        "Code": "BI003666 EXTRA LARGE INDIGO",
+        "Color": "Indigo",
+        "ListPrice": { "Amount": 4445.94, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 6350, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/27898-en-bi003666-indigo.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "/globalassets/digizuite/27900-en-bi003666-indigo-swatch.jpg",
+        "SavingPercent": 30,
+        "Order": 0
+      }
+    ],
+    "FacetFieldsDictionary": {
+      "MultiValueFeatures": [
+        "SRAM Components",
+        "Dropper Seatpost",
+        "Internal Cable Routing"
+      ],
+      "Size": ["Large", "Medium", "Small", "Extra Large"],
+      "Color": ["Indigo"],
+      "FinancingAvailable": ["True"],
+      "MultiValueDiscipline": ["MTB"],
+      "Gender": ["Men"],
+      "RearSuspensionType": ["Full Suspension"],
+      "BikeModel": ["GT Force"],
+      "ForkTravel": ["170mm"],
+      "DrivetrainType": ["1x12 Speed"],
+      "WheelSize": ["29\""],
+      "MultiValueIntendedUse": ["Enduro"],
+      "FrameMaterial": ["Carbon"]
+    },
+    "CatalogNodeCodes": [
+      "Financing_1",
+      "Featured",
+      "5637144578",
+      "5637144576",
+      "GT Bicycles",
+      "ENMTBIKES",
+      "C0000QE6",
+      "C0000QE5",
+      "FSMTBIKES",
+      "275MTBBIKES"
+    ],
+    "Price": ["$4,445.94"],
+    "SortPrice": 4445.94,
+    "Discount": 30,
+    "Brand": "GT Bicycles",
+    "AverageRating": 0,
+    "NumberOfReviews": 0,
+    "ImageUrl": null,
+    "Published": "2022-12-08T23:05:13+00:00",
+    "ColorVariantsToShow": [
+      {
+        "Code": "BI003666 LARGE INDIGO",
+        "Color": "Indigo",
+        "ListPrice": { "Amount": 4445.94, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 6350, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/27898-en-bi003666-indigo.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/27900-en-bi003666-indigo-swatch.jpg?w=30&h=30&fit=max&auto=format&q=70",
+        "SavingPercent": 30,
+        "Order": 0
+      }
+    ]
+  },
+  {
+    "Id": 449533,
+    "Name": "Marin Rift Zone 2 27 5 Bike 2023",
+    "Code": "BI003658",
+    "Url": "/Marin-Rift-Zone-2-27-5-Bike-2023",
+    "IsOnSale": false,
+    "IsNew": false,
+    "Created": "2022-12-02T17:46:02+00:00",
+    "SelectedVariant": {
+      "Code": "BI003658 LARGE GREY",
+      "Color": "Grey",
+      "ListPrice": { "Amount": 2399, "Currency": "USD" },
+      "MsrpPrice": { "Amount": 2399, "Currency": "USD" },
+      "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/28191-en-bi003658-grey.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+      "SwatchImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/28190-en-bi003658-grey-swatch.jpg?w=30&h=30&fit=max&auto=format&q=70",
+      "SavingPercent": 0,
+      "Order": 0
+    },
+    "Variants": [
+      {
+        "Code": "BI003658 LARGE GREY",
+        "Color": "Grey",
+        "ListPrice": { "Amount": 2399, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 2399, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/28191-en-bi003658-grey.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/28190-en-bi003658-grey-swatch.jpg?w=30&h=30&fit=max&auto=format&q=70",
+        "SavingPercent": 0,
+        "Order": 0
+      },
+      {
+        "Code": "BI003658 MEDIUM GREY",
+        "Color": "Grey",
+        "ListPrice": { "Amount": 2399, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 2399, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/28191-en-bi003658-grey.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "/globalassets/digizuite/28190-en-bi003658-grey-swatch.jpg",
+        "SavingPercent": 0,
+        "Order": 0
+      },
+      {
+        "Code": "BI003658 SMALL GREY",
+        "Color": "Grey",
+        "ListPrice": { "Amount": 2399, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 2399, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/28191-en-bi003658-grey.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "/globalassets/digizuite/28190-en-bi003658-grey-swatch.jpg",
+        "SavingPercent": 0,
+        "Order": 0
+      }
+    ],
+    "FacetFieldsDictionary": {
+      "MultiValueFeatures": [
+        "Shimano Components",
+        "Dropper Seatpost",
+        "Internal Cable Routing"
+      ],
+      "Size": ["Large", "Medium", "Small"],
+      "Color": ["Grey"],
+      "FinancingAvailable": ["True"],
+      "MultiValueDiscipline": ["MTB"],
+      "Gender": ["Men"],
+      "RearSuspensionType": ["Full Suspension"],
+      "BikeModel": ["Marin Rift Zone"],
+      "ForkTravel": ["140mm"],
+      "DrivetrainType": ["1x12 Speed"],
+      "WheelSize": ["27.5\""],
+      "MultiValueIntendedUse": ["Trail / All-Mountain"],
+      "FrameMaterial": ["Aluminum"]
+    },
+    "CatalogNodeCodes": [
+      "Financing_1",
+      "Featured",
+      "5637144578",
+      "5637144576",
+      "Marin Bikes",
+      "FSMTBIKES",
+      "C0000QE6",
+      "C0000QE5",
+      "TRAMMTBIKES",
+      "275MTBBIKES"
+    ],
+    "Price": ["$2,399.00"],
+    "SortPrice": 2399,
+    "Discount": 0,
+    "Brand": "Marin Bikes",
+    "AverageRating": 0,
+    "NumberOfReviews": 0,
+    "ImageUrl": null,
+    "Published": "2022-12-19T19:46:27+00:00",
+    "ColorVariantsToShow": [
+      {
+        "Code": "BI003658 LARGE GREY",
+        "Color": "Grey",
+        "ListPrice": { "Amount": 2399, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 2399, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/28191-en-bi003658-grey.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/28190-en-bi003658-grey-swatch.jpg?w=30&h=30&fit=max&auto=format&q=70",
+        "SavingPercent": 0,
+        "Order": 0
+      }
+    ]
+  },
+  {
+    "Id": 449546,
+    "Name": "Marin San Quentin 2 27 5 Bike 2023",
+    "Code": "BI003662",
+    "Url": "/Marin-San-Quentin-2-27-5-Bike-2023",
+    "IsOnSale": false,
+    "IsNew": false,
+    "Created": "2022-12-02T17:46:09+00:00",
+    "SelectedVariant": {
+      "Code": "BI003662 LARGE BLUE BLACK",
+      "Color": "Blue/Black",
+      "ListPrice": { "Amount": 1499, "Currency": "USD" },
+      "MsrpPrice": { "Amount": 1499, "Currency": "USD" },
+      "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/29831-en-bi003662-blue~black.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+      "SwatchImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/29834-en-bi003662-blue~black-swatch.jpg?w=30&h=30&fit=max&auto=format&q=70",
+      "SavingPercent": 0,
+      "Order": 0
+    },
+    "Variants": [
+      {
+        "Code": "BI003662 LARGE BLUE BLACK",
+        "Color": "Blue/Black",
+        "ListPrice": { "Amount": 1499, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 1499, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/29831-en-bi003662-blue~black.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/29834-en-bi003662-blue~black-swatch.jpg?w=30&h=30&fit=max&auto=format&q=70",
+        "SavingPercent": 0,
+        "Order": 0
+      },
+      {
+        "Code": "BI003662 X LARGE BLUE BLACK",
+        "Color": "Blue/Black",
+        "ListPrice": { "Amount": 1499, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 1499, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/29831-en-bi003662-blue~black.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "/globalassets/digizuite/29834-en-bi003662-blue~black-swatch.jpg",
+        "SavingPercent": 0,
+        "Order": 0
+      },
+      {
+        "Code": "BI003662 MEDIUM BLUE BLACK",
+        "Color": "Blue/Black",
+        "ListPrice": { "Amount": 1499, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 1499, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/29831-en-bi003662-blue~black.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "/globalassets/digizuite/29834-en-bi003662-blue~black-swatch.jpg",
+        "SavingPercent": 0,
+        "Order": 0
+      },
+      {
+        "Code": "BI003662 SMALL BLUE BLACK",
+        "Color": "Blue/Black",
+        "ListPrice": { "Amount": 1499, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 1499, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/29831-en-bi003662-blue~black.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "/globalassets/digizuite/29834-en-bi003662-blue~black-swatch.jpg",
+        "SavingPercent": 0,
+        "Order": 0
+      },
+      {
+        "Code": "BI003662 LARGE WHITE BLACK",
+        "Color": "White/Black",
+        "ListPrice": { "Amount": 1499, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 1499, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/29833-en-bi003662-white~black.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/29832-en-bi003662-white~black-swatch.jpg?w=30&h=30&fit=max&auto=format&q=70",
+        "SavingPercent": 0,
+        "Order": 0
+      },
+      {
+        "Code": "BI003662 MEDIUM WHITE BLACK",
+        "Color": "White/Black",
+        "ListPrice": { "Amount": 1499, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 1499, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/29833-en-bi003662-white~black.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "/globalassets/digizuite/29832-en-bi003662-white~black-swatch.jpg",
+        "SavingPercent": 0,
+        "Order": 0
+      },
+      {
+        "Code": "BI003662 SMALL WHITE BLACK",
+        "Color": "White/Black",
+        "ListPrice": { "Amount": 1499, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 1499, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/29833-en-bi003662-white~black.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "/globalassets/digizuite/29832-en-bi003662-white~black-swatch.jpg",
+        "SavingPercent": 0,
+        "Order": 0
+      }
+    ],
+    "FacetFieldsDictionary": {
+      "MultiValueFeatures": [
+        "Shimano Components",
+        "Dropper Seatpost",
+        "Internal Cable Routing"
+      ],
+      "Size": ["Large", "Extra Large", "Medium", "Small"],
+      "Color": ["Blue/Black", "White/Black"],
+      "FinancingAvailable": ["True"],
+      "MultiValueDiscipline": ["MTB"],
+      "Gender": ["Men"],
+      "RearSuspensionType": ["Hardtail"],
+      "BikeModel": ["Marin San Quentin"],
+      "ForkTravel": ["130mm"],
+      "DrivetrainType": ["1x11 Speed"],
+      "WheelSize": ["27.5\""],
+      "MultiValueIntendedUse": ["Trail / All-Mountain"],
+      "FrameMaterial": ["Aluminum"]
+    },
+    "CatalogNodeCodes": [
+      "C0000QE6",
+      "C0000QE5",
+      "5637144578",
+      "5637144576",
+      "Financing_1",
+      "Featured",
+      "Marin Bikes",
+      "HTMTBIKES",
+      "TRAMMTBIKES",
+      "275MTBBIKES"
+    ],
+    "Price": ["$1,499.00"],
+    "SortPrice": 1499,
+    "Discount": 0,
+    "Brand": "Marin Bikes",
+    "AverageRating": 0,
+    "NumberOfReviews": 0,
+    "ImageUrl": null,
+    "Published": "2022-12-02T17:46:13.593+00:00",
+    "ColorVariantsToShow": [
+      {
+        "Code": "BI003662 LARGE BLUE BLACK",
+        "Color": "Blue/Black",
+        "ListPrice": { "Amount": 1499, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 1499, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/29831-en-bi003662-blue~black.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/29834-en-bi003662-blue~black-swatch.jpg?w=30&h=30&fit=max&auto=format&q=70",
+        "SavingPercent": 0,
+        "Order": 0
+      },
+      {
+        "Code": "BI003662 LARGE WHITE BLACK",
+        "Color": "White/Black",
+        "ListPrice": { "Amount": 1499, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 1499, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/29833-en-bi003662-white~black.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/29832-en-bi003662-white~black-swatch.jpg?w=30&h=30&fit=max&auto=format&q=70",
+        "SavingPercent": 0,
+        "Order": 0
+      }
+    ]
+  },
+  {
+    "Id": 449593,
+    "Name": "GT Force Carbon Pro Bike",
+    "Code": "BI003673",
+    "Url": "/GT-Force-Carbon-Pro-Bike",
+    "IsOnSale": true,
+    "IsNew": false,
+    "Created": "2022-12-05T17:48:14+00:00",
+    "SelectedVariant": {
+      "Code": "BI003673 LARGE MILITARY GREEN",
+      "Color": "Military Green",
+      "ListPrice": { "Amount": 3787.94, "Currency": "USD" },
+      "MsrpPrice": { "Amount": 5050, "Currency": "USD" },
+      "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/28038-en-bi003673-military-green.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+      "SwatchImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/28037-en-bi003673-military-green-swatch.jpg?w=30&h=30&fit=max&auto=format&q=70",
+      "SavingPercent": 25,
+      "Order": 0
+    },
+    "Variants": [
+      {
+        "Code": "BI003673 LARGE MILITARY GREEN",
+        "Color": "Military Green",
+        "ListPrice": { "Amount": 3787.94, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 5050, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/28038-en-bi003673-military-green.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/28037-en-bi003673-military-green-swatch.jpg?w=30&h=30&fit=max&auto=format&q=70",
+        "SavingPercent": 25,
+        "Order": 0
+      },
+      {
+        "Code": "BI003673 MEDIUM MILITARY GREEN",
+        "Color": "Military Green",
+        "ListPrice": { "Amount": 3787.94, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 5050, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/28038-en-bi003673-military-green.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "/globalassets/digizuite/28037-en-bi003673-military-green-swatch.jpg",
+        "SavingPercent": 25,
+        "Order": 0
+      },
+      {
+        "Code": "BI003673 SMALL MILITARY GREEN",
+        "Color": "Military Green",
+        "ListPrice": { "Amount": 3787.94, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 5050, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/28038-en-bi003673-military-green.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "/globalassets/digizuite/28037-en-bi003673-military-green-swatch.jpg",
+        "SavingPercent": 25,
+        "Order": 0
+      }
+    ],
+    "FacetFieldsDictionary": {
+      "MultiValueFeatures": [
+        "SRAM Components",
+        "Dropper Seatpost",
+        "Internal Cable Routing"
+      ],
+      "Size": ["Large", "Medium", "Small"],
+      "Color": ["Military Green"],
+      "FinancingAvailable": ["True"],
+      "MultiValueDiscipline": ["MTB"],
+      "Gender": ["Men"],
+      "RearSuspensionType": ["Full Suspension"],
+      "BikeModel": ["GT Force"],
+      "ForkTravel": ["160mm"],
+      "DrivetrainType": ["1x12 Speed"],
+      "WheelSize": ["27.5\""],
+      "MultiValueIntendedUse": ["Enduro"],
+      "FrameMaterial": ["Carbon"]
+    },
+    "CatalogNodeCodes": [
+      "C0000QE6",
+      "C0000QE5",
+      "5637144578",
+      "5637144576",
+      "Financing_1",
+      "Featured",
+      "GT Bicycles",
+      "ENMTBIKES",
+      "FSMTBIKES",
+      "275MTBBIKES",
+      "5637251826",
+      "Sales"
+    ],
+    "Price": ["$3,787.94"],
+    "SortPrice": 3787.94,
+    "Discount": 25,
+    "Brand": "GT Bicycles",
+    "AverageRating": 0,
+    "NumberOfReviews": 0,
+    "ImageUrl": null,
+    "Published": "2022-12-27T22:38:29+00:00",
+    "ColorVariantsToShow": [
+      {
+        "Code": "BI003673 LARGE MILITARY GREEN",
+        "Color": "Military Green",
+        "ListPrice": { "Amount": 3787.94, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 5050, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/28038-en-bi003673-military-green.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/28037-en-bi003673-military-green-swatch.jpg?w=30&h=30&fit=max&auto=format&q=70",
+        "SavingPercent": 25,
+        "Order": 0
+      }
+    ]
+  },
+  {
+    "Id": 449611,
+    "Name": "Kona Big Honzo Bike",
+    "Code": "BI003674",
+    "Url": "/Kona-Big-Honzo-Bike",
+    "IsOnSale": true,
+    "IsNew": false,
+    "Created": "2022-12-05T17:48:24+00:00",
+    "SelectedVariant": {
+      "Code": "BI003674 SMALL BLACK",
+      "Color": "Satin Black",
+      "ListPrice": { "Amount": 1199.94, "Currency": "USD" },
+      "MsrpPrice": { "Amount": 1599, "Currency": "USD" },
+      "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/28016-en-bi003674-satin-black.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+      "SwatchImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/28018-en-bi003674-satin-black-swatch.jpg?w=30&h=30&fit=max&auto=format&q=70",
+      "SavingPercent": 25,
+      "Order": 0
+    },
+    "Variants": [
+      {
+        "Code": "BI003674 SMALL BLACK",
+        "Color": "Satin Black",
+        "ListPrice": { "Amount": 1199.94, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 1599, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/28016-en-bi003674-satin-black.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/28018-en-bi003674-satin-black-swatch.jpg?w=30&h=30&fit=max&auto=format&q=70",
+        "SavingPercent": 25,
+        "Order": 0
+      },
+      {
+        "Code": "BI003674 MEDIUM BLACK",
+        "Color": "Satin Black",
+        "ListPrice": { "Amount": 1199.94, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 1599, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/28016-en-bi003674-satin-black.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "/globalassets/digizuite/28018-en-bi003674-satin-black-swatch.jpg",
+        "SavingPercent": 25,
+        "Order": 0
+      },
+      {
+        "Code": "BI003674 LARGE BLACK",
+        "Color": "Satin Black",
+        "ListPrice": { "Amount": 1199.94, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 1599, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/28016-en-bi003674-satin-black.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "/globalassets/digizuite/28018-en-bi003674-satin-black-swatch.jpg",
+        "SavingPercent": 25,
+        "Order": 0
+      },
+      {
+        "Code": "BI003674 X LARGE BLACK",
+        "Color": "Satin Black",
+        "ListPrice": { "Amount": 1199.94, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 1599, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/28016-en-bi003674-satin-black.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "/globalassets/digizuite/28018-en-bi003674-satin-black-swatch.jpg",
+        "SavingPercent": 25,
+        "Order": 0
+      }
+    ],
+    "FacetFieldsDictionary": {
+      "MultiValueFeatures": ["Shimano Components", "Dropper Seatpost"],
+      "Size": ["Small", "Medium", "Large", "Extra Large"],
+      "Color": ["Satin Black"],
+      "FinancingAvailable": ["True"],
+      "MultiValueDiscipline": ["MTB"],
+      "Gender": ["Men"],
+      "RearSuspensionType": ["Hardtail"],
+      "BikeModel": ["Kona Big Honzo"],
+      "ForkTravel": ["130mm"],
+      "DrivetrainType": ["1x10 Speed"],
+      "WheelSize": ["27.5\""],
+      "MultiValueIntendedUse": ["Trail / All-Mountain"],
+      "FrameMaterial": ["Aluminum"]
+    },
+    "CatalogNodeCodes": [
+      "C0000QE6",
+      "C0000QE5",
+      "5637144578",
+      "5637144576",
+      "Kona",
+      "Financing_1",
+      "Featured",
+      "HTMTBIKES",
+      "TRAMMTBIKES",
+      "275MTBBIKES"
+    ],
+    "Price": ["$1,199.94"],
+    "SortPrice": 1199.94,
+    "Discount": 25,
+    "Brand": "Kona",
+    "AverageRating": 4,
+    "NumberOfReviews": 1,
+    "ImageUrl": null,
+    "Published": "2022-12-05T18:45:02.637+00:00",
+    "ColorVariantsToShow": [
+      {
+        "Code": "BI003674 SMALL BLACK",
+        "Color": "Satin Black",
+        "ListPrice": { "Amount": 1199.94, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 1599, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/28016-en-bi003674-satin-black.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/28018-en-bi003674-satin-black-swatch.jpg?w=30&h=30&fit=max&auto=format&q=70",
+        "SavingPercent": 25,
+        "Order": 0
+      }
+    ]
+  },
+  {
+    "Id": 449618,
+    "Name": "Kona Process 134 27.5 Bike",
+    "Code": "BI003678",
+    "Url": "/Kona-Process-134-275-Bike",
+    "IsOnSale": true,
+    "IsNew": false,
+    "Created": "2022-12-05T17:48:30+00:00",
+    "SelectedVariant": {
+      "Code": "BI003678 MEDIUM GREEN",
+      "Color": "Mint Green",
+      "ListPrice": { "Amount": 2024.94, "Currency": "USD" },
+      "MsrpPrice": { "Amount": 2699, "Currency": "USD" },
+      "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/28027-en-bi003678-mint-green.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+      "SwatchImageUrl": "/globalassets/digizuite/28025-en-bi003678-mint-green-swatch.jpg",
+      "SavingPercent": 25,
+      "Order": 0
+    },
+    "Variants": [
+      {
+        "Code": "BI003678 MEDIUM GREEN",
+        "Color": "Mint Green",
+        "ListPrice": { "Amount": 2024.94, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 2699, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/28027-en-bi003678-mint-green.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "/globalassets/digizuite/28025-en-bi003678-mint-green-swatch.jpg",
+        "SavingPercent": 25,
+        "Order": 0
+      }
+    ],
+    "FacetFieldsDictionary": {
+      "MultiValueFeatures": [
+        "Shimano Components",
+        "Dropper Seatpost",
+        "Internal Cable Routing"
+      ],
+      "Size": ["Medium"],
+      "Color": ["Mint Green"],
+      "FinancingAvailable": ["True"],
+      "MultiValueDiscipline": ["MTB"],
+      "Gender": ["Men"],
+      "RearSuspensionType": ["Full Suspension"],
+      "BikeModel": ["Kona Process"],
+      "ForkTravel": ["140mm"],
+      "DrivetrainType": ["1x11 Speed"],
+      "WheelSize": ["27.5\""],
+      "MultiValueIntendedUse": ["Trail / All-Mountain"],
+      "FrameMaterial": ["Aluminum"]
+    },
+    "CatalogNodeCodes": [
+      "C0000QE6",
+      "C0000QE5",
+      "5637144578",
+      "5637144576",
+      "Kona",
+      "Financing_1",
+      "Featured",
+      "FSMTBIKES",
+      "TRAMMTBIKES",
+      "275MTBBIKES"
+    ],
+    "Price": ["$2,024.94"],
+    "SortPrice": 2024.94,
+    "Discount": 25,
+    "Brand": "Kona",
+    "AverageRating": 0,
+    "NumberOfReviews": 0,
+    "ImageUrl": null,
+    "Published": "2022-12-05T18:45:17.37+00:00",
+    "ColorVariantsToShow": []
+  },
+  {
+    "Id": 449623,
+    "Name": "Kona Big Honzo DL Bike",
+    "Code": "BI003675",
+    "Url": "/Kona-Big-Honzo-DL-Bike",
+    "IsOnSale": true,
+    "IsNew": false,
+    "Created": "2022-12-05T17:48:34+00:00",
+    "SelectedVariant": {
+      "Code": "BI003675 MEDIUM GREEN",
+      "Color": "Mint Green",
+      "ListPrice": { "Amount": 1499.94, "Currency": "USD" },
+      "MsrpPrice": { "Amount": 1999, "Currency": "USD" },
+      "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/28014-en-bi003675-mint-green.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+      "SwatchImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/28013-en-bi003675-mint-green-swatch.jpg?w=30&h=30&fit=max&auto=format&q=70",
+      "SavingPercent": 25,
+      "Order": 0
+    },
+    "Variants": [
+      {
+        "Code": "BI003675 MEDIUM GREEN",
+        "Color": "Mint Green",
+        "ListPrice": { "Amount": 1499.94, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 1999, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/28014-en-bi003675-mint-green.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/28013-en-bi003675-mint-green-swatch.jpg?w=30&h=30&fit=max&auto=format&q=70",
+        "SavingPercent": 25,
+        "Order": 0
+      },
+      {
+        "Code": "BI003675 LARGE GREEN",
+        "Color": "Mint Green",
+        "ListPrice": { "Amount": 1499.94, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 1999, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/28014-en-bi003675-mint-green.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "/globalassets/digizuite/28013-en-bi003675-mint-green-swatch.jpg",
+        "SavingPercent": 25,
+        "Order": 0
+      },
+      {
+        "Code": "BI003675 X LARGE GREEN",
+        "Color": "Mint Green",
+        "ListPrice": { "Amount": 1499.94, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 1999, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/28014-en-bi003675-mint-green.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "/globalassets/digizuite/28013-en-bi003675-mint-green-swatch.jpg",
+        "SavingPercent": 25,
+        "Order": 0
+      }
+    ],
+    "FacetFieldsDictionary": {
+      "MultiValueFeatures": ["Shimano Components", "Dropper Seatpost"],
+      "Size": ["Medium", "Large", "Extra Large"],
+      "Color": ["Mint Green"],
+      "FinancingAvailable": ["True"],
+      "MultiValueDiscipline": ["MTB"],
+      "Gender": ["Men"],
+      "RearSuspensionType": ["Hardtail"],
+      "BikeModel": ["Kona Big Honzo"],
+      "ForkTravel": ["130mm"],
+      "DrivetrainType": ["1x12 Speed"],
+      "WheelSize": ["27.5\""],
+      "MultiValueIntendedUse": ["Trail / All-Mountain"],
+      "FrameMaterial": ["Aluminum"]
+    },
+    "CatalogNodeCodes": [
+      "C0000QE6",
+      "C0000QE5",
+      "5637144578",
+      "5637144576",
+      "Kona",
+      "Financing_1",
+      "Featured",
+      "HTMTBIKES",
+      "TRAMMTBIKES",
+      "275MTBBIKES",
+      "5637251826",
+      "Sales"
+    ],
+    "Price": ["$1,499.94"],
+    "SortPrice": 1499.94,
+    "Discount": 25,
+    "Brand": "Kona",
+    "AverageRating": 0,
+    "NumberOfReviews": 0,
+    "ImageUrl": null,
+    "Published": "2022-12-05T18:45:28.467+00:00",
+    "ColorVariantsToShow": [
+      {
+        "Code": "BI003675 MEDIUM GREEN",
+        "Color": "Mint Green",
+        "ListPrice": { "Amount": 1499.94, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 1999, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/28014-en-bi003675-mint-green.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/28013-en-bi003675-mint-green-swatch.jpg?w=30&h=30&fit=max&auto=format&q=70",
+        "SavingPercent": 25,
+        "Order": 0
+      }
+    ]
+  },
+  {
+    "Id": 449652,
+    "Name": "Kona Process 134 DL 27.5 Bike",
+    "Code": "BI003681",
+    "Url": "/Kona-Process-134-DL-275-Bike",
+    "IsOnSale": true,
+    "IsNew": false,
+    "Created": "2022-12-05T18:44:49+00:00",
+    "SelectedVariant": {
+      "Code": "BI003681 X SMALL ORANGE",
+      "Color": "Fire Orange",
+      "ListPrice": { "Amount": 3149.94, "Currency": "USD" },
+      "MsrpPrice": { "Amount": 4199, "Currency": "USD" },
+      "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/28047-en-bi003681-fire-orange.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+      "SwatchImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/28048-en-bi003681-fire-orange-swatch.jpg?w=30&h=30&fit=max&auto=format&q=70",
+      "SavingPercent": 25,
+      "Order": 0
+    },
+    "Variants": [
+      {
+        "Code": "BI003681 X SMALL ORANGE",
+        "Color": "Fire Orange",
+        "ListPrice": { "Amount": 3149.94, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 4199, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/28047-en-bi003681-fire-orange.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/28048-en-bi003681-fire-orange-swatch.jpg?w=30&h=30&fit=max&auto=format&q=70",
+        "SavingPercent": 25,
+        "Order": 0
+      },
+      {
+        "Code": "BI003681 SMALL ORANGE",
+        "Color": "Fire Orange",
+        "ListPrice": { "Amount": 3149.94, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 4199, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/28047-en-bi003681-fire-orange.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "/globalassets/digizuite/28048-en-bi003681-fire-orange-swatch.jpg",
+        "SavingPercent": 25,
+        "Order": 0
+      },
+      {
+        "Code": "BI003681 MEDIUM ORANGE",
+        "Color": "Fire Orange",
+        "ListPrice": { "Amount": 3149.94, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 4199, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/28047-en-bi003681-fire-orange.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "/globalassets/digizuite/28048-en-bi003681-fire-orange-swatch.jpg",
+        "SavingPercent": 25,
+        "Order": 0
+      },
+      {
+        "Code": "BI003681 LARGE ORANGE",
+        "Color": "Fire Orange",
+        "ListPrice": { "Amount": 3149.94, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 4199, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/28047-en-bi003681-fire-orange.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "/globalassets/digizuite/28048-en-bi003681-fire-orange-swatch.jpg",
+        "SavingPercent": 25,
+        "Order": 0
+      },
+      {
+        "Code": "BI003681 X SMALL PURPLE",
+        "Color": "Purple",
+        "ListPrice": { "Amount": 4199, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 4199, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/28118-en-bi003681-purple.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/28117-en-bi003681-purple-swatch.jpg?w=30&h=30&fit=max&auto=format&q=70",
+        "SavingPercent": 0,
+        "Order": 0
+      },
+      {
+        "Code": "BI003681 SMALL PURPLE",
+        "Color": "Purple",
+        "ListPrice": { "Amount": 4199, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 4199, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/28118-en-bi003681-purple.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "/globalassets/digizuite/28117-en-bi003681-purple-swatch.jpg",
+        "SavingPercent": 0,
+        "Order": 0
+      },
+      {
+        "Code": "BI003681 MEDIUM PURPLE",
+        "Color": "Purple",
+        "ListPrice": { "Amount": 4199, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 4199, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/28118-en-bi003681-purple.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "/globalassets/digizuite/28117-en-bi003681-purple-swatch.jpg",
+        "SavingPercent": 0,
+        "Order": 0
+      },
+      {
+        "Code": "BI003681 LARGE PURPLE",
+        "Color": "Purple",
+        "ListPrice": { "Amount": 4199, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 4199, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/28118-en-bi003681-purple.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "/globalassets/digizuite/28117-en-bi003681-purple-swatch.jpg",
+        "SavingPercent": 0,
+        "Order": 0
+      },
+      {
+        "Code": "BI003681 X LARGE PURPLE",
+        "Color": "Purple",
+        "ListPrice": { "Amount": 4199, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 4199, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/28118-en-bi003681-purple.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "/globalassets/digizuite/28117-en-bi003681-purple-swatch.jpg",
+        "SavingPercent": 0,
+        "Order": 0
+      }
+    ],
+    "FacetFieldsDictionary": {
+      "MultiValueFeatures": [
+        "SRAM Components",
+        "Dropper Seatpost",
+        "Internal Cable Routing"
+      ],
+      "Size": ["Extra Small", "Small", "Medium", "Large", "Extra Large"],
+      "Color": ["Fire Orange", "Purple"],
+      "FinancingAvailable": ["True"],
+      "MultiValueDiscipline": ["MTB"],
+      "Gender": ["Men"],
+      "RearSuspensionType": ["Full Suspension"],
+      "BikeModel": ["Kona Process"],
+      "ForkTravel": ["140mm"],
+      "DrivetrainType": ["1x12 Speed"],
+      "WheelSize": ["27.5\""],
+      "MultiValueIntendedUse": ["Trail / All-Mountain"],
+      "FrameMaterial": ["Aluminum"]
+    },
+    "CatalogNodeCodes": [
+      "C0000QE6",
+      "C0000QE5",
+      "5637144578",
+      "5637144576",
+      "Kona",
+      "Financing_1",
+      "Featured",
+      "FSMTBIKES",
+      "TRAMMTBIKES",
+      "275MTBBIKES"
+    ],
+    "Price": ["$3,149.94", "$4,199.00"],
+    "SortPrice": 3149.94,
+    "Discount": 25,
+    "Brand": "Kona",
+    "AverageRating": 5,
+    "NumberOfReviews": 1,
+    "ImageUrl": null,
+    "Published": "2022-12-05T18:44:50.14+00:00",
+    "ColorVariantsToShow": [
+      {
+        "Code": "BI003681 X SMALL ORANGE",
+        "Color": "Fire Orange",
+        "ListPrice": { "Amount": 3149.94, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 4199, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/28047-en-bi003681-fire-orange.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/28048-en-bi003681-fire-orange-swatch.jpg?w=30&h=30&fit=max&auto=format&q=70",
+        "SavingPercent": 25,
+        "Order": 0
+      },
+      {
+        "Code": "BI003681 X SMALL PURPLE",
+        "Color": "Purple",
+        "ListPrice": { "Amount": 4199, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 4199, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/28118-en-bi003681-purple.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/28117-en-bi003681-purple-swatch.jpg?w=30&h=30&fit=max&auto=format&q=70",
+        "SavingPercent": 0,
+        "Order": 0
+      }
+    ]
+  },
+  {
+    "Id": 452019,
+    "Name": "Rocky Mountain Instinct Alloy 10 27.5 Bike 2023",
+    "Code": "BI003759",
+    "Url": "/Rocky-Mountain-Instinct-Alloy-10-275-Bike-2023",
+    "IsOnSale": false,
+    "IsNew": false,
+    "Created": "2023-01-07T04:44:40+00:00",
+    "SelectedVariant": {
+      "Code": "BI003759 BROWN S",
+      "Color": "Brown",
+      "ListPrice": { "Amount": 2899, "Currency": "USD" },
+      "MsrpPrice": { "Amount": 2899, "Currency": "USD" },
+      "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/29168-en-bi003759-brown.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+      "SwatchImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/29167-en-bi003759-brown-swatch.jpg?w=30&h=30&fit=max&auto=format&q=70",
+      "SavingPercent": 0,
+      "Order": 0
+    },
+    "Variants": [
+      {
+        "Code": "BI003759 BROWN S",
+        "Color": "Brown",
+        "ListPrice": { "Amount": 2899, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 2899, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/29168-en-bi003759-brown.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/29167-en-bi003759-brown-swatch.jpg?w=30&h=30&fit=max&auto=format&q=70",
+        "SavingPercent": 0,
+        "Order": 0
+      },
+      {
+        "Code": "BI003759 BROWN XS",
+        "Color": "Brown",
+        "ListPrice": { "Amount": 2899, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 2899, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/29168-en-bi003759-brown.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "/globalassets/digizuite/29167-en-bi003759-brown-swatch.jpg",
+        "SavingPercent": 0,
+        "Order": 0
+      }
+    ],
+    "FacetFieldsDictionary": {
+      "MultiValueFeatures": [
+        "Shimano Components",
+        "Dropper Seatpost",
+        "Internal Cable Routing"
+      ],
+      "Size": ["Small", "Extra Small"],
+      "Color": ["Brown"],
+      "FinancingAvailable": ["True"],
+      "MultiValueDiscipline": ["MTB"],
+      "Gender": ["Men"],
+      "RearSuspensionType": ["Full Suspension"],
+      "BikeModel": ["Rocky Mountain Instinct"],
+      "ForkTravel": ["150mm"],
+      "DrivetrainType": ["1x11 Speed"],
+      "WheelSize": ["27.5\""],
+      "MultiValueIntendedUse": ["Trail / All-Mountain"],
+      "ModelYear": ["2023"],
+      "FrameMaterial": ["Aluminum"]
+    },
+    "CatalogNodeCodes": [
+      "C0000QE6",
+      "C0000QE5",
+      "5637144578",
+      "5637144576",
+      "Financing_1",
+      "Featured",
+      "Rocky Mountain",
+      "FSMTBIKES",
+      "TRAMMTBIKES",
+      "275MTBBIKES"
+    ],
+    "Price": ["$2,899.00"],
+    "SortPrice": 2899,
+    "Discount": 0,
+    "Brand": "Rocky Mountain",
+    "AverageRating": 0,
+    "NumberOfReviews": 0,
+    "ImageUrl": null,
+    "Published": "2023-01-25T21:51:02+00:00",
+    "ColorVariantsToShow": [
+      {
+        "Code": "BI003759 BROWN S",
+        "Color": "Brown",
+        "ListPrice": { "Amount": 2899, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 2899, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/29168-en-bi003759-brown.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/29167-en-bi003759-brown-swatch.jpg?w=30&h=30&fit=max&auto=format&q=70",
+        "SavingPercent": 0,
+        "Order": 0
+      }
+    ]
+  },
+  {
+    "Id": 452022,
+    "Name": "Rocky Mountain Altitude Carbon 50 27.5 Bike 2023",
+    "Code": "BI003763",
+    "Url": "/Rocky-Mountain-Altitude-Carbon-50-275-Bike-2023",
+    "IsOnSale": false,
+    "IsNew": false,
+    "Created": "2023-01-07T04:44:41+00:00",
+    "SelectedVariant": {
+      "Code": "BI003763 RED S",
+      "Color": "Red/Grey",
+      "ListPrice": { "Amount": 6199, "Currency": "USD" },
+      "MsrpPrice": { "Amount": 6199, "Currency": "USD" },
+      "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/28996-en-bi003763-red~grey.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+      "SwatchImageUrl": "/globalassets/digizuite/28995-en-bi003763-red~grey-swatch.jpg",
+      "SavingPercent": 0,
+      "Order": 0
+    },
+    "Variants": [
+      {
+        "Code": "BI003763 RED S",
+        "Color": "Red/Grey",
+        "ListPrice": { "Amount": 6199, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 6199, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/28996-en-bi003763-red~grey.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "/globalassets/digizuite/28995-en-bi003763-red~grey-swatch.jpg",
+        "SavingPercent": 0,
+        "Order": 0
+      }
+    ],
+    "FacetFieldsDictionary": {
+      "MultiValueFeatures": [
+        "Shimano Components",
+        "Dropper Seatpost",
+        "Internal Cable Routing"
+      ],
+      "Size": ["Small"],
+      "Color": ["Red/Grey"],
+      "FinancingAvailable": ["True"],
+      "MultiValueDiscipline": ["MTB"],
+      "Gender": ["Men"],
+      "RearSuspensionType": ["Full Suspension"],
+      "BikeModel": ["Rocky Mountain Altitude"],
+      "ForkTravel": ["170mm"],
+      "DrivetrainType": ["1x12 Speed"],
+      "WheelSize": ["29\""],
+      "MultiValueIntendedUse": ["Enduro"],
+      "ModelYear": ["2023"],
+      "FrameMaterial": ["Aluminum"]
+    },
+    "CatalogNodeCodes": [
+      "C0000QE6",
+      "C0000QE5",
+      "5637144578",
+      "5637144576",
+      "Financing_1",
+      "Featured",
+      "Rocky Mountain",
+      "ENMTBIKES",
+      "FSMTBIKES",
+      "275MTBBIKES"
+    ],
+    "Price": ["$6,199.00"],
+    "SortPrice": 6199,
+    "Discount": 0,
+    "Brand": "Rocky Mountain",
+    "AverageRating": 0,
+    "NumberOfReviews": 0,
+    "ImageUrl": null,
+    "Published": "2023-01-23T23:27:06+00:00",
+    "ColorVariantsToShow": []
+  },
+  {
+    "Id": 452111,
+    "Name": "Rocky Mountain Element Alloy 30 27.5 Bike 2023",
+    "Code": "BI003748",
+    "Url": "/Rocky-Mountain-Element-Alloy-30-275-Bike-2023",
+    "IsOnSale": false,
+    "IsNew": false,
+    "Created": "2023-01-07T04:45:16+00:00",
+    "SelectedVariant": {
+      "Code": "BI003748 GREEN XS",
+      "Color": "Green",
+      "ListPrice": { "Amount": 3299, "Currency": "USD" },
+      "MsrpPrice": { "Amount": 3299, "Currency": "USD" },
+      "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/28928-en-bi003748-green.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+      "SwatchImageUrl": "/globalassets/digizuite/28927-en-bi003748-green-swatch.jpg",
+      "SavingPercent": 0,
+      "Order": 0
+    },
+    "Variants": [
+      {
+        "Code": "BI003748 GREEN XS",
+        "Color": "Green",
+        "ListPrice": { "Amount": 3299, "Currency": "USD" },
+        "MsrpPrice": { "Amount": 3299, "Currency": "USD" },
+        "ImageUrl": "https://jnsn.imgix.net/globalassets/digizuite/28928-en-bi003748-green.jpg?w=250&h=300&auto=format&q=70&fit=fillmax&fill-color=ffffff&fill=solid",
+        "SwatchImageUrl": "/globalassets/digizuite/28927-en-bi003748-green-swatch.jpg",
+        "SavingPercent": 0,
+        "Order": 0
+      }
+    ],
+    "FacetFieldsDictionary": {
+      "MultiValueFeatures": [
+        "Shimano Components",
+        "Dropper Seatpost",
+        "Internal Cable Routing"
+      ],
+      "Size": ["Extra Small"],
+      "Color": ["Green"],
+      "FinancingAvailable": ["True"],
+      "MultiValueDiscipline": ["MTB"],
+      "Gender": ["Men"],
+      "RearSuspensionType": ["Full Suspension"],
+      "BikeModel": ["Rocky Mountain Element"],
+      "ForkTravel": ["130mm"],
+      "DrivetrainType": ["1x12 Speed"],
+      "WheelSize": ["27.5\""],
+      "MultiValueIntendedUse": ["Trail / All-Mountain"],
+      "ModelYear": ["2023"],
+      "FrameMaterial": ["Aluminum"]
+    },
+    "CatalogNodeCodes": [
+      "C0000QE6",
+      "C0000QE5",
+      "5637144578",
+      "5637144576",
+      "Financing_1",
+      "Featured",
+      "Rocky Mountain",
+      "FSMTBIKES",
+      "TRAMMTBIKES",
+      "275MTBBIKES"
+    ],
+    "Price": ["$3,299.00"],
+    "SortPrice": 3299,
+    "Discount": 0,
+    "Brand": "Rocky Mountain",
+    "AverageRating": 0,
+    "NumberOfReviews": 0,
+    "ImageUrl": null,
+    "Published": "2023-01-20T01:26:33+00:00",
+    "ColorVariantsToShow": []
+  }
+]
