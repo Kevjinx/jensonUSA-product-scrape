@@ -1,0 +1,145 @@
+{
+  "name": "MARIN RIFT ZONE 1 BIKE 2022",
+  "images": [
+    "https://www.jensonusa.com/globalassets/product-images---all-assets/marin/bi001982-grey~black~blue.jpg",
+    "https://www.jensonusa.com/globalassets/product-images---all-assets/marin/bi001982_1-grey~black~blue.jpg",
+    "https://www.jensonusa.com/globalassets/product-images---all-assets/marin/bi001982_2-grey~black~blue.jpg",
+    "https://www.jensonusa.com/globalassets/product-images---all-assets/marin/bi001982_3-grey~black~blue.jpg",
+    "https://www.jensonusa.com/globalassets/product-images---all-assets/marin/bi001982_4-grey~black~blue.jpg"
+  ],
+  "specifications": {
+    "Frame": "Series 3 6061 Aluminum",
+    "Fork": "RockShox Recon Silver RL, 130mm Travel",
+    "Rear Shock": "X-Fusion O2 Pro R, Custom Tune, 210 x 50mm",
+    "Headset": "FSA No.57E, Semi-Sealed Cartridge Bearings",
+    "Shifters": "Shimano Deore, 11-Speed",
+    "Front Derailleur": "Nope",
+    "Rear Derailleur": "Shimano Deore SGS, Shadow Plus",
+    "Crankset": "Marin Forged Alloy, 32T",
+    "Bottom Bracket": "External Sealed Cartridge Bearing",
+    "Chain": "KMC X11",
+    "Cassette": "SunRace, 11-51T",
+    "Brakes": "Shimano BR-MT201 Hydraulic",
+    "Wheelset": "Marin Aluminum Double Wall Rims, Shimano MT200B/MT400B Hubs",
+    "Tires": "Vee Tire Crown Gem, 29 x 2.3\" TR",
+    "Handlebar": "Marin Mini-Riser 6061, 780mm Width, 28mm Rise",
+    "Stem": "Marin 3D Forged Alloy, 35mm",
+    "Grips/Bar Tape": "Marin MTN, Closed End",
+    "Seatpost": "Marin Alloy, 30.9mm",
+    "Seatclamp": "Quick-Release",
+    "Saddle": "Marin Speed Concept",
+    "Intended Use": "Trail"
+  },
+  "geometry": {
+    "SIZE": {
+      "Small": "Small",
+      "Medium": "Medium",
+      "Large": "Large",
+      "Extra Large": "Extra Large"
+    },
+    "A: SEAT TUBE LENGTH": {
+      "Small": "390",
+      "Medium": "400",
+      "Large": "425",
+      "Extra Large": "430"
+    },
+    "B: EFFECTIVE TOP TUBE": {
+      "Small": "580",
+      "Medium": "606",
+      "Large": "632.5",
+      "Extra Large": "668"
+    },
+    "C: STACK": {
+      "Small": "602",
+      "Medium": "607",
+      "Large": "611",
+      "Extra Large": "616"
+    },
+    "D: REACH": {
+      "Small": "430",
+      "Medium": "455",
+      "Large": "480",
+      "Extra Large": "515"
+    },
+    "E: BB HEIGHT": {
+      "Small": "344",
+      "Medium": "344",
+      "Large": "344",
+      "Extra Large": "344"
+    },
+    "F: BB DROP": {
+      "Small": "34",
+      "Medium": "34",
+      "Large": "34",
+      "Extra Large": "34"
+    },
+    "G: HEAD TUBE LENGTH": {
+      "Small": "100",
+      "Medium": "105",
+      "Large": "110",
+      "Extra Large": "115"
+    },
+    "H: HEAD TUBE ANGLE": {
+      "Small": "65.5 °",
+      "Medium": "65.5 °",
+      "Large": "65.5 °",
+      "Extra Large": "65.5 °"
+    },
+    "I: SEAT TUBE ANGLE": {
+      "Small": "76 °",
+      "Medium": "76 °",
+      "Large": "76 °",
+      "Extra Large": "76 °"
+    },
+    "J: STANDOVER HEIGHT": {
+      "Small": "691",
+      "Medium": "697",
+      "Large": "717",
+      "Extra Large": "721"
+    },
+    "K: CHAINSTAY LENGTH": {
+      "Small": "425",
+      "Medium": "425",
+      "Large": "425",
+      "Extra Large": "425"
+    },
+    "L: WHEELBASE": {
+      "Small": "1158",
+      "Medium": "1186",
+      "Large": "1213",
+      "Extra Large": "1252"
+    },
+    "CRANK ARM LENGTH": {
+      "Small": "170 mm",
+      "Medium": "175 mm",
+      "Large": "175 mm",
+      "Extra Large": "175 mm"
+    },
+    "STEM LENGTH": {
+      "Small": "35 mm",
+      "Medium": "35 mm",
+      "Large": "35 mm",
+      "Extra Large": "35 mm"
+    },
+    "HANDLEBAR WIDTH": {
+      "Small": "780 mm",
+      "Medium": "780 mm",
+      "Large": "780 mm",
+      "Extra Large": "780 mm"
+    }
+  },
+  "suggestedRiderHeight": {
+    "FRAME SIZE": {
+      "Small": "Small",
+      "Medium": "Medium",
+      "Large": "Large",
+      "Extra Large": "Extra Large"
+    },
+    "RIDER HEIGHT": {
+      "Small": "5'3\" - 5'6\"",
+      "Medium": "5'6\" - 5'10\"",
+      "Large": "5'10\" - 6'2\"",
+      "Extra Large": "6'2\" - 6'4\""
+    }
+  }
+}
