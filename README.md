@@ -1,1 +1,19 @@
-<div class="markdown prose w-full break-words dark:prose-invert dark"><p>Sure! Here's a markdown version of the text you provided:</p><h1>Project Name</h1><p>Brief introduction of the project</p><h2>Table of Contents</h2><ul><li><a href="#installation" target="_new">Installation</a></li><li><a href="#usage" target="_new">Usage</a></li><li><a href="#contributing" target="_new">Contributing</a></li><li><a href="#license" target="_new">License</a></li><li><a href="#acknowledgements" target="_new">Acknowledgements</a></li></ul><h2>Installation</h2><p>Step-by-step instructions for how to install and run the project, including any dependencies that need to be installed.</p><h2>Usage</h2><p>Instructions for how to use the project, including any command line arguments, environment variables, or other configuration options.</p><h2>Contributing</h2><p>Information for how others can contribute to the project, including guidelines for submitting pull requests or bug reports.</p><h2>License</h2><p>Information about the project's license, including which open-source license it uses and any additional terms and conditions.</p><h2>Acknowledgements</h2><p>Optional section for thanking anyone who contributed to the project or provided inspiration.</p></div>
+# Scrape JensonUSA Product Data
+
+Using Puppeteer and Nodejs to scrape product data from JensonUSA.com
+
+## Table of Contents
+
+- [Installation](#installation)
+- [Usage](#usage)
+
+## Installation
+
+npm install
+npm start
+
+This will create a `data` folder with .json files containing all the scraped data for each product category (submenu).
+
+## Usage
+
+The data is already scraped and saved in the `data` folder. If you want to scrape the data again, you can run `npm start` again.
