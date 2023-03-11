@@ -52,23 +52,22 @@ import fs from 'fs';
 
     const tableRows = table.querySelectorAll('tr');
 
-    let geometryResult = {};
+    let geometryResult = [];
 
     tableRows.forEach((row) => {
       const sizes = Array.from(tableRows[0].querySelectorAll('td'));
       const header = row.querySelector('th');
       const tdata = row.querySelectorAll('td');
+      let geometryObj = {
+        [header.innerText]: {},
+      };
       tdata.forEach((td, index) => {
         const size = sizes[index].innerText;
         const value = td.innerText;
-        geometryResult = {
-          ...geometryResult,
-          [header.innerText]: {
-            ...geometryResult[header.innerText],
-            [size]: value,
-          },
-        };
+        geometryObj[header.innerText][size] = value;
       });
+      geometryResult.push(geometryObj);
+      return geometryObj;
     });
     return geometryResult;
   });
@@ -99,9 +98,9 @@ import fs from 'fs';
   });
 
   const prices = await page.evaluate(() => {
-    const mrsp = document.querySelector('span.msrp > span').innerText;
+    const msrp = document.querySelector('span.msrp > span').innerText;
     const currentPrice = document.querySelector('#price').innerText;
-    return { mrsp, currentPrice };
+    return { msrp, currentPrice };
   });
 
   await page.click('#prod-tab-D > a');

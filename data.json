@@ -30,104 +30,136 @@
     "Saddle": "Marin Speed Concept",
     "Intended Use": "Trail"
   },
-  "geometry": {
-    "SIZE": {
-      "Small": "Small",
-      "Medium": "Medium",
-      "Large": "Large",
-      "Extra Large": "Extra Large"
+  "geometry": [
+    {
+      "SIZE": {
+        "Small": "Small",
+        "Medium": "Medium",
+        "Large": "Large",
+        "Extra Large": "Extra Large"
+      }
     },
-    "A: SEAT TUBE LENGTH": {
-      "Small": "390",
-      "Medium": "400",
-      "Large": "425",
-      "Extra Large": "430"
+    {
+      "A: SEAT TUBE LENGTH": {
+        "Small": "390",
+        "Medium": "400",
+        "Large": "425",
+        "Extra Large": "430"
+      }
     },
-    "B: EFFECTIVE TOP TUBE": {
-      "Small": "580",
-      "Medium": "606",
-      "Large": "632.5",
-      "Extra Large": "668"
+    {
+      "B: EFFECTIVE TOP TUBE": {
+        "Small": "580",
+        "Medium": "606",
+        "Large": "632.5",
+        "Extra Large": "668"
+      }
     },
-    "C: STACK": {
-      "Small": "602",
-      "Medium": "607",
-      "Large": "611",
-      "Extra Large": "616"
+    {
+      "C: STACK": {
+        "Small": "602",
+        "Medium": "607",
+        "Large": "611",
+        "Extra Large": "616"
+      }
     },
-    "D: REACH": {
-      "Small": "430",
-      "Medium": "455",
-      "Large": "480",
-      "Extra Large": "515"
+    {
+      "D: REACH": {
+        "Small": "430",
+        "Medium": "455",
+        "Large": "480",
+        "Extra Large": "515"
+      }
     },
-    "E: BB HEIGHT": {
-      "Small": "344",
-      "Medium": "344",
-      "Large": "344",
-      "Extra Large": "344"
+    {
+      "E: BB HEIGHT": {
+        "Small": "344",
+        "Medium": "344",
+        "Large": "344",
+        "Extra Large": "344"
+      }
     },
-    "F: BB DROP": {
-      "Small": "34",
-      "Medium": "34",
-      "Large": "34",
-      "Extra Large": "34"
+    {
+      "F: BB DROP": {
+        "Small": "34",
+        "Medium": "34",
+        "Large": "34",
+        "Extra Large": "34"
+      }
     },
-    "G: HEAD TUBE LENGTH": {
-      "Small": "100",
-      "Medium": "105",
-      "Large": "110",
-      "Extra Large": "115"
+    {
+      "G: HEAD TUBE LENGTH": {
+        "Small": "100",
+        "Medium": "105",
+        "Large": "110",
+        "Extra Large": "115"
+      }
     },
-    "H: HEAD TUBE ANGLE": {
-      "Small": "65.5 °",
-      "Medium": "65.5 °",
-      "Large": "65.5 °",
-      "Extra Large": "65.5 °"
+    {
+      "H: HEAD TUBE ANGLE": {
+        "Small": "65.5 °",
+        "Medium": "65.5 °",
+        "Large": "65.5 °",
+        "Extra Large": "65.5 °"
+      }
     },
-    "I: SEAT TUBE ANGLE": {
-      "Small": "76 °",
-      "Medium": "76 °",
-      "Large": "76 °",
-      "Extra Large": "76 °"
+    {
+      "I: SEAT TUBE ANGLE": {
+        "Small": "76 °",
+        "Medium": "76 °",
+        "Large": "76 °",
+        "Extra Large": "76 °"
+      }
     },
-    "J: STANDOVER HEIGHT": {
-      "Small": "691",
-      "Medium": "697",
-      "Large": "717",
-      "Extra Large": "721"
+    {
+      "J: STANDOVER HEIGHT": {
+        "Small": "691",
+        "Medium": "697",
+        "Large": "717",
+        "Extra Large": "721"
+      }
     },
-    "K: CHAINSTAY LENGTH": {
-      "Small": "425",
-      "Medium": "425",
-      "Large": "425",
-      "Extra Large": "425"
+    {
+      "K: CHAINSTAY LENGTH": {
+        "Small": "425",
+        "Medium": "425",
+        "Large": "425",
+        "Extra Large": "425"
+      }
     },
-    "L: WHEELBASE": {
-      "Small": "1158",
-      "Medium": "1186",
-      "Large": "1213",
-      "Extra Large": "1252"
+    {
+      "L: WHEELBASE": {
+        "Small": "1158",
+        "Medium": "1186",
+        "Large": "1213",
+        "Extra Large": "1252"
+      }
     },
-    "CRANK ARM LENGTH": {
-      "Small": "170 mm",
-      "Medium": "175 mm",
-      "Large": "175 mm",
-      "Extra Large": "175 mm"
+    {
+      "CRANK ARM LENGTH": {
+        "Small": "170 mm",
+        "Medium": "175 mm",
+        "Large": "175 mm",
+        "Extra Large": "175 mm"
+      }
     },
-    "STEM LENGTH": {
-      "Small": "35 mm",
-      "Medium": "35 mm",
-      "Large": "35 mm",
-      "Extra Large": "35 mm"
+    {
+      "STEM LENGTH": {
+        "Small": "35 mm",
+        "Medium": "35 mm",
+        "Large": "35 mm",
+        "Extra Large": "35 mm"
+      }
     },
-    "HANDLEBAR WIDTH": {
-      "Small": "780 mm",
-      "Medium": "780 mm",
-      "Large": "780 mm",
-      "Extra Large": "780 mm"
+    {
+      "HANDLEBAR WIDTH": {
+        "Small": "780 mm",
+        "Medium": "780 mm",
+        "Large": "780 mm",
+        "Extra Large": "780 mm"
+      }
     }
-  },
+  ],
   "suggestedRiderHeight": {
     "FRAME SIZE": {
       "Small": "Small",
@@ -142,7 +174,7 @@
       "Extra Large": "6'2\" - 6'4\""
     }
   },
-  "prices": { "mrsp": "$1,899.00", "currentPrice": "$1,399.94" },
+  "prices": { "msrp": "$1,899.00", "currentPrice": "$1,399.94" },
   "reviews": [
     {
       "reviewerName": "Theresa Stroumbos",
