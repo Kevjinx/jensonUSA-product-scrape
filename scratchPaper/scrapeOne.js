@@ -1,6 +1,8 @@
 import puppeteer from 'puppeteer';
 import fs from 'fs';
 
+// NOT NEEDED anymore because jensonusa has jsonData inside the html!!!!
+// see getBikeDataSubmenu.js
 (async () => {
   console.log('Running Puppeteer script...');
   const browser = await puppeteer.launch({

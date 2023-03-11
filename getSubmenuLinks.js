@@ -1,7 +1,6 @@
 import puppeteer from 'puppeteer';
-import fs from 'fs';
 
-(async () => {
+export const getSubmenuLinks = async () => {
   console.log('Running Puppeteer script...');
 
   const browser = await puppeteer.launch({
@@ -25,9 +24,7 @@ import fs from 'fs';
     return array;
   });
 
-  fs.writeFile('links.json', JSON.stringify(links), (err) => {
-    if (err) throw err;
-    console.log('The file has been saved!');
-  });
   await browser.close();
-})();
+
+  return links;
+};
