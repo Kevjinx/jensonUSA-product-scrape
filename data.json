@@ -141,5 +141,71 @@
       "Large": "5'10\" - 6'2\"",
       "Extra Large": "6'2\" - 6'4\""
     }
-  }
+  },
+  "prices": { "mrsp": "$1,899.00", "currentPrice": "$1,399.94" },
+  "reviews": [
+    {
+      "reviewerName": "Theresa Stroumbos",
+      "headingText": "Perfect Beginner Bike",
+      "reviewText": "I am brand new to mountain biking but athletic and this bike is perfect so far. It’s super fun to ride, and came assembled perfectly. I had a local bike shop give me a run through, and they checked assembly to be sure and everything was solid. I got a medium, and am 5’7” with long legs. I will add a dropper post someday, but so far so good!",
+      "ratingText": "Rated 5 out of 5",
+      "reviewDate": "Jul 26, 2021"
+    },
+    {
+      "reviewerName": "Kevin",
+      "headingText": "First full suspension bike",
+      "reviewText": "This is my first full suspension mountain bike and I've been riding hard tails for about two decades now. I absolutely love the way this bike handles curves and uphill and downhill. I've been able to climb better with the full  suspension than I would have with my old hard tails. It feels easier to handle and the ride is smoother. It's very light. It does nicely on jumps and step downs too. I'm able to control the bike better.  For reference I'm 6'2 280 lbs and I went with the XL and it was the best choice for me.",
+      "ratingText": "Rated 5 out of 5",
+      "reviewDate": "Mar 9, 2023"
+    },
+    {
+      "reviewerName": "James",
+      "headingText": "Just Buy It!",
+      "reviewText": "Just finished my first ride with this bike.  I love it.  Yes you can buy a nicer bike, but for the money this is a nice ride.  My only take away is that it should come with a dropper but for the price its not a huge deal.",
+      "ratingText": "Rated 4 out of 5",
+      "reviewDate": "Mar 4, 2023"
+    },
+    {
+      "reviewerName": "Joel",
+      "headingText": "Winner!!!",
+      "reviewText": "You can find a better full suspension MTB in this price range.....insane value for the price. I was frozen in analysis paralysis between the Marin RZ1 vs. the Giant Stance and I couldn't be happier with my RZ1-29er. I'm 6' even and 170-175lbs depending on pizza consumption, so I'm riding size large.  I've been running downhill, technical climbs, flow and rump trails, and a bit of rugged XC, and this bike takes it all in stride.Pros:Both the front and rear shock have been more adjustable than I would have expected. The slack head angle makes the slow technical XC trails a little tricky, but it provides huge benefits for climbing and speedy descents.Cons:There really isn't much to dislike, but its worth mentioning that the RZ1 does not come with a dropper post. And the stock seat post is sure long, so you cant lower the seat all the way without cutting the post down  significantly. That's an easy process with a hack saw and a file, but you can add a dropper for under $200 if you self-install.Overall, I cant recommend the RZ1 highly enough. If you're in the market for an affordable full suspension MTB then the Marin RZ1 is a smart place to invest your hard-earned coin.",
+      "ratingText": "Rated 5 out of 5",
+      "reviewDate": "Jun 2, 2022"
+    },
+    {
+      "reviewerName": "Ian Hu",
+      "headingText": "Tear up the trails",
+      "reviewText": "Fantastic bike. A perfect \"entry level\" serious mountain bike.",
+      "ratingText": "Rated 5 out of 5",
+      "reviewDate": "May 15, 2021"
+    },
+    {
+      "reviewerName": "Justin",
+      "headingText": "Finally",
+      "reviewText": "Ok, I've been riding on and off for a really long time.  Always had a hardtail.  I finally decided to spoil myself and get this Marin rift zone 1.  I've ridden it a few times and I cant help smiling the whole time on on it.  I know this is not some state of the art ground shaking bike.  It's all I needed.  Love it.",
+      "ratingText": "Rated 5 out of 5",
+      "reviewDate": "Mar 6, 2023"
+    },
+    {
+      "reviewerName": "David",
+      "headingText": "Rift Zone Fun!",
+      "reviewText": "This bike thrives downhill and jumping! Does okay climbing. Very playful and nimble bike. I love the stand over height and short chainstay.",
+      "ratingText": "Rated 5 out of 5",
+      "reviewDate": "Feb 17, 2023"
+    },
+    {
+      "reviewerName": "Michael",
+      "headingText": "So far so good",
+      "reviewText": "So far, the bike works great! The only thing I wished was different was the breaks. It takes a while to stop this bike and a dropper post would be great too, but I guess you get what you pay for. Everything else works perfect. I just hope it lasts a few years without breaking.",
+      "ratingText": "Rated 5 out of 5",
+      "reviewDate": "Jan 9, 2023"
+    },
+    {
+      "reviewerName": "Marcos",
+      "headingText": "Existente",
+      "reviewText": "Excelente bicicleta WAAAOOO,  me encanta es otra cosa",
+      "ratingText": "Rated 5 out of 5",
+      "reviewDate": "Dec 18, 2022"
+    }
+  ]
 }

@@ -4,7 +4,7 @@ import fs from 'fs';
 (async () => {
   console.log('Running Puppeteer script...');
   const browser = await puppeteer.launch({
-    headless: true,
+    headless: false,
     args: ['--disable-web-security'],
   });
   const page = await browser.newPage();
@@ -98,12 +98,58 @@ import fs from 'fs';
     return result;
   });
 
+  const prices = await page.evaluate(() => {
+    const mrsp = document.querySelector('span.msrp > span').innerText;
+    const currentPrice = document.querySelector('#price').innerText;
+    return { mrsp, currentPrice };
+  });
+
+  await page.click('#prod-tab-D > a');
+  await page.waitForSelector('#tt-reviews-summary');
+
+  const reviews = await page.evaluate(() => {
+    const allReviews = document.querySelectorAll('div.tt-u-spacing--sm');
+    let reviewsArray = [];
+    allReviews.forEach((review) => {
+      try {
+        const headingText = review.querySelector(
+          '.tt-c-review__heading-text'
+        ).innerText;
+        const ratingText = review.querySelector('.tt-u-clip-hide').innerText;
+        const reviewText = review.querySelector(
+          '.tt-c-review__text-content'
+        ).innerText;
+        const reviewDate = review.querySelector('.tt-c-review__date').innerText;
+        const reviewerName = review.querySelector(
+          '.tt-o-byline__author'
+        ).innerText;
+
+        const reviewObj = {
+          reviewerName,
+          headingText,
+          reviewText,
+          ratingText,
+          reviewDate,
+        };
+        console.log('reviewObj: ', reviewObj);
+
+        reviewsArray.push(reviewObj);
+      } catch (error) {
+        console.log(error);
+      }
+    });
+
+    return reviewsArray;
+  });
+
   const data = {
     name,
     images,
     specifications,
     geometry,
     suggestedRiderHeight,
+    prices,
+    reviews,
   };
 
   fs.writeFile('data.json', JSON.stringify(data), (err) => {
@@ -111,5 +157,5 @@ import fs from 'fs';
     console.log('The file has been saved!');
   });
 
-  await browser.close();
+  // await browser.close();
 })();
