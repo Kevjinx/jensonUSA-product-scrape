@@ -1,6 +1,6 @@
 import puppeteer from 'puppeteer';
 
-// returns the 'data-product-result-dto' data from each bike on the page, HELLA DATA!!!!!!
+// takes in a url and returns the 'data-product-result-dto' data from each bike on the page, HELLA DATA!!!!!!
 
 export const getBikeDataSubmenu = async (url) => {
   console.log('Running Puppeteer script...');

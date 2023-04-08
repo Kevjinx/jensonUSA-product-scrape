@@ -11,6 +11,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "fs-extra": "^11.1.1",
     "puppeteer": "^19.7.4",
     "puppeteer-core": "^19.7.4"
   },
