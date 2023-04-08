@@ -1,26 +1,29 @@
 import fs from 'fs-extra';
 
 const simplifyJson = (jsonObj) => {
-  const simplified = {};
+  const simplified = [];
 
   for (const key in jsonObj) {
     const obj = jsonObj[key];
-    simplified[key] = {
+    const newObj = {
       name: obj.Name,
       imageUrl: obj.SelectedVariant.ImageUrl,
       brand: obj.Brand,
       price: obj.Price[0],
-      MultiValueDiscipline: obj.FacetFieldsDictionary.MultiValueDiscipline,
-      WheelSize: obj.FacetFieldsDictionary.WheelSize,
-      DrivetrainType: obj.FacetFieldsDictionary.DrivetrainType,
-      BikeModel: obj.FacetFieldsDictionary.BikeModel,
-      RearSuspensionType: obj.FacetFieldsDictionary.RearSuspensionType,
-      ForkTravel: obj.FacetFieldsDictionary.ForkTravel,
+      discipline: obj.FacetFieldsDictionary.MultiValueDiscipline,
+      wheelSize: obj.FacetFieldsDictionary.WheelSize,
+      drivetrainType: obj.FacetFieldsDictionary.DrivetrainType,
+      bikeModel: obj.FacetFieldsDictionary.BikeModel,
+      rearSuspensionType: obj.FacetFieldsDictionary.RearSuspensionType,
+      forkTravel: obj.FacetFieldsDictionary.ForkTravel,
+      averageRating: obj.AverageRating,
+      reviewCount: obj.NumberOfReviews,
     };
+    simplified.push(newObj);
   }
 
   fs.writeFile(
-    'simplifiedMtbBikes.json',
+    'simplifiedMtbBikesArray.json',
     JSON.stringify(simplified, null, 2),
     (err) => {
       if (err) throw err;
