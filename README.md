@@ -4,7 +4,7 @@ Using Puppeteer and Nodejs to scrape product data from JensonUSA.com
 
 You can also download the data from my Kaggle:
 
-[https://www.kaggle.com/andrewmvd/jenson-usa-product-data](https://www.kaggle.com/datasets/audiblepotahto/jensonusa-product-data)
+[[https://www.kaggle.com/andrewmvd/jenson-usa-product-data](https://www.kaggle.com/datasets/audiblepotahto/jensonusa-product-data)](https://www.kaggle.com/datasets/audiblepotahto/jensonusa-product-data)
 
 ## Table of Contents
 
